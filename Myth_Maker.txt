@@ -246,6 +246,7 @@ Bones- 3
 Metabolism- 3
 Muscles- 4
 Skin- 5
+Tendons- 5 (with secretions)- 4
 Location Flesh Armor
 Blunt
 Armor
