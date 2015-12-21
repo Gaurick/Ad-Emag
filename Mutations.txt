@@ -606,12 +606,8 @@ This is what the chart means
 
 Name- What the mutation is titled, as well as what result on a roll you have to get to receive the
 mutation randomly.
-
 Description- A brief description of the mutations effects.
-
 Possible Causes- Some reasons that one may get the mutation either during creation or after
 syrum usage.
-
 Negatives- How the mutation hinders you.
-
 Bonuses- How the mutation helps you.
