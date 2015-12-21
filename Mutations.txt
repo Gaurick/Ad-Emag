@@ -334,389 +334,284 @@ Just bad luck, sorry
 Must eat constantly 
 +1 to Metabolism, may digest anything
 
-(56) Inherited
-memories
-You possess
-memories that your
-parents possessed
-while you were
-conceived
-Just bad luck, sorry Confused as to who
-you are
+(56) Inherited memories
+You possess memories that your parents possessed while you were  conceived
+Just bad luck, sorry 
+Confused as to who you are
 +1 to Abstract
-(57) Androgynous You look like a cross
-between a man and
-a woman, with a
-little more woman,
-and no genitals
-Just bad luck, sorry No genitals None
-(58) Hermaphrodite You posses the
-genitals of a man
-AND a woman
-Just bad luck, sorry Impotent None
-(59) Altered
-perception
-You see the visual
-spectrum as well as
-the ultraviolet
-spectrum
-Having bad eyes Nothing quite looks
-right
-Able to see
-pheromones given
-off by living objects
-(60) Extra stomachs You have an extra
-stomach or two
-Consuming beef Must eat twice as
-much
+
+(57) Androgynous 
+You look like a cross between a man and a woman, with a little more woman, and no genitals
+Just bad luck, sorry 
+No genitals 
+None
+
+(58) Hermaphrodite 
+You posses the genitals of a man AND a woman
+Just bad luck, sorry 
+Impotent 
+None
+
+(59) Altered perception
+You see the visual spectrum as well as the ultraviolet spectrum
+Having bad eyes 
+Nothing quite looks right
+Able to see pheromones given off by living objects
+
+(60) Extra stomachs 
+You have an extra stomach or two
+Consuming beef 
+Must eat twice as much
 +2 to Metabolism
-(61) Photosynthesis Your body doesn't
-need to consume
-food, your skin
-absorbs energy for
-life
-Consuming plants None Doesn't need to eat
-food
-(62) Absorbs light Your skin absorb all
-nearby light making
-you a black spot on
-the world
-Playing around with
-dark matter
-Only your skin
-absorbs light
-Skin disappears into
-the night
-(63) Blood sucker You must glut
-yourself upon the
-blood of animals or
-people
-Consuming or
-having ticks
-Must consume full
-meals of blood
-Saliva contains anticoagulating
-compound
-Character Creation
-61
-Name Description Possible Causes Negatives Bonuses
-(64) Leaping You may leap
-enormous distances
-easily
-Consuming or
-having flees
-None May leap Muscles
-x2 yards
-(65) Adhesion Your bare hands and
-feet can stick to
-surfaces like an
-insect
-Consuming an insect Hands and feet stick
-to everything
-Hands and feet stick
-to everything
-(66) Rotted flesh Your flesh is in a
-constant state of
-decay
-Having gangrene, or
-a flesh eating virus
-Smells bad, and
-looks disgusting
-+35% to Disease
-Resistance, may
-spread diseases
-(67) Extra eyes You possess extra
-eyes
-Consuming an insect None +2 to Senses, has
-1d10 extra eyes
-(68) Quills Your hair grows to
-be twice as long, and
-hardens into sharp
-quills
-Just bad luck, sorry Clothing and armor
-are awkward to wear
-Anyone takes 2d10
-damage if you are
-grappled
-(69) Hardened
-secretions
-Your body secretes a
-substance that
-hardens, but can be
-peeled away when
-desired
-Sweating too much When it hardens,
--1 to Tendons
-When hardens, +30
-Blunt absorb, +20
-Laceration absorb,
-+20 Piercing absorb
-(70) Hemophiliac Your blood is
-missing the portion
-that cauterizes up
-wounds, making you
-bleed much more
-than normal
-Having an open
-wound
-Twice normal
-damage from blood
-loss, requires aid to
-cauterize wounds
+
+(61) Photosynthesis 
+Your body doesn't need to consume food, your skin absorbs energy for life
+Consuming plants 
 None
-(71) Hardened nails Your fingernails and
-toenails are much
-tougher than normal
-Using some form of
-nail hardening
-solution
-None May cause
-Laceration damage
-with punches
-(72) Exceptionally
-low body
-temperature
-Your body's
-temperature is much
-lower than normal
-Being hypothermic Skin is tinted slightly
-bluish and cold to
-the touch
+Doesn't need to eat food
+
+(62) Absorbs light 
+Your skin absorb all nearby light making you a black spot on the world
+Playing around with dark matter
+Only your skin absorbs light
+Skin disappears into the night
+
+(63) Blood sucker 
+You must glut yourself upon the blood of animals or people
+Consuming or having ticks
+Must consume full meals of blood
+Saliva contains anticoagulating compound
+
+(64) Leaping 
+You may leap enormous distances easily
+Consuming or having flees
+None 
+May leap Muscles x2 yards
+
+(65) Adhesion 
+Your bare hands and feet can stick to surfaces like an insect
+Consuming an insect 
+Hands and feet stick to everything
+Hands and feet stick to everything
+
+(66) Rotted flesh 
+Your flesh is in a constant state of decay
+Having gangrene, or a flesh eating virus
+Smells bad, and looks disgusting 
++35% to Disease Resistance, may spread diseases
+
+(67) Extra eyes 
+You possess extra eyes
+Consuming an insect 
+None 
++2 to Senses, has 1d10 extra eyes
+
+(68) Quills 
+Your hair grows to be twice as long, and hardens into sharp quills
+Just bad luck, sorry 
+Clothing and armor are awkward to wear
+Anyone takes 2d10 damage if you are grappled
+
+(69) Hardened secretions
+Your body secretes a substance that hardens, but can be peeled away when desired
+Sweating too much 
+When it hardens, -1 to Tendons
+When hardens, +30 Blunt absorb, +20 Laceration absorb, +20 Piercing absorb
+
+(70) Hemophiliac 
+Your blood is missing the portion that cauterizes up wounds, making you bleed much more than normal
+Having an open wound
+Twice normal damage from blood loss, requires aid to cauterize wounds
+None
+
+(71) Hardened nails 
+Your fingernails and toenails are much tougher than normal
+Using some form of nail hardening solution
+None 
+May cause Laceration damage with punches
+
+(72) Exceptionally low body temperature
+Your body's temperature is much lower than normal
+Being hypothermic 
+Skin is tinted slightly bluish and cold to the touch
 Resistant to the cold
-(73) Exceptionally
-high body
-temperature
-Your body's
-temperature is much
-higher than normal
-Having a fever Skin slightly reddish
-and hot to the touch
+
+(73) Exceptionally high body temperature
+Your body's temperature is much higher than normal
+Having a fever 
+Skin slightly reddish and hot to the touch
 Resistant to heat
-(74) Passage of
-death
-As you pass, plants
-wither and die
-Just bad luck, sorry Any plants around
-you will die within
-minutes
+
+(74) Passage of death
+As you pass, plants wither and die
+Just bad luck, sorry 
+Any plants around you will die within minutes
 None
-Character Creation
-62
-Name Description Possible Causes Negatives Bonuses
-(75) Albino Your body lacks any
-pigmentation at all
-Just bad luck, sorry You are more
-susceptible to skin
-cancer
+
+(75) Albino 
+Your body lacks any pigmentation at all
+Just bad luck, sorry 
+You are more susceptible to skin cancer
 None
-(76) Mechanical
-limb
-One of your limbs is
-mechanical
-Having a prosthetic
-limb
-No sense of touch in
-that limb
-+1d10 to damage
-inflicted by limb
-(77) Overactive
-stomach acid
-production
-Your stomach
-produces far too
-much acid
-Eating too much
-acidic food
-An ulcer, which will
-bothers you with it’s
-constant heartburn
-May vomit strong
-acids onto people or
-things, causing 2d10
-damage per turn
-(78) Photographic
-memory
-Everything you
-experience is
-recalled with
-unparalleled
-accuracy
-Just good luck, sorry None +1 to Stored, may
-recall any details
-perfectly, and
-without any
-difficulty
-(79) Absent minded You tend to forget
-small things.
-Just bad luck, sorry You are never quite
-sure where your keys
-are
+
+(76) Mechanical limb
+One of your limbs is mechanical
+Having a prosthetic limb
+No sense of touch in that limb
++1d10 to damage inflicted by limb
+
+(77) Overactive stomach acid production
+Your stomach produces far too much acid
+Eating too much acidic food
+An ulcer, which will bothers you with it’s constant heartburn
+May vomit strong acids onto people or things, causing 2d10 damage per turn
+
+(78) Photographic memory
+Everything you experience is recalled with unparalleled accuracy
+Just good luck, sorry 
+None 
++1 to Stored, may recall any details perfectly, and without any difficulty
+
+(79) Absent minded 
+You tend to forget small things.
+Just bad luck, sorry 
+You are never quite sure where your keys are
 None
-(80) Nearsighted You can see things
-up close sharply, but
-distance objects are
-fuzzy
-Just bad luck, sorry Can’t see far away
-clearly
-Can be corrected
-with glasses
-(81) Farsighted You can see things in
-the distance clearly,
-but up close objects
-are fuzzy
-Just bad luck, sorry Can’t see up close
-clearly
-Can be corrected
-with glasses
-(82) Wings Your hands formed
-improperly, the
-result was a pair of
-leathery wings,
-instead of arms
-Consuming a
-winged meal
-Exceedingly difficult
-to use normal
-devices
-Can glide for short
-distances, given that
-the character falls
-from high enough
-(83) Clawed feet Your feet are clawed
-and covered with
-leathery skin
-Consuming a foul
-meal
-Can not wear
-normal footwear
-May cause
-Laceration damage
-with kicks
-(84) Glows Your uncovered
-body glows in the
-dark
-Consuming glowing,
-or radioactive
-substances
-Nearly impossible to
-prowl at night
-+15% to Disease
-Resistance, no
-darkness penalities
-for melee combat
-(85) Receives radio
-waves
-You can receive
-stray audio radio
-waves
-Metal plates
-perfectly set in your
-head
--1 to Senses, due to
-constant static, or
-jabber in your head
-May pick up radio
-waves transmitted in
-the general area
-Character Creation
-63
-Name Description Possible Causes Negatives Bonuses
-(86) Pernimant
-wound
-You have a
-pernimant wound, it
-may stop bleeding,
-but it won't ever heal
-up
-Having a wound Suffers 1d10
-damage to random
-location that can
-never be healed.
+
+(80) Nearsighted 
+You can see things up close sharply, but distance objects are fuzzy
+Just bad luck, sorry 
+Can’t see far away clearly
+Can be corrected with glasses
+
+(81) Farsighted 
+You can see things in the distance clearly, but up close objects are fuzzy
+Just bad luck, sorry 
+Can’t see up close clearly
+Can be corrected with glasses
+
+(82) Wings 
+Your hands formed improperly, the result was a pair of leathery wings, instead of arms
+Consuming a winged meal
+Exceedingly difficult to use normal devices
+Can glide for short distances, given that the character falls from high enough
+(83) Clawed feet 
+Your feet are clawed and covered with leathery skin
+Consuming a foul meal
+Can not wear normal footwear
+May cause Laceration damage with kicks
+
+(84) Glows 
+Your uncovered body glows in the dark
+Consuming glowing, or radioactive substances
+Nearly impossible to prowl at night
++15% to Disease Resistance, no darkness penalities for melee combat
+
+(85) Receives radio waves
+You can receive stray audio radio waves
+Metal plates perfectly set in your head
+-1 to Senses, due to constant static, or jabber in your head
+May pick up radio waves transmitted in the general area 
+
+(86) Pernimant wound
+You have a pernimant wound, it may stop bleeding, but it won't ever heal up
+Having a wound Suffers 1d10 damage to random location that can never be healed.
 None
-(87) Forked Tongue Your tongue is
-forked
-Consuming a reptile A little hard to speak
-properly
+
+(87) Forked tongue 
+Your tongue is forked
+Consuming a reptile 
+A little hard to speak properly
 None
-(88) Color blind You can not see any
-of the colors of the
-rainbow
-Just bad luck, sorry Can not see colors None
-(89) Amnesia Your memories have
-disappeared out of
-your head
-Head trauma Can not remember
-any personal details
-about self
-Can still remember
-and use your skills
-(90) Double Jointed Your joints may all
-bend twice as far as
-normal
-Too much stretching None Can bend, twist, and
-contort with the best
-of them
-(91) Wiry You could have been
-a perfect "Before"
-for ADHD drugs
-Too many drugs, or
-just too damn active
-Hard to sit still for
-more than a few
-minutes at a time
+
+(88) Color blind 
+You can not see any of the colors of the rainbow
+Just bad luck, sorry 
+Can not see colors 
+None
+
+(89) Amnesia 
+Your memories have disappeared out of your head
+Head trauma 
+Can not remember any personal details about self 
+Can still remember and use your skills
+
+(90) Double jointed 
+Your joints may all bend twice as far as normal
+Too much stretching 
+None 
+Can bend, twist, and contort with the best of them
+
+(91) Wiry 
+You could have been a perfect "Before" for ADHD drugs
+Too many drugs, or just too damn active
+Hard to sit still for more than a few minutes at a time
 +1 action
-(92) Lethargic You don't like to
-move, at all
-Sitting still for too
-long
--1 action None
-(93) Overly aged Your body aged
-twice as fast as it
-should have
-Just bad luck, sorry You’re an old (wo)
-man
+
+(92) Lethargic 
+You don't like to move, at all
+Sitting still for too long
+-1 action 
+None
+
+(93) Overly aged 
+Your body aged twice as fast as it should have
+Just bad luck, sorry 
+You’re an old (wo)man
 You LOOK wiser
-(94) Mute You can not speak a
-single word
-Talking too much Silent for forever,
-unless you can find a
-voice-box
-If silence was
-golden, you'd be
-rich, but it isn’t
-(95) Lack of taste You have a tongue,
-but taste not
-Just bad luck, sorry Can not taste None
-(96) Lack of smell You have a nose, but
-smell not
-Just bad luck, sorry Can not smell None
-(97) Lack of touch You have skin, but
-feel not
-Just bad luck, sorry Can not feel Ignores all pain
-(98) Lack of
-hearing
-You have ears, but
-hear not
-Just bad luck, sorry Can not hear None
-(99) Lack of sight You have eyes, but
-see not
-Just bad luck, sorry Can not see None
-Character Creation
-64
-Name Description Possible Causes Negatives Bonuses
-(100) Dead You have cheated
-death by using the
-syrum at the last
-moment
-Being dead Death is coming to
-rectify the mistake
+
+(94) Mute 
+You can not speak a single word
+Talking too much 
+Silent for forever, unless you can find a voice-box
+If silence was golden, you'd be rich, but it isn’t
+
+(95) Lack of taste 
+You have a tongue, but taste not
+Just bad luck, sorry 
+Can not taste 
+None
+
+(96) Lack of smell 
+ You have a nose, but smell not
+Just bad luck, sorry 
+Can not smell 
+None
+
+(97) Lack of touch 
+You have skin, but feel not
+Just bad luck, sorry 
+Can not feel 
+Ignores all pain
+
+(98) Lack of hearing
+You have ears, but hear not
+Just bad luck, sorry 
+Can not hear 
+None
+
+(99) Lack of sight 
+You have eyes, but see not
+Just bad luck, sorry 
+Can not see 
+None
+
+(100) Dead 
+You have cheated death by using the syrum at the last moment
+Being dead Death is coming to rectify the mistake
 You get to live
 another day
+
 This is what the chart means
+
 Name- What the mutation is titled, as well as what result on a roll you have to get to receive the
 mutation randomly.
+
 Description- A brief description of the mutations effects.
+
 Possible Causes- Some reasons that one may get the mutation either during creation or after
 syrum usage.
+
 Negatives- How the mutation hinders you.
+
 Bonuses- How the mutation helps you.
