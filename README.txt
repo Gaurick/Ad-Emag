@@ -1,9 +1,16 @@
 ++Introduction.++
-So this is the whole of the post apocalyptic role playing game (quite a mouthfull) i've been working for over 10 years... It's a pretty big mess, and it was suggested at Adafruit that any kind of writing can be dumped here on Git (including novels).  I really liked the idea of version control and being to see the actual changes from one version to another.
+So this is the whole of the post apocalyptic role playing game (quite a mouthfull) 
+i've been working for over 10 years... It's a pretty big mess, and it was suggested 
+at Adafruit that any kind of writing can be dumped here on Git (including novels).  
+I really liked the idea of version control and being to see the actual changes from 
+one version to another.
 So thus it is here.
 
 ++Notes.++
-Nothing too substantial yet.  Just want to be able to dump thoughts here for the whole of the system.  Need to impliment the changes i've been poking around with for some time.  Figured i would put the latest full version up and then work from there.
+Nothing too substantial yet.  Just want to be able to dump thoughts here for 
+the whole of the system.  Need to impliment the changes i've been poking around 
+with for some time.  Figured i would put the latest full version up and then work 
+from there.
 
 ++Versions.++
 v0.1 - v1.07
@@ -23,3 +30,14 @@ Apply the changes i've already debated (hidden in google's drives).
 Form into a cohesive and less rambly mass of writing.
 Make the rules less like Rifts and more simplified (maybe even my own.)
 Stop using commas and parenthesis in notes ().
+
+Simplify the system to be only d10 based (no percentiles).
+Reduce the number of skills, derrived attributes, and maybe attributes.
+Remove birth cities and drop descriptions somewhere narratively.
+Set base skills to start/come up with system to get starting skills (now d10 based, not percentile).
+Streamline gear to be less inclusive.
+Get mutations formatted (.csv maybe?  some kind of ascii-art chart?).
+Make Myth-Maker section not stupid (or just replace with a tutorial adventure?)
+Get vehicles not stupid/remove completely and deal with later.
+Standardize mutations, armor, weapons, and personal damage to give a nice happy range of possibility.
+Fill with entertaining and not misspelled words.
