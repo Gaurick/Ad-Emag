@@ -381,12 +381,14 @@ High Explosive Rockets
 
 Grenades
 Smoke Grenade 
-2d10 Damage is only if the grenade is picked up, disperses a 30 ft cloud that can not be seen through, grenade heats up for 1 minute (6 turns) when used
+2d10 Damage is only if the grenade is picked up, disperses a 30 ft cloud that can not be seen through, 
+grenade heats up for 1 minute (6 turns) when used
 500-2,500
 
 Tear Gas Grenade 
 2d10 
-Damage is only if the grenade is picked up, disperses a 15 ft cloud that incapacitates anyone caught in it, grenade heats up for 1 minute (6 turns) when used
+Damage is only if the grenade is picked up, disperses a 15 ft cloud that incapacitates anyone caught 
+in it, grenade heats up for 1 minute (6 turns) when used
 1,000-4,000
 
 Fragmentation Grenades 
@@ -1134,7 +1136,9 @@ Wheels (2)  Rubber      25      35    40          20
 Hard Points- 0
 Soft Points- 0
 Cargo Capacity- Driver and possibly a few very small possessions.
-Notes- A small, simple, and remarkably useful vehicle. It is small enough to maneuver about with little trouble, but provides enough multiplication of a character’s muscular effort to make it worthwhile to use as a vehicle on it’s own. It is definitely much better than walking.
+Notes- A small, simple, and remarkably useful vehicle. It is small enough to maneuver about with little 
+trouble, but provides enough multiplication of a character’s muscular effort to make it worthwhile to 
+use as a vehicle on it’s own. It is definitely much better than walking.
 Value- 100 - 500
 
 Truck
@@ -1153,7 +1157,8 @@ Tire (4)    Rubber    40    145   160         80
 Hard Points- 1
 Soft Points- 4
 Cargo Capacity- Driver, a passenger, and a large amount of personal items and equipment.
-Notes- A large truck mostly useful for taking whatever items from one place to another. Also makes quite a good mobile weapons platform to harass enemies.
+Notes- A large truck mostly useful for taking whatever items from one place to another. Also makes quite 
+a good mobile weapons platform to harass enemies.
 Value- 15,000 - 40,000
 
 House Boat
@@ -1172,7 +1177,8 @@ Propeller   Aluminum  100 250   600         250
 Hard Points- 2
 Soft Points- 4
 Cargo Capacity- Driver and a passenger. And either small family or a large amount of supplies and equipment.
-Notes- A house crafted on a boat. Not an effective combat vehicle, but very useful for pleasure cruses or exploration. Also happens to be one of the more comfortable vehicles available.
+Notes- A house crafted on a boat. Not an effective combat vehicle, but very useful for pleasure cruses or 
+exploration. Also happens to be one of the more comfortable vehicles available.
 Value- 25,000 - 100,000
 
 Cargo Ship
@@ -1191,7 +1197,9 @@ Propeller (3) Aluminum        200   250   600         250
 Hard Points- 3
 Soft Points- 6
 Cargo Capacity- As friends as you can gain and as many items you may gain. 
-Notes- A gargantuan ship created to transport crude oil across the seas. The cargo hold is made to hold liquids, but may be modified to accommodate any number of possibilities. Also happens to be the largest vehicle available.
+Notes- A gargantuan ship created to transport crude oil across the seas. The cargo hold is made to hold 
+liquids, but may be modified to accommodate any number of possibilities. Also happens to be the largest 
+vehicle available.
 Value- 150,000 - 750,000
 
 Small Personal Aircraft
@@ -1229,5 +1237,7 @@ Window    Glass     5   2     40          8
 Hard Points- 1
 Soft Points- 4
 Cargo Capacity- Driver and a passenger, and either some small items or a few small items.
-Notes- An observation helicopter with an all glass dome to allow the maximum amount of viewable area. Armor and most unnecessary parts have been removed to allow the most amount of fuel to be carried, and the greatest endurance of the fuel.
+Notes- An observation helicopter with an all glass dome to allow the maximum amount of viewable area. Armor 
+and most unnecessary parts have been removed to allow the most amount of fuel to be carried, and the greatest 
+endurance of the fuel.
 Value- 250,000 - 3,000,000
