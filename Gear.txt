@@ -1124,20 +1124,13 @@ Name- Bicycle
 Engine- Muscle powered
 Minimum/Maximum Speed- 1 / (Muscles) MPH
 Fuel Tank Size- 12 Speed.
-Location Substance DT Blunt
-Resistance
-Laceration
-Resistance
-Piercing
-Resistance
-Engine Depends on who
-is riding
-Depends on who
-is riding
-None None None
-Main Body Aluminum 100 None None None
-Cargo Hold Wire basket 10 None None None
-Wheels (2) Rubber 25 35 40 20
+
+Location    Substance   DT      Blunt Laceration  Piercing 
+Engine      Depends     Depends None  None        None
+Main Body   Aluminum    100     None  None        None
+Cargo Hold  Wire basket 10      None  None        None
+Wheels (2)  Rubber      25      35    40          20
+
 Hard Points- 0
 Soft Points- 0
 Cargo Capacity- Driver and possibly a few very small possessions.
@@ -1149,19 +1142,14 @@ Name- Pickup Truck
 Engine- Gasoline engine
 Minimum/Maximum Speed- 1 / 150 MPH
 Fuel Tank Size- Medium (20 Gallon)
-Location Substance DT Blunt
-Resistance
-Laceration
-Resistance
-Piercing
-Resistance
-Engine
-Compartment
-Aluminum 200 250 600 250
-Main Body Aluminum 200 250 600 250
-Cargo Hold None None None None None
-Window Glass 5 2 40 8
-Tire (4) Rubber 40 145 160 80
+
+Location    Substance DT    Blunt Laceration  Piercing
+Engine      Aluminum  200   250   600         250
+Main Body   Aluminum  200   250   600         250
+Cargo Hold  None      None  None  None        None
+Window      Glass     5     2     40          8
+Tire (4)    Rubber    40    145   160         80
+
 Hard Points- 1
 Soft Points- 4
 Cargo Capacity- Driver, a passenger, and a large amount of personal items and equipment.
@@ -1173,19 +1161,14 @@ Name- House Boat
 Engine- Gasoline engine
 Minimum/Maximum Speed- 1 / 125 MPH
 Fuel Tank Size- Large (50 Gallon)
-Location Substance DT Blunt
-Resistance
-Laceration
-Resistance
-Piercing
-Resistance
-Engine
-Compartment
-Steel 800 500 700 500
-Main Body Wood 200 200 120 80
-Cargo Hold Wood 200 200 120 80
-Window Glass 5 2 40 8
-Propeller Aluminum 100 250 600 250
+
+Location    Substance DT Blunt  Laceration  Piercing 
+Engine      Steel     800 500   700         500
+Main Body   Wood      200 200   120         80
+Cargo Hold  Wood      200 200   120         80
+Window      Glass     5   2     40          8
+Propeller   Aluminum  100 250   600         250
+
 Hard Points- 2
 Soft Points- 4
 Cargo Capacity- Driver and a passenger. And either small family or a large amount of supplies and equipment.
@@ -1197,19 +1180,14 @@ Name- Oil Tanker
 Engine- Diesel engine (3)
 Minimum/Maximum Speed- 1 / 30 MPH
 Fuel Tank Size- Large (50 gallon tanks) (10)
-Location Substance DT Blunt
-Resistance
-Laceration
-Resistance
-Piercing
-Resistance
-Engine
-Compartment
-Hardened Steel 1,600 750 1,000 750
-Main Body Hardened Steel 1,600 750 1,000 750
-Cargo Hold Aluminum 200 250 600 250
-Window Glass 5 2 40 8
-Propeller (3) Aluminum 200 250 600 250
+
+Location      Substance       DT    Blunt Laceration  Piercing 
+Engine        Hardened Steel  1,600 750   1,000       750
+Main Body     Hardened Steel  1,600 750   1,000       750
+Cargo Hold    Aluminum        200   250   600         250
+Window        Glass           5     2     40          8
+Propeller (3) Aluminum        200   250   600         250
+
 Hard Points- 3
 Soft Points- 6
 Cargo Capacity- As friends as you can gain and as many items you may gain. 
@@ -1221,20 +1199,15 @@ Name- Small Personal Aircraft
 Engine- Jet fuel engine
 Minimum/Maximum Speed- 50 / 525 MPH
 Fuel Tank Size- Large (50 gallon) (2)
-Location Substance DT Blunt
-Resistance
-Laceration
-Resistance
-Piercing
-Resistance
-Engine
-Compartment
-Aluminum 200 250 600 250
-Main Body Aluminum 200 250 600 250
-Cargo Hold Aluminum 200 250 600 250
-Window Glass 5 2 40 8
-Tail Aluminum 200 250 600 250
-Tire (3) Rubber 50 145 160 80
+
+Location    Substance DT  Blunt Laceration  Piercing 
+Engine      Aluminum  200 250   600         250
+Main Body   Aluminum  200 250   600         250
+Cargo Hold  Aluminum  200 250   600         250
+Window      Glass     5   2     40          8
+Tail        Aluminum  200 250   600         250
+Tire (3)    Rubber    50  145   160         80
+
 Hard Points- 0
 Soft Points- 2
 Cargo Capacity- Driver and either a few passengers or a small amount of supplies.
@@ -1247,17 +1220,12 @@ Name- Helicopter
 Engine- Jet fueled engine
 Minimum/Maximum Speed- 50 / 500 MPH
 Fuel Tank Size- Large (50 gallon) (3)
-Location Substance DT Blunt
-Resistance
-Laceration
-Resistance
-Piercing
-Resistance
-Engine
-Compartment
-Aluminum 200 205 600 260
-Main Body Glass 5 2 40 8
-Window Glass 5 2 40 8
+
+Location  Substance DT  Blunt Laceration  Piercing
+Engine    Aluminum  200 205   600         260
+Main Body Glass     5   2     40          8
+Window    Glass     5   2     40          8
+
 Hard Points- 1
 Soft Points- 4
 Cargo Capacity- Driver and a passenger, and either some small items or a few small items.
