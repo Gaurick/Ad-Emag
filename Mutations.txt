@@ -1,197 +1,165 @@
 Mutations
+(1)Syrum Blood
+Heavy syrum use has changed your blood to syrum.
+Everyone wants your blood.
+Healing rate is for every round, not every day.
 
-Name 
-Description 
-Possible Causes 
-Negatives Bonuses
-
-(1) Right track DNA 
-Your DNA is starting to go on the right track, slowly turning you immune
-Just very good luck, sorry
+(2) Right track DNA 
+Your DNA is starting to go on the right track, slowly turning you immune.
 Character loses 1d10 random mutations this dose.
 Character loses 1d10 random mutations this dose.
 
-(2) Typhoid Mary 
-You do not suffer any further mutations from this dose
-Just very good luck, sorry
-None You do not suffer any further mutations from this dose
+(3) Typhoid Mary 
+You do not suffer any further mutations from this dose.
+None.
+You do not suffer any further mutations from this dose.
 
-(3) Unstable genetic code
-Your body is constantly changing, evolving, and mutating
-Using Syrum multiple times Characters have to re-roll all of their mutations this dose. Including this one.
-Characters have to re-roll all of their mutations this dose. Including this one.
+(4) Unstable genetic code
+Your body is constantly changing, evolving, and mutating.
+You have to re-roll all of their mutations this dose. Including this one.
+You have to re-roll all of their mutations this dose. Including this one.
 
-(4) Cancerous 
-You are a walking tumor
-Having cancer raging through your body
-None 
-Healing rate is for every 5 minutes, not for every day.
+(5) Cancerous 
+You are a walking tumor.
+None.
+Healing rate is for every minute, not for every day.
 
-(5) Elongated limbs 
-Your limbs are overly long and awkward
-Still growing 
-None 
-May reach twice as far as normal, and you are really tall
+(6) Elongated limbs 
+Your limbs are overly long and awkward.
+-1 Bones.
+May reach twice as far as normal, and you are really tall.
 
-(6) Hoofed feet 
-Your feet are cloven hoofs
-Consuming a pork or beef meal
-Can not wear foot wear
-May cause double damage with kicks
+(7) Hoofed feet 
+Your feet are cloven hoofs.
+Can not wear foot wear.
+Double damage with kicks.
 
-(7) Webbed hands and feet
-Your hands and feet have webs of skin between the fingers
-Consuming a fishy meal
-None 
-+25% to swimming
+(8) Webbed hands and feet
+Your hands and feet have webs of skin between the fingers.
+None.
+Swimming is a breeze.
 
-(8) Ham fisted 
-Your hands are overly large, and perfect for smack downs
-Just bad luck, sorry 
+(9) Ham fisted 
+Your hands are overly large, and perfect for smack downs.
 Very difficult to perform delicate tasks.
-+1d10 to melee damage
++1d10 to melee damage.
 
-(9) Extra limbs 
-You have extra arms or legs, that are without fingers or toes
-Consuming insects 
-Limbs have no fingers or toes, so can only perform basic actions
-May use extra limbs to perform simple actions, character has 1d10 extra limbs, extra limbs have same flesh as your regular arms
+(10) Extra limbs 
+You have extra arms or legs, that are without fingers or toes.
+Limbs have no fingers or toes, so can only perform basic actions, 
+-2 muscles.
+May use extra limbs to perform simple actions, character has 1d10 
+extra limbs, extra limbs have same flesh as your regular arms.
 
-(10) Ravenous flesh 
-Your flesh absorbs anything kept in contact with it for extended periods
-Having splinters 
-Any clothing or object kept in contact with the skin for an extended period is absorbed into the character’s skin
-Most recently absorbed material gives the character’s skin those characteristics
+(11) Ravenous flesh 
+Your flesh absorbs anything kept in contact with it for extended periods.
+Any clothing or object kept in contact with the skin for an extended period is 
+absorbed into the character’s skin.
+Most recently absorbed material gives the character’s skin those characteristics.
 
-(11) Horns 
-You have a pair of pointy horns growing out of your head
-Consuming beef or goat
-Can’t buy hats off the rack anymore
-Can do a wicked head butt
+(12) Horns 
+You have a pair of pointy horns growing out of your head.
+Can’t buy hats off the rack anymore.
+Can do a wicked head butt, +5 damage.
 
-(12) Uncovered brain
-Your brain was formed with portions of it exposed to the world
-Meditating or thinking too much
-No natural damage resistance to your head
-+1 to learnable
+(13) Uncovered brain
+Your brain was formed with portions of it exposed to the world.
++1 damage to attacks on your head.
++1 to stored.
 
-(13) Solid rib cage 
-Your rib cage is made of one solid bone
-Having broken ribs 
--1 action 
-+75 flesh to body
+(14) Solid rib cage 
+Your rib cage is made of one solid bone.
+-1 action.
++75 flesh to body.
 
-(14) Snout 
-You possess an animal-like snout instead of a mouth and nose
-Consuming pork or beef
-None 
-+1 to senses
+(15) Snout 
+You possess an animal-like snout instead of a mouth and nose.
+-1 skin.
++1 to senses.
 
 (15) Curly tail 
-You have a curly tail growing from the bottom of your tailbone
-Consuming pork 
-None 
-Tail has the same flesh as your head
+You have a curly tail growing from the bottom of your tailbone.
+None.
+None.
 
 (16) Beak 
-You have a beak instead of a mouth and a nose
-Consuming a foul meal
-Difficult to speak 
-May cause Laceration damage with pecks
+You have a beak instead of a mouth and a nose.
+Difficult to speak.
++1 damage with peck attack.
 
-(17) Gills 
-You possess gills as well as lungs that will work together
-Consuming a fishy meal
--1 action 
-May breathe water or oxygen
+(18) Gills 
+You possess gills as well as lungs that will work together.
+-1 action.
+May breathe water or oxygen.
 
-(18) Fish eyes 
+(19) Fish eyes 
 Your eyes are unblinking and wide-angled
-Consuming a fishy meal
 Must constantly wet eyeballs
 Hard to surprise, can see 180º degrees around self
 
-(19) Leaves and Bark
-You have leaves and thin twigs instead of normal hair and bark instead of skin
-Consuming plants 
--1 from Tendons 
-50 Blunt absorb, 135 Laceration absorb, 20 Piercing absorb
+(20) Leaves and Bark
+You have leaves and thin twigs instead of normal hair and bark instead of skin.
+None. 
++70 armor.
 
-(20) Web spinner 
-You have an organ that can produce a sticky, strong string
-Consuming insects 
-None 
-May produce string that is excessively sticky and strong
+(21) Web spinner 
+You have an organ that can produce a sticky, strong string.
+None.
+May produce string that is excessively sticky and strong.
 
-(21) Metallic bones 
-Your bones are moremetal than bone
-Having metal plates, or metal pins in your bones
--1 to Tendons 
-+3 to Bones
+(22) Metallic bones 
+Your bones are more metal than bone.
+-1 to Tendons.
++2 to Bones.
 
-(22) Cartilaginous bones
-Your skeleton is made of cartilage, instead of bones
-Just bad luck, sorry 
-1/2 Bones 
-You are very flexible
+(23) Cartilaginous bones
+Your skeleton is made of cartilage, instead of bones.
+1/2 Bones.
+You are very flexible.
 
-(23) Abnormally shaped bones
-Your skeleton isn't shaped as it should be
-Just bad luck, sorry 
-Suffer from constant aches and pains
-None
+(24) Abnormally shaped bones
+Your skeleton isn't shaped as it should be.
+Suffer from constant aches and pains.
+None.
 
-(24) Exoskeleton 
-You have a skeleton on the outside
-Consuming insects 
--2 to Tendons 
-140 Blunt absorb, 140 Laceration absorb, 140 Piercing absorb
+(25) Exoskeleton 
+You have a skeleton on the outside.
+None.
++100 armor.
 
-(25) Leaden skin 
-Your skin has the same properties of a malleable metal
-Not properly removing bullets from your body
--2 to Tendons sinks in water
-50 Blunt absorb, 250 Laceration absorb, 170 Piercing absorb
+(26) Leaden skin 
+Your skin has the same properties of a malleable metal.
+Sinks in water.
++150 armor.
 
-(26) Tentacles 
-You have long tentacles lined with suckers
-Consuming a fishy meal
-Suckers hold on to what they touch
-When grappling, target can not escape until character releases them, has 1d10 tentacles
+(27) Tentacles 
+You have long tentacles lined with suckers.
+Suckers hold on to what they touch.
+When grappling, target can not escape until character releases them, has 1d10 
+tentacles.
 
-(27) Abnormally large head
-You have a very big head
-Meditating or thinking too much
-Needs really big hats 
-+1 to Learnable
+(28) Abnormally large head
+You have a very big head.
+Needs really big hats. 
++1 to stored.
 
-(28) Hairless 
-You do not have any hair upon your entire body
-Just bad luck, sorry 
-Gets colder faster 
-None
+(29) Cold blooded
+Your body can't regulate it's temperature.
+Getting too hot or cold makes you lethargic.
+Only has to eat once every couple of days.
 
-(29) Hairy Your 
-body is covered by a large and abnormal amount of hair
-Just bad luck, sorry 
-None 
-Stays warmer
-
-(30) Parasitic twin 
-You possess a parasitic twin
-Consuming human flesh
-Has half a deformed person attached your chest
-Twin has 1/2 the attributes of the host, and Flesh of your arms
+(30) Infrared sense
+You can sense the heat given off by the world around you.
+Extremes of temperature make it hard to concentrate.
+You are able to detect the heat given off by objects and people.
 
 (31) Charred skin 
 Your skin looks like an overdone hamburger
-Having burns on your skin
 Suffer from constant aches and pains
-+20 Laceration absorb
++6 armor.
 
 (32) Dense muscles 
 Your muscles are packed more tightly than usual
-Having extensive bruises
 None 
 +2 to Muscles
 
