@@ -102,12 +102,12 @@ madness spread and the governments crumbled around them, they began calling in f
 making bribes, and performing their power plays. As such Amoebas have secured a place where
 they have little to fear from any who are hopeful to overthrow them from their little kingdoms.
 
-Mutations- Allergies (34), plastic skin (35) , silicone flesh (36), overactive stomach acid
-production (77), lethargic (92).
+Mutations- (34) Allergies, (35) plastic skin, (36) silicone flesh, (77) overactive stomach acid
+production, (92) lethargic.
 
-Other Bonuses- +1 to Abstract, +4 Base Flesh
+Other Bonuses- +1 to Abstract, +2 to Bones.
 
-Other Negatives- -1 from Tendons, -2 Initiative
+Other Negatives- -1 from Tendons, -2 from Skin.
 
 Boars
 “Anarchist’s Declaration” by Flack Sloan
@@ -224,11 +224,11 @@ Then fight to live. Being a farmer’s source of money, any Boars found outside 
 where they feed typically have a bounty on their live return. This bounty varies from farm to
 farm, depending on the amount that the farmers actually have available to pay.
 
-Mutations- Snout (14), curly tail (15) , pigskin (39), dwarfism (52), overactive digestion (55).
+Mutations- (15) Snout, (16) curly tail, (39) pigskin, (52) dwarfism, (55) overactive digestion.
 
-Other Bonuses- +30 to Blunt Absorb, +20 to Laceration Absorb.
+Other Bonuses- +1 to Senses, +2 to Muscles.
 
-Other Negatives- -1 from Learnable, -1 from Stored.
+Other Negatives- -1 from Skin, -2 from Stored.
 
 ‘Bot
 Resume of B. P. Hammer
@@ -321,12 +321,12 @@ limbs. When the syrum came into contact with the handicapped, it not only cured 
 handicap, but it served to strengthen them more than those around them. As the governments
 crumbled and dictators worked to fill the gap, ‘Bots found and secured their place as muscle.
 
-Mutations- Metallic bones (21), leaden skin (25) , natural battery (51), mechanical limb (76),
-receives radio waves (85).
+Mutations- (22) Metallic bones, (26) leaden skin, (51) natural battery, (76) mechanical limb,
+(85) receives radio waves.
 
-Other Bonuses- +1 to Muscles, +2 to Bones.
+Other Bonuses- +1 to Bones, +2 to Muscles.
 
-Other Negatives- -2 from Sub-conscience, -1 from Abstract.
+Other Negatives- -1 from Tendons, -2 from Abstract.
 
 Brains
 The Effects of Pre-Plague Media on Isolated Peoples
@@ -443,12 +443,12 @@ the Brains. As the rest of the world became mutated freaks also, the initial hat
 cooled to a jovial dislike. While the opinion of the Brains was changing, the Brains secured their
 place just as they had in their previous lives as the scientists and researchers of the world.
 
-Mutations- Uncovered brain (12), abnormally large head (27), inherited memories (56),
-nearsighted (80), lethargic (92).
+Mutations- (13) Uncovered brain, (28) abnormally large head, (56) inherited memories,
+(79) absent minded, (92) lethargic.
 
-Other Bonuses- +2 to Stored, +1 to Abstract.
+Other Bonuses- +1 to Stored, +2 to Abstract.
 
-Other Negatives- -2 from Muscles, -1 from Bones.
+Other Negatives- -1 from Bones, -2 from Muscles.
 
 Dryads
 One one thousand. Two one thousand. Three one thousand. Four one thousand. Five one
@@ -558,12 +558,12 @@ conflict and some notable personalities even fought for peace. Unluckily they di
 some time. As the battles died down and the dust began to settle the Dryads were considered the
 closest thing to an impartial third party in nearly every dispute that arises.
 
-Mutations- Elongated limbs (5), leaves and bark (19), poisonous blood (42),
-altered perception (59), photosynthesis (61).
+Mutations- (6) Elongated limbs, (20) leaves and bark, (42) poisonous blood,
+(59) altered perception, (61) photosynthesis.
 
-Other Bonuses- +1 to Sub-conscience, double life span.
+Other Bonuses- +1 to Senses, +2 to Sub-conscience.
 
-Other Negatives- -2 from Metabolism, -1 from Initiative.
+Other Negatives- -1 from Skin, -2 from Muscles.
 
 Freaks
 So you dweebs need some help getting sweet diggs of your own, huh? Well listen up, ‘cus i’m
@@ -676,12 +676,12 @@ wanted. As the world mutated, warred, and became turned upside down the Freaks s
 nice soothing habit. As such they remained the only source of normalcy while everything else
 went to pieces.
 
-Mutations- Tinted skin (37), breath smoke (44) , extra fingers (50), hardened secretions (69),
-hemophiliac (70).
+Mutations- (37) Tinted skin, (43) hardened secretions, (44) breath smoke, (50) extra fingers,
+(70) hemophiliac.
 
-Other Bonuses- +2 to Skin, +1 to Stored.
+Other Bonuses- +1 to Skin, +2 to Senses.
 
-Other Negatives- -1 from Base Flesh, -1 from Muscles.
+Other Negatives- -1 from Bones, -2 from Sub-conscience.
 
 Immune
 The Grizwald Family Recounter
@@ -908,11 +908,11 @@ the cows they so closely resembled. Though every once and a rare while a Leather
 with enough intelligence to realize how terrible their situation is. It fractures their mind, but one
 thing remains untouched, the urge to be free. So they run for freedom.
 
-Mutations- Hoofed feet (6), horns (11) , leathery hide (40), gigantic (53), extra stomachs (60).
+Mutations- (7) Hoofed feet, (12) horns, (40) leathery hide, (53) gigantic, (60) extra stomachs.
 
-Other Bonuses- +2 to Metabolism, +1 to Skin.
+Other Bonuses- +1 to Sub-conscience, +2 to Skin.
 
-Other Negatives- -2 from Learnable, -1 from Abstract.
+Other Negatives- -1 from Learnable, -2 from Stored.
 
 Randoms
 Well i guess this will have to serve as a sort of last testimate. I’m not quite sure how much longer
@@ -1011,9 +1011,9 @@ mother nor the father have. Thus is their title of Randoms.
 
 Mutations- Randoms have 1d10 mutations at creation that are rolled for randomly, of course.
 
-Other Bonuses- None.
+Other Bonuses- +1 to any attribute, +2 to any attribute.
 
-Other Negatives- None.
+Other Negatives- -1 from any attribute, -2 from any attribute.
 
 Red Herrings
 Captain’s log of the Zephyr
@@ -1132,12 +1132,12 @@ on the land quickly followed out to sea with the classic tradition of piracy. Wh
 settle, the Red Herring made more and more frequent stops back to land to reestablish contact
 with the rest of the world.
 
-Mutations- Webbed hands and feet (7), gills (17) , fish eyes (18), scales (41),
-no sweat glands (47).
+Mutations- (8) Webbed hands and feet, (18) gills, (19) fish eyes, (41) scales,
+(58) air bladder.
 
-Other Bonuses- +2 to Muscles, +15 to Blunt Absorb
+Other Bonuses- +1 to Sub-conscience, +2 to Muscles.
 
-Other Negatives- -1 from Bones, -1 from Initiative
+Other Negatives- -1 from Tendons, -2 from Senses.
 
 Rotters
 “The Adventures of Atomic Andy and Robo Boy. Twiddle Dee and Twiddle Doom.”
@@ -1254,12 +1254,11 @@ and radiation side effects for the whole of their lives. As the remains of the w
 and more violent, the Rotters used their special abilities to survive inhospital conditions and have
 kept that part of the job market all theirs.
 
-Mutations- Preserved (54), rotted flesh (66) , passage of death (74), absent minded (79),
-glows (84).
+Mutations- (54) Preserved, (66) rotted flesh, (74) passage of death, (79) absent minded, (84) glows.
 
-Other Bonuses- +1 to Stored, Immune to Radiation.
+Other Bonuses- +2 to Stored, Immune to Radiation.
 
-Other Negatives- -2 from Skin, -1 from Actions.
+Other Negatives- -2 from Skin, -1 from Senses.
 
 Sinects
 Lab Report 1-216-198-3
@@ -1379,9 +1378,9 @@ numbers of creepy crawlers. Alas it didn’t work. Unhindered by this, people co
 those bugs right until they recieved their warping injection of the Syrum. Thus was born the
 Sinects.
 
-Mutations- Extra limbs (9), exoskeleton (24) , adhesion (65), extra eyes (67), wiry (91) .
+Mutations- (10) Extra limbs, (25) exoskeleton, (65) adhesion, (67) extra eyes, (91) wiry.
 
-Other Bonuses- +1 to Bones, +2 to Initiative
+Other Bonuses- +1 to Sub-conscience, +2 to Tendons.
 
 Other Negatives- -2 from Stored, -1 from Metabolism
 
@@ -1520,9 +1519,9 @@ splintered into new individual fangs. Those who’s strength of will survived th
 were rewarded with a lifetime of aching pain and twisted bodies. Thus began the legacy of great
 anger and hatred that all Wretched actively participate in.
 
-Mutations- Cancerous (4), elongated limbs (5), solid ribcage (13), abnormally shaped bones
-(23), double jointed (90).
+Mutations- (5) Cancerous, (6) elongated limbs, (14) solid ribcage, (24) abnormally shaped bones, 
+double jointed (90).
 
-Other Bonuses- +2 to Tendons, +1 to Initiative.
+Other Bonuses- +1 to Muscles, +2 to Tendons.
 
-Other Negatives- -2 from Skin, -1 from Base Flesh.
+Other Negatives- -1 from Bones, -2 from Skin.
