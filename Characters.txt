@@ -116,39 +116,39 @@ conflicting mutations, such as receiving Plastic skin as well as Leaden skin, th
 mutation overrides the previous mutations.
 
 Amoebas
-Mutations- Allergies (34), plastic skin (35) , silicone flesh (36), overactive stomach acid
-production (77), lethargic (92).
-Other Bonuses- +1 to Abstract, +4 Base Flesh
-Other Negatives- -1 from Tendons, -2 Initiative
+Mutations- (34) Allergies, (35) plastic skin, (36) silicone flesh, (77) overactive stomach acid
+production, (92) lethargic.
+Other Bonuses- +1 to Abstract, +2 to Bones.
+Other Negatives- -1 from Tendons, -2 from Skin.
 
 Boars
-Mutations- Snout (14), curly tail (15) , pigskin (39), dwarfism (52), overactive digestion (55).
-Other Bonuses- +30 to Blunt Absorb, +20 to Laceration Absorb.
-Other Negatives- -1 from Learnable, -1 from Stored.
+Mutations- (15) Snout, (15) curly tail, (39) pigskin, (52) dwarfism, (55) overactive digestion.
+Other Bonuses- +1 to Senses, +2 to Muscles.
+Other Negatives- -1 from Skin, -2 from Stored.
 
 ‘Bots
-Mutations- Metallic bones (21), leaden skin (25) , natural battery (51), mechanical limb (76),
-receives radio waves (85).
-Other Bonuses- +1 to Muscles, +2 to Bones.
-Other Negatives- -2 from Sub-conscience, -1 from Abstract.
+Mutations- (22) Metallic bones, (26) leaden skin, (51) natural battery, (76) mechanical limb,
+(85) receives radio waves.
+Other Bonuses- +1 to Bones, +2 to Muscles.
+Other Negatives- -1 from Tendons, -2 from Abstract.
 
 Brains
-Mutations- Uncovered brain (12), abnormally large head (27), inherited memories (56),
-nearsighted (80), lethargic (92).
-Other Bonuses- +2 to Stored, +1 to Abstract.
-Other Negatives- -2 from Muscles, -1 from Bones.
+Mutations- (13) Uncovered brain, (28) abnormally large head, (56) inherited memories,
+(79) absent minded, (92) lethargic.
+Other Bonuses- +1 to Stored, +2 to Abstract.
+Other Negatives- -1 from Bones, -2 from Muscles.
 
 Dryads
-Mutations- Elongated limbs (5), leaves and bark (19), poisonous blood (42),
-altered perception (59), photosynthesis (61).
-Other Bonuses- +1 to Sub-conscience, double life span.
-Other Negatives- -2 from Metabolism, -1 from Initiative.
+Mutations- (6) Elongated limbs, (20) leaves and bark, (42) poisonous blood,
+(59) altered perception, (61) photosynthesis.
+Other Bonuses- +1 to Senses, +2 Sub-conscience.
+Other Negatives- -1 from Skin, -2 from Muscles.
 
 Freaks
-Mutations- Tinted skin (37), breath smoke (44) , extra fingers (50), hardened secretions (69),
-hemophiliac (70).
-Other Bonuses- +2 to Skin, +1 to Stored.
-Other Negatives- -1 from Base Flesh, -1 from Muscles.
+Mutations- (37) Tinted skin, (43) hardened secretions, (44) breath smoke, (50) extra fingers, 
+(70) hemophiliac.
+Other Bonuses- +1 to Skin, +2 to Senses.
+Other Negatives- -1 from Bones, -2 from Sub-conscience.
 
 Immune
 Mutations- None.
@@ -156,37 +156,37 @@ Other Bonuses- None.
 Other Negatives- None.
 
 Leathernecks
-Mutations- Hoofed feet (6), horns (11) , leathery hide (40), gigantic (53), extra stomachs (60).
-Other Bonuses- +2 to Metabolism, +1 to Skin.
-Other Negatives- -2 from Learnable, -1 from Abstract.
+Mutations- (7) Hoofed feet, (12) horns, (40) leathery hide, (53) gigantic, (60) extra stomachs.
+Other Bonuses- +1 Sub-conscience,  +2 to Skin.
+Other Negatives- -1 from Learnable, -2 from Stored.
 
 Randoms
 Mutations- Randoms have 1d10 mutations at creation that are rolled for randomly, of course.
-Other Bonuses- None.
-Other Negatives- None.
+Other Bonuses- +1 to any attribute, +2 to any attribute.
+Other Negatives- -1 from any attribute, -2 from any attribute.
 
 Red Herrings
-Mutations- Webbed hands and feet (7), gills (17) , fish eyes (18), scales (41),
-no sweat glands (47).
-Other Bonuses- +2 to Muscles, +15 to Blunt Absorb
-Other Negatives- -1 from Bones, -1 from Initiative
+Mutations- (8) Webbed hands and feet , (18) gills, (19) fish eyes, (41) scales,
+(58) air bladder.
+Other Bonuses- +1 to Sub-conscience, +2 to Muscles.
+Other Negatives- -1 from Muscles, -2 from Senses.
 
 Rotters
-Mutations- Preserved (54), rotted flesh (66) , passage of death (74), absent minded (79),
-glows (84).
-Other Bonuses- +1 to Stored, Immune to Radiation.
-Other Negatives- -2 from Skin, -1 from Actions.
+Mutations- (54) Preserved, (66) rotted flesh, (74) passage of death, (79) absent minded,
+(84) glows.
+Other Bonuses- +2 to Stored, Immune to Radiation.
+Other Negatives- -1 from Tendons, -2 from Skin.
 
 Sinects
-Mutations- Extra limbs (9), exoskeleton (24) , adhesion (65), extra eyes (67), wiry (91) .
-Other Bonuses- +1 to Bones, +2 to Initiative
-Other Negatives- -2 from Stored, -1 from Metabolism
+Mutations- (10) Extra limbs, (25) exoskeleton, (65) adhesion, (67) extra eyes, (91) wiry.
+Other Bonuses- +1 to Sub-conscience, +2 to Tendons
+Other Negatives- -1 from Bones, -2 from Stored.
 
 Wretched
-Mutations- Cancerous (4), elongated limbs (5), solid ribcage (13), abnormally shaped bones
-(23), double jointed (90).
-Other Bonuses- +2 to Tendons, +1 to Initiative.
-Other Negatives- -2 from Skin, -1 from Base Flesh.
+Mutations- (5) Cancerous, (6) elongated limbs, (14) solid ribcage, (24) abnormally shaped bones, 
+(90) double jointed.
+Other Bonuses- +1 to Muscles, +2 to Tendons.
+Other Negatives- -1 from Bones, -2 from Skin.
 
 To help illustrate how to make a character, we’ll go over the creation of Example Joe. At first glance he thinks that
 he wants to roll up an Immune. Upon further reading he discovers that he in fact does not. Being downtrodden and
