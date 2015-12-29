@@ -44,29 +44,14 @@ Skin is what people notice first when they look at you. It represents your gener
 and how attractive you may appear to other people. Just remember, beauty is in the eye of the
 beholder.
 
-
-Learnable is the measure of how well you can learn new things. If you are the kind of person
-whom picks up things quickly, this is for you. If it takes you a little longer than normal, or you
-just really prefer to work for a long time on how to do something then perhaps this isn’t for you.
-
-
-
+Stored is the measure of the information that you have in your head. If the stat is low, you are
+not stupid, you just don’t know too many facts about things. The higher it is, the more your brain
+resembles a library.
 
 Sub-Conscience is the measure of your instinct and intuition. It is the other part of your brain
 (the one you don’t think about too much) and it represents gut feelings and intuition that a
 character may have. It’s main use is to be used by players who are stuck and need help with what
 to do next.
-
-
-
-Metabolism is your digestive system. It is a measure of how quickly your body and mind can
-adapt and improve itself. If you are constantly evolving and becoming stronger, smarter, and
-faster, then this is for you. If your body is as unchanging and steady as a mountain, then seek
-another attribute perhaps.
-
-
-
-
 
 Tendons are what help your muscles move. It is a measure of your general dexterity. It shows
 how steady your hands are, how fast they are, and how good your reactions are. If you can
@@ -87,23 +72,21 @@ Now that you know what your attributes are, you want to see how you compare to t
 world. Here’s a chart that helps you with just that.
 
 Equivalent Attributes
-1- Horrible- This is absolutely not one of your best points. It is as low as humanly (and
+1-3 Horrible- This is absolutely not one of your best points. It is as low as humanly (and
 inhumanly) possible. It might just be something that you may want to work on when you get
 some time on your hands.
-2- Average Joe- You are about the same as most other people. You don’t stand out in the
+4-7 Average Joe- You are about the same as most other people. You don’t stand out in the
 crowd in whatever attribute. You aren’t horrible with it and you won’t win much of anything for
 it.
-3- Average Champion- You are beginning to stand outside of the crowd. You are better than
+8-11 Average Champion- You are beginning to stand outside of the crowd. You are better than
 the next person, but when it comes to most adventurers and villains though you are just so-so.
-5- Great Champion- You are starting to become better at this. You have either gotten lucky,
+12-15 Great Champion- You are starting to become better at this. You have either gotten lucky,
 or you have been working to get this good for a long time. Either way, you stand out from the
 “run of the mill” person. Keep up the good work.
-Character Creation
-67
-7- Epic Champion- You are incredible. Stories about you are told to children, to fill them
+16-19 Epic Champion- You are incredible. Stories about you are told to children, to fill them
 with a sense of wonder, or dread. that is up to your actions. But regardless, many know of your
 greatness, and give you your due respect (or fear).
-10- Demigod- You are the greatest around. The ones that are up here with you, you could
+20 Demigod- You are the greatest around. The ones that are up here with you, you could
 probably count on both hands. You have a notorious reputation of heroism, or terror that
 follows you where ever you travel.
 
@@ -191,128 +174,71 @@ Mutations- (5) Cancerous, (6) elongated limbs, (14) solid ribcage, (24) abnormal
 Other Bonuses- +1 to Muscles, +2 to Tendons.
 Other Negatives- -1 from Bones, -2 from Skin.
 
-To help illustrate how to make a character, we’ll go over the creation of Example Joe. At first glance he thinks that
-he wants to roll up an Immune. Upon further reading he discovers that he in fact does not. Being downtrodden and
-less than second class isn’t really Joe’s style. So upon even more reading he settles upon the Freaks. They’re fashon
-sense makes sense to him. So he takes a fresh character sheet and begins to fill the Physical Description of his
-character. After much thought and work the top of his sheet looks similar to this.
-
-Name- Example Joe Player- Me
-Sex- It’s a boy!
-Age- 24
-Height- Tallish
-Weight- I’m not fat!
-Cleanliness- I don’t smell too terrible
-Scars- Hard to say with all the tats.
-Hair Color- Black Hair Style- Mohawk, what else?
-Eye Color- Green Tattoos/Piercings- Too many for this little space
-Birth Region- huh? Stable Genetic Line- Freak
-Next Example Joe debates for a long while about his attributes. He doesn’t want to mess things up this early in his
-character creation. After much thought Joe finally decides to split his points evenly between his brains and his
-brawn. When it comes down to it his Attributes look thusly.
-Mental            Physical
-Abstract- 2       Bones- 5
-Learnable- 4      Metabolism- 1
-Senses- 1         Muscles- 3
-Stored- 3         Skin- 4
-Sub Conscience- 5 Tendons- 2
-
-Joe’s thinking with his attributes is he’d like a character that is tough and a bit smart. That way he can survive
-longer and he can rely on the character’s own knowledge since this is his first character and he doesn’t know much
-about the world. After working so hard to make his attributes perfect, Joe realizes that he must now modify them
-thanks to him being a Freak. After much dread this is what his attributes look like.
-
-Mental            Physical
-Abstract- 1       Bones- 5
-Learnable- 2      Metabolism- 1
-Senses- 1         Muscles- 3
-Stored- 4         Skin- 5
-Sub Conscience- 5 Tendons- 2
-
-So now Joe is a bit dumber, yet very good looking. The next step for him is the derived attributes
-
 Derived Attributes
 Next up since you have the attributes and mutations done, are the derived statistics. They are a
 little complex at first, but require little adjustment after you make your character.
-Base Flesh is used only to determine the amount of flesh that each part of your character has.
+
+Skill Price- Some people can pick up a skill or trade at the drop of a hat. Other people need to
+have everything beaten into their skulls until they figure it out. To represent this each character
+pays a specific amount of experience to improve any of their skills. It is determined thus...
+Skill Price- 1000 - (Abstract x25)
+
+Flesh is used only to determine the amount of damage that your character can take before they die.
 It is derived from...
-
-Base Flesh- Bones
-Locational Flesh is the amount of damage any part of your body can handle before it dies,
-and when it dies, you are probably not too far away. It goes as such...
-Head- Base Flesh x2
-Arms- Base Flesh x5
-Body- Base Flesh x20
-Legs- Base Flesh x10
-
-Combat Training- What kind of training your character has gotten in the ways of attacking.
-This could come from ancient kung fu masters, hardened drill instructors, or even a diploma
-from schools of hard knocks. More information on some of the possible combat training styles
-can be found after the skill descriptions.
-Combat Training- Untrained, Boxing, Knife Fighting, Primitive, Football, Action
-Movies, Military, or myth-maker’s discretion.
+Base Flesh- Bones x10
 
 Melee Damage- The amount of damage you can do to a person with fists, and can be
 augmented by melee weapons. Melee Damage has a minimum value of 1d10. The value is the
 number of d10’s rolled per melee attack, not a base number rolled at character creation. It
 equals...
-1 - 3 Muscles - 1d10 Melee Damage
-4 - 7 Muscles- 2d10 Melee Damage
-8 - 10 Muscles- 3d10 Melee Damage
+1-3 Muscles- 1d10 Melee Damage
+4-7 Muscles- 2d10 Melee Damage
+8-10 Muscles- 3d10 Melee Damage
+11-13 Muscles- 4d10 Melee Damage
+14-17 Muscles- 5d10 Melee Damage
+18-20 Muscles- 6d10 Melee Damage
 
 Initiative- The place in the order of combat that your character takes. This derived attribute
 shows how much of a quick draw your character is. It is determined by...
 Initiative- Senses
 
+First Impression- Do you look like you came in dead last in a shovel fight? Can you make
+dogs wimpier just by looking at them? Or perhaps you make the angels themselves weep with joy
+for your face. Well your physical appearance has everything to do with what people first think
+about. Your first impression can really shoot you in the foot, or save your candy ass. So here’s
+the first impressions.
+1-4 Skin- Disgust. You are so ugly your presence curdles milk. Good luck making
+friends.
+5-8 Skin- Neutral. You’re normal. Congrats, you blend in with the rest of the world.
+9-12 Skin- Attraction. You are pretty good looking. If it wasn’t for that nasty scar
+though...
+13-16 Skin- Adoration. Few can tell you, “No”. Even fewer can survive your charms.
+17-20 Skin- Worship. People fall to their knees at your feet. Have fun with the psycho
+stalkers.
+
+Skill Bonus- Everyone is able to bullshit their way through what they know and
+succeed at least once or twice in their lives. Characters have all skills under this amount
+automatically raised to this value. It does not add to any skills over this amount. It is equal to...
+1-3 Abstract- All skills are at least 1.
+4-7 Abstract- All skills are at least 2.
+8-11 Abstract- All skills are at least 3.
+12-15 Abstract- All skills are at least 4.
+16-19 Abstract- All skills are at least 5.
+20 Abstract- All skills are at least 6.
+
+Intuition- The gut feelings of a character.  The play may either use one to get advice from the myth maker
+or the myth maker can use them to give characters hints to avoid calamity.  Each use returns after a good
+night's sleep.
+1-9 Sub-conscience- 0 hints per day.
+10-19 Sub-conscience- 1 hint per day.
+20 Sub-conscience- 2 hints per day.
+
 Actions- How many things you can do in one turn of combat. There is a minimum of one
 action for any character. It is....
-Actions- Tendons
-
-Punch- How much damage your character can do if she decides to use their fist to do the
-talking. Punch damage equals…
-Punch- Melee Damage
-
-Kick- What kind of pain you inflict when you break out your feet of fury. Kicking damage
-inflicts…
-Kick- Melee Damage +1d10
-
-Grapple- This is the life you can squeeze out of a person if you so choose. This is an attack
-who’s damage is only adjusted by the addition of spiney mutations or clothing. Your hugs
-cause…
-Grapple- No damage unless you possess a mutation or addition to your armor that
-specifies otherwise.
-
-KO- KO is knocking someone out. Sending them to the sandman personally. Forcing nap time
-on them. It does a small amount of damage to knock someone out, so be careful not to over do
-it.
-KO- 1d10
-
-Blunt Resistance- Someone laying the smack on you? Blunt resistance is what will keep you
-from taking a dirt nap. It is your character’s natural armor against attacks of the bunt damage
-variety. For example, punches, kicks, flying chairs, speeding cars, or falling team mates. Blunt
-resistance is increased by mutations. Your natural blunt resistance is added to your armor to
-protect your squishey flesh points.
-Blunt- 0
-
-Disease Resistance- The natural strength your character’s body has when it is faced with
-outside forces inside. It’s a measure your body’s resistance to diseases, sickness, poisons, toxins,
-and radiation. This attribute begins the same for all characters and can be increased or
-decreased by mutations, nasty diseases, smoking, or other mysterious sources.
-Disease- 45
-
-Laceration Resistance- Hack and slash protection. This resistance will protect you from cuts,
-scrapes, slashes, and nicks. Examples of laceration style damage include, saber cuts, road rash,
-and shaving mishaps. Every character begins with a measly 0 for this attribute. Various
-mutations will increase this attribute to keep you alive. The laceration resistance enhances your
-character’s armor for the purpose of laceration protection.
-Laceration- 0
-
-Piercing Resistance- This has little to do with body jewelry and/or the implantation of it.
-This kind of piercing is the much more painful type, such as gunshots, flying arrows, impailments
-by pike, and harpoon mistakes. Only mutations can improve your character’s natural piercing
-resistance. Luckily armor can protect you from piercing damage, and your mutations can only
-enhance it even further.
-Piercing- 0
+1-4 Tendons- 1 action.
+5-9 Tendons- 2 actions.
+10-16 Tendons- 3 actions.
+17-20 Tendons- 4 actions.
 
 Total Experience- Not an immersive 3D world, but the total of your character’s experience in
 this world. As you adventure, mishap, fight, run, live, and love you gain experience. It’s a way to
@@ -321,527 +247,69 @@ experience can never go down, unless you get amnesia or get on a soap opera, onl
 number is only for compairison to other characters to see how skilled you are. A brief
 explination of what to do with your experience can be found after the combat training section,
 and an in depth description of experience can be found in the rules section.
-
 Total- Earn this yourself in the course of the game
+
 Available Experience- This is the amount of experience your character has available to
 improve herself. Experience is spent on combat training during character creation and/or
 improving your character’s skills or attributes. After creation a character must earn their combat
 training in other ways, and can no longer purchase it with experience.
 Available- 1,000 to begin with
 
-First Impression- Do you look like you came in dead last in a shovel fight? Can you make
-dogs wimpier just by looking at them? Or perhaps you make the angels themselves weep with joy
-for your face. Well your physical appearance has everything to do with what people first think
-about. Your first impression can really shoot you in the foot, or save your candy ass. So here’s
-the first impressions.
-1-2 Skin- Disgust. You are so ugly your presence curdles milk. Good luck making
-friends.
-3-4 Skin- Neutral. You’re normal. Congrats, you blend in with the rest of the world.
-5-6 Skin- Attraction. You are pretty good looking. If it wasn’t for that nasty scar
-though...
-7-8 Skin- Adoration. Few can tell you, “No”. Even fewer can survive your charms.
-10 Skin- Worship. People fall to their knees at your feet. Have fun with the psycho
-stalkers.
+Skills
+Your character's starting skills are equal to your character's skill bonus.  If they have any attributes 
+that are over 4 they receive a +1 to the skill indicated in the chart below.  This bonus only applies 
+when a durring character creation.  If a character raises their attribute over 4 over the course of their
+life, then they don't get the bonus.  
 
-Skill Price- Some people can pick up a skill or trade at the drop of a hat. Other people need to
-have everything beaten into their skulls until they figure it out. To represent this each character
-pays a specific amount of experience to improve any of their skills. It is determined thus...
-Skill Price- 20 - Learnable in Experience
-
-Attribute Price- Making your body improve itself above it’s normal limits is a very difficult
-thing. Some people are able to push their bodies harder and reach beyond their limits with a
-little less effort than others. To represent that, the cost for improving a character’s attributes
-varies. Read on to find out how.
-Attribute Price- 1,000 - (Metabolism x50) in Experience
-
-Minimum Skill Level- Everyone is able to bullshit their way through what they know and
-succeed at least once or twice in their lives. Characters have all skills under this amount
-automatically raised to this value. It does not add to any skills over this amount. It is equal to...
-Minimum Skill- Abstract %
-
-Maximum Skill Level- After a certain point characters just can’t learn anything else about
-what they know. When any of their skills reaches this amount they can not increase it anymore,
-unless they raise this value first. It is equal to...
-Maximum Skill- Stored x20 %
-
-Now our friend Example Joe begins the process of filling in his derived attributes. It takes a little bit and some
-though, but he ends up with his derived attributes. And they look like this.
-
-Combat Statistics   Damage Resistances  Flesh
-Combat Training-    Blunt- 0            Base Flesh- 5
-Melee Damage- 1d10  Disease- 45%        Head- 10
-Initiative- 2       Laceration- 0       Left Arm- 25
-Actions- 2          Piercing- 0         Right Arm- 25
-Punch- 1d10         Kick- 2d10          Body- 200
-Grapple- 0          KO- 1d10            Left Leg- 50
-                                        Right Leg- 50
-                                        
-Mutations - Tinted skin, breath smoke, extra fingers, hardened secretions, hemophiliac 
-Skill Price- 18 
-Attribute Price- 950
-Experience Available- 1k
-Total- 1k
-Minimum Skill- 1%
-Maximum Skill- 80%
-
-Background
-With that confusing business over with, now you can figure out where your character came from.
-Every character must roll on the following tables to determine the size and technology of the
-region that they came from. Also, where they came from effects how much money they start off
-with as well as what their skills start out at.
-
-Region Type
-1% - 10% Technological Stronghold- This is a place that is founded upon the ruins of a
-scientific building, or worse, a military base. Regardless of where it is, it has access to a heap of
-technological goodies.
-Starting money- 3d10 x 500
-
-11% - 20% Advanced City- This is a city that is near a dead city. Due to what ever reasons
-though, it is not in the dead city. Being so close to a dead city, it wasn’t too difficult for people to
-get the electricity and water to flow, and it looks pretty similar to what most think of when big
-cities are mentioned.
-Starting money- 1d10 x 450
-
-21% - 30% Trade City- This is an area that is at the crossroads of major traveling lanes.
-Being such a good location, a great and many people pass through this area. Most that stay earn
-their keep by trading what ever goods they may find.
-Starting money- 2d10 x 250
-
-31% - 40% Rebuilt City- This is a city that was built upon the skeleton of a former city. It
-will never quite the same, and never quite rid of the stench of decay. They are still better than
-the other alternatives. The ruins that they are built upon hold untold and unfound treasures.
-Starting money- 4d10 x 100
-
-41% - 50% Feudal City- This is an area that is claimed by a powerful ruler. If the ruler uses
-words, or weapons to keep this power is their choice. The structure and the technology closely
-resembles a medieval city. The castle may be a preexisting tower of steel and glass, or one made
-of stone and tin, but there is almost always one in cities such as this, where the ruler looks down
-upon their population.
-Starting money- 2d10 x 100
-
-51% - 60% Marauder Camp- This is a group of people whom are taking a break between
-pillages to rest, count their loot, and lick their wounds. The power depends on the ruler of the
-camp and their strength. Their technology depends on their latest excursion.
-Starting money- 5d10 x 50
-
-61% - 70% Dirt City- This is a city that tries it’s hardest to be a real city, just like the big ones.
-Unluckily it can’t get off the ground. So it sits, not quite a slum, but not quite a city. These are
-usually very quiet, peaceful, and a great place to settle down.
-Starting money- 3d10 x 50
-
-71% - 80% Wilderness City- This city is but a few mere huts made of local materials and is
-usually deep in woods, or some form of local wilderness. People come here to disappear, and
-lose themselves. Being in the wild, most supplies are made from what ever is available, not
-purchased.
-Starting money- 5d10 x 10
-
-81% - 90% Dead City- This is the skeleton of a long lost city that crumbled during the
-plague, anarchy, or the power struggle. Regardless of how it fell, it fell quite hard. Never to
-become whole again. It’s only townsfolk are adventure seekers, treasure hunters, and sometimes
-people hiding away from the world.
-Starting money- 3d10 x 50
-
-91% - 100% Wild- This is just a single hut, teepee, or cave in the woods. All by your self, what
-ever you may have, you found in the local area. It’s tough living by yourself, but nobody tells you
-what to do.
-Starting money- 3d10 x 10
-
-Having done all that, you may now figure out what your skill percentages are. Your skills are
-based on which region your character started off from.
-Back with our friend, Example Joe, he takes a pair of dice and rolls them to see where he’s coming from. The first
-die, which he selected to be the tens, comes up with a 7. So he’s got a seventy-something. The second die, which
-was naturally ones comes up as 0. This gives Joe a 70 for his starting location. Consulting the chart he discovers
-that he is from a dirt city. He must have grown up in a small suburb of some sort. Example then sees that he gets
-to roll 3 dice, add them up, then multiply the total by 50. He rolls a 3, 5, and a 0 again. Adding the dice up he
-gets 8 (the 0 counts as a zero). He then multiplies 8 by 50 to get a grand total of 400 coin to start with.
-
-Skill Chart
-This is a chart with the levels of skills for a character. After you roll for your region then you
-assign your skill percentages based on the following chart. After that certain attribute bonuses
-add to your skill.
-Skill Technological Stronghold, Advanced City Trade City, Rebuilt City Feudal City, Marauder Camp Dirt City, Wild City Dead City, Wild
-Swim 10% 20% 30% 50% 60%
-Drive 35% 25% 15% 5% 0%
-Domestics 25% 25% 5% 60% 20%
-Construction 20% 25% 20% 30% 20%
-Survival 15% 20% 25% 30% 60%
-Tinkering 40% 20% 25% 20% 5%
-Smithing 0% 5% 45% 30% 10%
-Prowl 20% 30% 40% 20% 50%
-Lock pick 30% 35% 10% 10% 40%
-Theft 15% 15% 15% 15% 15%
-Dodge 25% 30% 35% 25% 45%
-Unarmed 20% 45% 60% 30% 55%
-Small Melee Weapons 10% 25% 50% 30% 45%
-Large Melee Weapons 5% 15% 40% 20% 35%
-Exotic Melee Weapons 0% 5% 30% 10% 25%
-Throw 10% 30% 50% 30% 45%
-Archery 20% 25% 45% 25% 25%
-Pistols 20% 10% 35% 10% 5%
-Rifles 10% 5% 25% 5% 0%
-Support Firearms 0% 0% 15% 0% 0%
-Communication 15% 20% 20% 0% 10%
-Acting 20% 45% 15% 60% 20%
-Music 20% 20% 20% 20% 20%
-Etiquette 20% 55% 10% 10% 20%
-Literacy 40% 25% 10% 10% 20%
-Appraisal 10% 60% 25% 20% 20%
-Mechanics 35% 10% 30% 10% 10%
-Navigation 20% 20% 25% 10% 10%
-Pilot 10% 0% 0% 0% 0%
-Basic Medicine 35% 15% 20% 60% 10%
-Advanced Medicine 25% 5% 10% 50% 10%
-Pharmacy 15% 0% 0% 40% 10%
-Psychology 20% 10% 5% 0% 0%
-Religion 25% 25% 25% 25% 25%
-Biology 20% 10% 5% 5% 10%
-Physics 20% 10% 5% 0% 10%
-Computers 20% 15% 0% 0% 10%
-Electronics 35% 20% 5% 5% 0%
-Engineering 60% 10% 10% 10% 10%
-Demolition 5% 10% 35% 10% 10%
-
-Here is the Rosetta Stone for this chart.
-Skill- This is the name of the skill.
-Technological Stronghold, Advanced City- If your character is from either of these
-regions, then these are the starting values of your skills.
-Trade City, Rebuilt City- If your character is from either of these regions, then these are the
-starting values of your skills.
-Feudal City, Marauder Camp- If your character is from either of these regions, then these
-are the starting values of your skills.
-Dirt City, Wild City- If your character is from either of these regions, then these are the
-starting values of your skills.
-Dead City, Wild- If your character is from either of these regions, then these are the starting
-values of your skills.
-
-Attribute Bonuses
-If you have any of the following attributes are at, or above 4, then your character will receive a
-+15% bonus to her skills according to the following chart. This bonus only applies when the
-character is first created, and if her attributes go above 4 during the course of the game, then she
-does not receive the bonuses. Conversely, if the character’s attributes drop to below 4, the
-bonuses are not lost. This is done after the attributes are altered by the mutations she may or
-may not possess.
-
-Abstract- Acting, Appraisal
-Learnable- Drive, Navigation
-Senses- Basic Medicine, Mechanics
-Stored- Literacy, Engineering
-Sub-Conscience- Music, Religion
-Bones- Smithing, Large Melee Weapons
-Metabolism- Survival, Tinkering
-Muscles- Swim, Throw
-Skin- Domestics, Etiquette
-Tendons- Dodge, Small Melee Weapons
-
-When we last left our good friend Example Joe, he had rolled for his region. Now he has all of his skills assigned
-and he’s going to figure out what skills get bonuses from any of his good attributes. If you remember his attributes,
-after being modified by his mutations, looked something like this…
-
-Mental            Physical
-Abstract- 1       Bones- 5
-Learnable- 2      Metabolism- 1
-Senses- 1         Muscles- 3
-Stored- 4         Skin- 5
-Sub Conscience- 5 Tendons- 2
-
-Joe happens to have 4 attributes with 4 or more points in them. So because of this he gets bonuses of 15% to
-some of his skills. These skills are, literacy, engineering, music, religion, smithing, large melee weapons, domestics,
-and etiquette. Next Joe gets to spend some experience to make his character a little less not so good.
-Character Creation
+Abstract- Tech
+Bones- Pilot
+Muscles- Melee
+Senses- Ranged
+Skin- Entertainment
+Stored- Medicine
+Sub-Conscience- Upkeep
+Tendons- Thievery
 
 Skills
 Next are the skill descriptions. The following is a quick description of what the skills may or may
 not encompass.
 
-Swim- Staying afloat in liquid environments. It may not seem like that important of a skill until
-you are in the middle of the ocean on a sinking ship. This skill covers regular swimming styles,
-staying afloat for long periods, snorkeling, scuba diving, as well as regular diving.
+Tech- [put words here]
 
-Drive- Getting from point A to point B with something other than your feet. This skill covers
-operating all ground based motor vehicles and nautical vehicles under normal and aggressive
-conditions and normal maintenance. The skill covers cars, motorcycles, bikes, trucks, tanks, sail
-boats, oil tankers, power boats, row boats, as well as any other vehicle that operates only on the
-land or sea. Does not include cruising or picking up chicks.
+Pilot- [more words here]
 
-Domestics- The fine art of running a household. This skill covers cleaning with whatever
-supplies are available, cooking with the foods available, sewing, as well as application of makeup.
+Melee- [a few more words]
 
-Construction- The manly art of building and repairing structures. This skill covers the
-building of new structures, the building of defensive fortifications, basic woodworking, basic
-plumbing, basic electrical engineering, repairs necessary to keep a building running, as well as
-necessary internal repairs to keep a building comfortable for living.
+Range- [here would be a good word place]
 
-Survival- How to keep yourself alive when there is nobody else around. This skill covers
-tracking of animals and people, identification of edible plants, identification of edible portions of
-animals, methods of surviving for long periods without food or drink, as well as how to live off of
-what the land provides.
+Medicine- [still more words]
 
-Tinkering- Messing around with anything you can, usually without knowing how exactly it
-works. This skill covers the manipulation of nearly any device, mostly jury rigging devices.
+Upkeep- [i feel words would be good here]
 
-Smithing- How to manipulate metals and minerals to create metals and shape them however
-you desire. This skill covers forging metals, smelting of ores, refining metals, shaping metals
-under extreme heat, and metallurgy.
-
-Prowl- This skill is all about being sneaky. This skill covers hiding, concealment, stealthy
-movements, and camouflage. Note this does not cover being a creepy person, only creeping
-about.
-
-Lock picking- The fine art of unlocking a lock without the proper key. This skill covers
-unlocking locks without a key, defeating coded locks, re-keying locks, and repairing locks. It’s as
-easy as saying, “Open Sesame”.
-
-Theft- This is a show of how good your five finger discount is. This skill covers stealing objects
-from people without their knowledge, planting things on people without their knowledge, as well
-as palming small objects. Just keep away from my wallet.
-
-Dodge- It represents how well you can avoid harm from a variety of sources. This skill covers
-dodging incoming melee attacks, dodging incoming ranged attacks, and general acrobatic feats.
-Also includes dodging, diving, dipping, ducking, and dodging.
-
-Unarmed- The fine art of pummeling people to death with whatever is attached to your body.
-This skill covers natural attacks with your body, blocking incoming melee attacks with your body,
-as well as knowing forms of unarmed combat. Some example forms of unarmed combat would
-be boxing, king fu, and kick boxing. Natural attacks include punching, hitting something with a
-web, or kicking.
-
-Small Melee Weapons- How to liberate people of their lives with one handed melee weapons.
-This skill covers the use of one handed melee weapons, blocking incoming melee attacks, as well
-as the general upkeep of one handed melee weapons. Some example one handed melee
-weapons are knives, maces, or hatchets.
-
-Large Melee Weapons- This is the skill that covers attacking people with two handed melee
-weapons. This skill covers use of two handed melee weapons, blocking incoming melee attacks
-with two handed melee weapons, as well as general upkeep of two handed melee weapons.
-Some examples of two handed melee weapons are claymores, fire axes, and oversized clubs.
-Exotic Melee Weapons- If it’s not a normal melee weapon, it’s covered here. Everything
-from bar stools to computer monitors, even the guy standing next to you. This skill covers covers
-the use of specialty melee weapons, blocking incoming melee attacks with specialty melee
-weapons, as well as general upkeep of of exotic melee weapons. Some examples of exotic melee
-weapons are chains, saps, and chain saws.
-
-Throw- Chucking things at people, that’s what this skill is all about. This skill covers throwing
-small throwing knives, lobbing rocks, as well as tossing javelins. Some examples are throwing
-knives, hand grenades, and spears.
-
-Archery- It’s the age old skill covering simpler ranged weapons. This skill covers using bow
-weapons, crossbow weapons, as well as the general upkeep of these weapons. Some examples of
-archery weapons are bows, crossbows, and compound bows.
-
-Pistols- How to pop caps at your enemies. That’s what this skill is all about. This skill covers
-the use of one handed firearms, and the general upkeep of one handed firearms, it does not
-include the wielding of two handed firearms while and strutting your stuff like certain action
-heroes. Some examples of pistols are revolvers, semiautomatic pistols, and submachine guns.
-
-Rifles- Using long arm weapons to bring your target down. This skill covers the use of two
-handed firearms, and the general upkeep of two handed firearms, it does not include cheating
-and using a one handed firearm with both hands. Some examples of rifles are hunting rifles,
-assault rifles, and shotguns.
-
-Support Firearms- The use of the really odd (and fun) ranged weapons. This skill covers any
-firearms or ranged weapons that are not covered by archery, pistols, or rifles, as well as the
-general upkeep of the special weapons. Some examples of support firearms are flame throwers,
-machine guns, and cannons.
-
-Communication- The fine art of speaking with other people without being near them. This
-skill covers broadcasting over AM frequencies, broadcasting over FM frequencies, broadcasting
-over UHF frequencies, VHF frequencies, setting up and transmitting cable television, setting up
-and operating telephones, setting up and operating cellular telephones, setting up and operating
-high speed internet access, and communicating with any satellite that may still exist. AM and
-FM frequencies are for radio stations and UHF as well as VHF frequencies are for television
-stations.
-
-Acting- “To act, or not to act. That is the question.” This skill answers that age old with a
-resounding, “YES!” This skill covers performing in front of large crowds, making people believe
-you are someone that you aren’t, applying stage makeup, in addition to giving speeches to the
-people.
-
-Music- Jamming with instruments or singing along are what is covered by this skill. This skill
-covers performing in front of crowds, singing, dancing, playing instruments, the basic use of
-amplifiers, in addition to the basic use of recording equipment.
-
-Etiquette- The fine art of knowing the little rules and regulations of socialization. This skill
-covers knowledge of the various social rules and traditions, performance of ceremonial
-procedures, knowledge of laws, general knowledge of the history of the world, and knowledge of
-ethics.
-
-Literacy- Can you read this? If so, then you are literate. This skill covers the reading of a
-language of your choice, as well as the ability to write the language. This skill does not include
-speaking the language simply writing and reading it.
-
-Appraisal- The fine ability of knowing the values of goods and services. This skill covers a
-general knowledge of values of goods, the general value of services, determining how well a
-device is functioning, the value of various currencies in use, the exchange rates of various
-currencies, as well as ways to haggle and barter goods and services.
-
-Mechanics- The dirty art of repairing and building simple mechanical devices. This skill
-covers repairing engines, building and rebuilding engines, repair of generators, building and
-rebuilding of generators, repair of mechanical devices, as well as the building and rebuilding of
-mechanical devices.
-
-Navigation- Figuring out how to get from point A to point B. That’s what this skill is all about.
-This skill covers map reading, cartography, astronomy, use of navigation tools, as well as
-pathfinding. Some examples of navigational tools are sexton, compass, and radar systems.
-
-Pilot- This skill covers how to go up up and away. It also luckily covers coming back down
-safely. Specifically this skill covers operating aircraft, operating helicopters, operating gliders, as
-well as general upkeep of said devices.
-
-Basic Medicine- Keeping people alive until better care can be administered, that’s all that this
-skill is interested in. This skill covers first aid, simple medical procedures, CPR, and the
-prescribing of medicines to keep a person alive. Some examples of simple medical procedures
-are applying a splint to broken limbs, controlling major bleeding, and immobilizing parts of the
-body to prevent further injury.
-
-Advanced Medicine- How to keep people healthy for a great and long time. This skill covers
-internal surgery, techniques to assist the elderly through their golden years, techniques to assist a
-person conquer substance addiction, techniques to improve a person’s overall health, and
-prescription of medicine to improve a person’s overall health.
-
-Pharmacy- Drugs. That’s all this skill is about. What they are, what they’ll do to you, and how
-to make them. Specifically this skill covers knowledge of chemistry, the creation of drugs, the
-proper dosage of drugs for patients, the prescription of suitable alternatives for drugs that aren’t
-available, the identification of herbal remedies, knowledge of the effects of drugs on the body,
-and creation of chemical compounds.
-
-Psychology- Understanding how the mind works, and how your mother made it the way it is.
-This skill covers understanding how the mind copes with various situations, easing people
-through mental trauma, inflicting great mental trauma, as well as the prescription of drugs that
-have specific effects on the mind.
-
-Religion- A fundamental answer to the great question. Why? But you can’t get the answer that
-easy, so here is what the skill covers. general knowledge of the various religions, general
-knowledge of the various cults that come and go, knowledge of the various religious ceremonies
-and practices, knowledge of various cult’s ceremonies and practices, as well as knowledge of
-prominent figures in the religion’s or cult’s history.
-
-Biology- A skill that centers around the functioning of creatures that inhabit this planet. This
-skill covers knowledge of plant physiology, animal physiology, knowledge of how creatures and
-plants adapted and evolved, knowledge of mutations and their effects on people, as well as
-knowledge of possible causes of mutations.
-
-Physics- This skill covers how the world basically operates. This skill covers general knowledge
-of science, knowledge of the interactions between matter and energy, knowledge of the
-properties of various materials, as well as general knowledge of how the universe works.
-Computers- The fine art of operating computing devices. This skill covers knowledge of
-operating computers, operating programable calculators, operating PDA’s, hacking of computers,
-debugging software, as well as recovery of lost data. This skill only covers software, it does not
-cover hardware.
-
-Electronics- If it’s powered by electricity, then this skill covers it’s bits and pieces. This skill
-covers the creation of electronic devices, repair of electronic devices and the modification of
-electronic devices. Some examples of electronic devices are computers, televisions, and radios.
-This skill only covers hardware, it does not cover software.
-
-Engineering- All the planning and design of anything at all. This skill covers the planning of
-construction projects, knowledge of construction techniques, as well as a general knowledge of
-various material’s properties. This skill covers the planning stages of construction, it does not
-cover the actual construction of structures.
-
-Demolition- The fine art of destroying objects and people with explosives. This skill covers the
-proper application of explosives, a good understanding of the effects of explosives, the proper
-placement of explosives, as well as the creation of explosives.
+Thievery- [last bit of extra words here]
 
 Skill Equivalents
 So now that you have your base skills set out, you want to know how you stack up against the rest
 of the world. Here’s something that will help you do that.
 
 Skill Equivalents
-0%- Nonexistent- You haven’t the slightest idea as to what the skill is about, other than what
+1-2 Nonexistent- You haven’t the slightest idea as to what the skill is about, other than what
 the name may imply.
-
-15%- Average Joe- Here is where a “Jack of all traits” would have his skills, enough to make it
+3-4 Average Joe- Here is where a “Jack of all traits” would have his skills, enough to make it
 look like you know what you are doing, but not enough to really do much of anything at all.
-
-35%- Average Champion- Here is where most people start to show a better understanding of
+5-6 Average Champion- Here is where most people start to show a better understanding of
 the subject. They know what they can do, and what they can’t. They may not be the best ever,
 but they know that they can improve, and they do try to improve.
-
-55%- Great Champion- Here is where you would be considered a “Master”. There are some
+7-8 Great Champion- Here is where you would be considered a “Master”. There are some
 things that you don’t know just yet, but you can, and have lived without them.
-
-75%- Epic Champion- Here is where you are considered the one of the best around. There
+9-10 Epic Champion- Here is where you are considered the one of the best around. There
 are betters, but not many, so enjoy it while you can.
-
-100%- Super Hero- You could star in your own comic book, if they still existed. But since
+11-15 Super Hero- You could star in your own comic book, if they still existed. But since
 they don’t, you will just have to deal with being in stories told around camp fires. Your ability in
 this skill is nearly infallible. Your skill is nearly unmatched.
-
-200%- Greatest Ever- You rock. Plain and simple. Everyone knows about your talents, and
+16-20 Greatest Ever- You rock. Plain and simple. Everyone knows about your talents, and
 most think that it’s just bed time story. This is the highest a skill can, or will ever get. And at this
 level, you are The Man (or The Woman).
-
-Combat Training
-Combat training is how your character learns how to defend herself. It could be anything from
-extensive military training, to learning how to box in the ring, to just making it up as you go. No
-matter what kind of training your character may choose, you must pay some of your beginning
-experience to “purchase” the training. The cost is listed with each form of training. After
-purchasing your combat training, your character gains discounts to specific skills. In mechanical
-game terms, your character need only pay half of their normal skill cost amount to purchase the
-skills listed with the combat training. As an added bonus, characters gain a pernimant bonus to
-the attribute listed. Now if a character is to receive another form of combat training, the mythmaker
-is advised to make it a very difficult time. But if they survive the training, they receive the
-bonus on top of any other bonuses they may possess from other combat trainings.
-
-Untrained- (0 Experience) You know how to hit someone, and you know which end of the
-gun you are suppose point at a person, and that’s about it. Everything you learned you learned
-on your own. That isn’t a bad thing, but you take longer to learn the more extravagant combat
-moves.
-Skill Discount- None.
-Bonus- None.
-
-Boxing- (100 Experience) You used to fight a lot. Be it in a ring, or on darkened streets. You
-know you like to use your fists, and you also know how to make them hurt. Boxing concentrates
-on punches and blocking with your arms. As you grow more knowledgeable, your punches will
-“fly like a butterfly, and sting like a bee”, a very painful bee.
-Skill Discount- Unarmed
-Bonus- +3 to Melee Damage
-
-Knife Fighting- (250 Experience) Perhaps you were the scrawny kid that got beaten up, and
-to even the odds, you picked up a knife. Or maybe you just didn’t want the scrawny kid to have
-the slightest of chances. Either way, you were hooked when you first wielded a knife. Ever since,
-you have used little other than your trusty knife. In the beginning, you aren’t intimidating to
-much more than the kids you used to beat up. Given enough time and practice though, you
-could tap-dance all over someone’s face without breaking a sweat.
-Skill Discount- Small Melee Weapons
-Bonus- +3 to Initiative
-
-Primitive- (250 Experience) You grew up in a community where technology was treated as
-sacred artifacts, or not even heard of. Your community used primitive tools and weapons to
-defend themselves. Not a single man, woman, or child was a stranger to the weapons of your
-tribesmen. You learned the basics of melee combat.
-Skill Discount- Large Melee Weapons
-Bonus- +5 to all Damage Resistances
-
-Football- (500 Experience) Everyone laughed at you when you threatened them with a
-football. After everyone else was knocked out, you had the last laugh. A former quarterback that
-loved to throw the pigskin around, you decided that other things would be more fun to throw
-around. Like things that impale. Or explode.
-Skill Discount- Throw
-Bonus- +3 Base Flesh
-
-Town Guard- (500 Experience) You did a brief tour as a guard in your hometown. They
-taught you the basics of archery and then gave you a bow and quiver. You did your time and got
-a bit better at it and then you decided to go off and use what you learned outside of the
-claustrophobic walls of your hometown.
-Skill Discount- Archery
-Bonus- +5 to all Damage Resistances
-
-Action Movies- (750 Experience) You have somehow seen a lot of violence from movies,
-video games, music videos, or read about it in books, but no matter how you have experienced it,
-you decided that that is how you are going to fight. Since movie making is a sort of “long lost”
-art form, you don’t know about the army of minions that work with the star to make them fight
-like that. But regardless you still strive to achieve that kind of fighting. At first it is laughable, but
-as you progress, who knows?
-Skill Discount- Exotic Melee Weapons
-Bonus- +3 to Initiative
-
-Military- (750 Experience) You were conscripted to serve in a local military. They taught
-you how to wield a crossbow and your fists. Then they threw you into the meat grinder. You
-came out alive and deserted your unit. Now armed with your new skills you do as you please and
-don’t let anyone push you around anymore.
-Skill Discount- Rifles
-Bonus- +5 to all Damage Resistances
 
 Now that you know what your character’s attributes, skills, good points, and bad ones are, it is
 time to give her some experience to improve those parts that may need a little work. It isn’t
@@ -854,22 +322,6 @@ also purchase combat trainings in the beginning to make their characters unstopp
 machines. Any way that they spend it, it’s theirs to play with. For a more in depth look at
 spending experience, see the end of the Rules Chapter. After that it’s time to equip your
 character.
-Now comes the time when Joe would like to spend some of his experience to strengthen some of his character’s
-weaker points. He’ll probably never have a rock solid character, but Joe would like to not hamstring himself in the
-beginning if he can. So he considers the various combat trainings. At first he likes Untrained so that he can spend
-more of his experience making his character awesome. But then he realizes that this could be the only chance his
-character has to get combat training of any kind. So he decides on Town Guard for his combat training. It gives
-him a neat background to play with and some useful bonuses. Joe finds his damage resistances and adds 5 to each
-one. This includes the disease resistance. He then also marks his skill, archery, because it now costs half the
-normal experience to increase his archery skill. With the last 500 experience he has left (1000 available - 500 for
-town guard combat training) he decides to improve a few of his skills a little bit.
-Firstly he increases his archery by 10%. This would normally cost 18 experience per skill %, but since it’s his
-discounted skill, it’s only 9 experience to increase it 1%. This takes his archery skill from 25% to 35%. He then
-opts to put 5% in unarmed, so if he is ever without bow he won’t be an easy target. His new unarmed skill goes
-from 30% to 35%. Finally to make a few extra bucks, hopefully, he adds 5% to his appraisal skill so he can
-determine the crap from the phat loots. This final boost brings his appraisal from 20% up to 25%. This leaves
-Joe with 230 experience, which he plans on saving for another time. So his available experience becomes 230.
-Finally he moves on to purchasing his equipment.
-For those interested, Example Joe’s final character sheet (we’re not finished with him just yet…) will appear in the
-back of the book. Also appearing back there is the blank character sheet for you to create your own characters
-yourself.
+
+[insert Example Joe creation instructions here]
+[insert annotated character sheets for Example Joe as well as explanation]
