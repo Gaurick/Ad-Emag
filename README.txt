@@ -40,6 +40,7 @@ Stop using commas and parenthesis in notes (and the rest of the document).
 Fill with entertaining and not misspelled words.
 
 Simplify the system to be only d10 based (no percentiles).
+OR change everything to be only d20 based instead (attributes are converted to a 1-20 system already.)
 Reduce the number of skills, derrived attributes, and maybe attributes.
 Remove birth cities and drop descriptions somewhere narratively.
 Set base skills to start/come up with system to get starting skills (now d10 based, not percentile).
