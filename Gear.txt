@@ -1,19 +1,6 @@
 Gear
-
-Money
-After the dust settled, everyone realized that the paper money wasn’t worth the paper that it was
-printed on. Mostly because the government that backed it was nonexistent, and the paper was
-wasted. So everyone ended up deciding that coins were still worth while, due to the fact that they
-were made of metals that could be used for tasks other than paying for goods or services. So the
-coins became a new form of currency. Due to a new utilitarian point of view, the value of each
-coin was altered. So here’s the new list of coin values.
-
-Silver Dollar- $100
-Fifty Cent Piece- $50
-Quarter- $25
-Nickel- $10
-Penny- $5
-Dime- $1
+Currency
+[description of different currencies available?]
 
 Weapons
 Melee Weapons
@@ -22,74 +9,51 @@ feet, chairs, 2 x 4’s and any other implement that you might use to injure a p
 propelled by your own muscles.
 Here’s some melee weapons...
 
-Name- Brass Knuckles
-Damage Type- Blunt
-Melee Damage- Melee Damage +5
-Skill- Unarmed
-Minimum Muscles- 0
-Notes- A piece of steel shaped into the rough shape of a person’s fist with holes drilled into it.
-Commonly used to make a person’s punch hurt much more. Can be used to knock out foes.
-Value- 60 - 120
-Name- Lead Pipe
-Damage Type- Blunt
+Name- Shiv
 Melee Damage- Melee Damage +10
-Skill- Small Melee Weapons
-Minimum Muscles- 1
-Notes- A hunk of old pipe. Long term exposure can lead to cancer, concussions, broken bones,
-and even death. Can also be used to knock out foes.
-Value- 6 - 50
+Skill- Melee
+Description- A fall back for anyone who can't afford any better.  Consists of something with a
+pointy bit and a not pointy bit to hold onto.  The pointy bit might also have a sharp edge to it,
+if you have the delux shiv.
+Notes- It's better than creative insults as well as your bare hands.
+Value- 36-2,116
 
-Name- Fire Axe
-Damage Type- Piercing
-Melee Damage- Melee Damage +30
-Skill- Large Melee Weapons
-Minimum Muscles- 2
-Notes- A standard axe for cutting fires. Actually an axe used by fire departments before the
-plague. Now it’s use is for everything from removing trees from the forest to removing limbs from
-bodies.
-Value- 42 - 164
+Name- Claw hammer
+Melee Damage- Melee Damage +15
+Skill- Melee
+Description- A hammer.  Used on nails.  In a pinch can be used on heads.  People's heads, not nail
+heads.
+Notes- It has a flat part as well as a claw part.  Two sides for the price of one tool.
+Value- 64-2,601
 
-Name- Boot Knife
-Damage Type- Laceration or piercing
-Melee Damage- Melee Damage +8
-Skill- Small Melee Weapons
-Minimum Muscles- 0
-Notes- A knife just the right size for a person’s boot. Makes the perfect weapon for those times
-when ammunition is in desperate need.
-Value- 180 - 460
 
-Name- Spear
-Damage Type- Laceration or piercing
-Melee Damage- Melee Damage +25
-Skill- Large Melee Weapons
-Minimum Muscles- 3
-Notes- A very long piece of wood with a sharpened rock tied to the end. Very effective against
-anyone you want to keep at a distance from you.
-Value- 5 - 23
+Name- Replica saber
+Melee Damage- Melee Damage +70
+Skill- Melee
+Description- A saber from a bygone era.  It looks mean and intimidating, but thanks to it being
+a replica, it's not as tough as it should be.
+Notes- Higher chance to break with every attack.
+Value- 598-11,236
+
+Name- Fire axe
+Melee Damage- Melee Damage +75
+Skill- Melee
+Description- An axe used by the preplague fire departments to kill fire.  Often met with mixed 
+results, the secretes of killing fire have been lost.  Still works pretty well on people, animals,
+and inanimate objects.
+Notes- Painted bright red.
+Value- 663-12,321
+
+
+
+
+
+
 
 Ranged Weapons
 Ranged weapons are weapons that are used from a distance. They send various projectiles or
 other objects outward faster than you can throw them. If you don’t wish to see the look of pain
 and fear on your enemies face, then ranged weapons are for you.
-Ranged weapons are divided into five general categories. The first category would be thrown
-weapons. They are weapons that you throw at your enemies. Helpful in a pinch and allow you
-to keep a good distance from your targets. They include, ninja stars, throwing knives, hand
-grenades, and rocks.
-The second category would be primitive ranged weapons. They are weapons that use simplistic
-strings to launch small projectiles further than a person could throw them. They may be a
-primitive and simple way of doing things, but they are effective. They include, bows and arrows,
-crossbows, and spear cannons.
-The third category would be pistols. They are smaller weapons that can be typically used with
-one hand. You may opt to use both if you wish, but they are designed for one hand. They
-include, pistols, revolvers, and submachine guns.
-The fourth category would be rifles. They are firearms that use much longer bullets than pistols.
-They have much more of a chance of penetrating armor, but do not do as much damage as a
-pistol would. They include, hunting rifles, assault rifles, and shotguns.
-The final category would be support weapons. They are any ranged weapons that do not fit in
-the other category. They are the odd ball weapons and without proper knowledge they can be as
-much damage to the user as the targets. They include machine guns, cannons, and flame
-throwers.
-Here is a wide (but not an end all listing) of ranged weapons.
 
 Name- Bow and arrow
 Caliber- Arrow
