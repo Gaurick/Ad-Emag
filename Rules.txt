@@ -781,28 +781,14 @@ Gaining Experience
 Since you know how high you can go, you want to know how to get there. Well here is the chart
 for gaining experience. This is for every action you get. It may not seem to be too much just yet,
 it does add up, and quickly.
-Using skill (and failing)- 2
-Using skill (and succeeding)- 1
-Defeating a weaker foe (killing, incapacitating, or befriending)- 5
-Defeating an equal foe (killing, incapacitating, or befriending)- 20
-Defeating a superior foe (killing, incapacitating, or befriending)- 50
-Defeating an impossible foe (killing, incapacitating, or befriending)- 100
-Completing a job or task- 25
-Coming up with a worthless plan- 10
-Coming up with a decent plan- 20
-Coming up with a good plan- 40
-Coming up with a great plan- 80
-Coming up with a phenomenal plan- 160
-Saving a person- 5
-Saving a small group of people (2-15)- 2 x person
-Saving a large group of people (16+)- 1x person
-Dooming a small group of people (2-15)- 2 x person
-Dooming a large group of people (16+)- 1 x person
-Risking your own life (and failing at the task, but living)- 50
-Risking your own life (and succeeding at the task, and living)- 100
-Risking your own life (and dying)- You Lose.
-Getting players together- 30
-Keeping group together- 15
+1xp per person defeated or killed.
+1xp per skill used.
+10xp per quest turned in.
+25xp per quest line completed.
+
+500xp to increase attribute by 1 point.
+975-500xp to increase skill by 1 point.
+
 
 Spending Experience
 Once characters play for a bit and learn the finer points of living in this world, they gather a
