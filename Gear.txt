@@ -1,7 +1,4 @@
 Gear
-Currency
-[description of different currencies available?]
-
 Weapons
 Melee Weapons
 These are the weapons that you use in melee combat. That means using swords, chains, fists,
@@ -205,183 +202,21 @@ it for the six parts of your body. It may be noted, that this may be an extensiv
 to try to use something else for a form of armor, just try to figure out the stats and speak with the
 myth-maker about it.
 
-Name 
-Blunt Laceration Piercing 
-Description 
-Notes 
-Value
+Light armor
+Name- Plain clothing
+Armor- 5
+Description- Normal clothes.  The kind you wear day to day.  Provides most bare of minimums in protection.
+Still better than nothing.
+Notes- Looks stylish at least.
+Value- 11-25
 
-Skins 
-1 8 1 
-human or other thin skinned animals that has been tanned
-Flammable 
-10-20
+Name- Hides
+Armor- 10
+Description- Thick furs and skin of large animals.  Prepared to prevent decay.  It gives a bit of protection
+from attacks, but is best against the cold in general.
+Notes- Keeps you warm when it's cold out.
+Value- 32-100
 
-Regular Clothing
-2 8 2 
-normal clothing that you would wear day to day
-Flammable 
-12-24
-
-Animal Hides 
-6 8 2 
-untreated animal skins 
-Flammable 
-16-30
-
-Reptile Skins 
-4 12 4 
-snakes and alligator skins 
-Flammable 
-20-40
-
-Patches 
-+2 +4 +2 
-small fabric added to armor to cover up holes or proclaim your opinions, can not be used by itself
-Flammable 
-8-16
-
-Reinforced Clothing
-16 30 14 
-thick fabric, high-tech fibers, heavy garments
-Flammable 
-60-118
-
-Padded Clothing
-30 26 14 
-sparring pads, 3+ layers of regular clothing, ect.
-Flammable 
-70-124
-
-Leather 16 40 24 
-Leatherneck skin that has been tanned
-Flammable 
-80-168
-
-Bone 
-40 40 30 
-Remnant bones of dead animals and/or foes
-Chips 
-110-210
-
-Plaster 
-80 60 28 
-helps hold limbs immobile Can help with medical skills,
-Chips
-168-284
-
-Plastic 
-60 80 40 
-mostly used as a safety precaution, not armor
-Flammable 
-180-340
-Rubber 
-72 80 36 
-PVC latex to soles of shoes 
-Flammable 
-188-340
-
-Wood 
-100 60 40 
-carved from trees 
-Flammable 
-200-340
-
-Hardened Leather
-60 120 60 
-leather boiled to make it harder, but less mobile
-None 
-240-480
-
-Chain Mail 
-60 100 100 
-blast from the past 
-Heats Up 
-260-560
-Studs 
-+30 +20 
-None small metal studs added to clothing to reduce damage, can not be used by itself
-Flammable 
-50-70
-
-Scrap Metal 
-125 300 125 
-everything from garbage cans, to car hoods
-Heats up 
-550-1,100
-
-Kevlar 
-50 50 600 
-"bullet proof" cloth 
-None 
-1,400-3,900
-
-Flack Material
-60 60 600 
-an army issue defensive material
-None 
-1,440-3,960
-
-Plate Mail 
-250 350 250 
-blast from the past (part 2)
-Heats up, Large and bulky
-850-1,700
-
-DemolitionMaterial
-200 200 800 
-used to protect from accidental bomb detonation
-None 2,400-6,000
-
-Hardened Steel Plates
-+50 +125 +200 
-very tough metal plates inserted under armor to provide extra protection to vital areas, must be added to armor
-Heats up 
-50-1,800
-
-There are a few categories on the armor chart, and here is what they mean…
-Name- What the material is usually called.
-Blunt- The amount of blunt damage that the armor absorbs before it damages your character.
-Laceration- The amount of laceration damage that the armor absorbs before it damages your
-character.
-Piercing- The amount of piercing damage that the armor absorbs before it damages your
-character.
-Description- What the armor is.
-Notes- Any special things you may need to know about your armor.
-Value- The usual price, varied by the supply, and quality of the armor.
-
-Notes
-Every suit of armor is different, and here are the special effects that happen to suits of armor
-when it is hit by a specific type of damage.
-
-Flammable- This when this material comes in contact with fire, or extreme heat, it will catch
-fire.
-> If attacked by fire has a 75% chance of catching fire, and you suffer additional fire damage.
-Shatters- This material is fragile, and if it takes too much damage, it will shatter into pieces
-there by making it completely useless.
-> If the attack exceeds the amount of damage that the armor can absorbs, it shatters, destroying
-it completely.
-
-Large and Bulky- This material is very large, cumbersome, and generally not fun to wear all
-the time. If you do decide to (or have to) wear it you suffer penalties to Muscles and Tendons.
-> While wearing suffer -2 to Muscles and Tendons.
-
-Heat Reduction- This material distributes heat very well and doesn’t catch fire very easily.
-When you are hit by any form of heat or flame, the armor will reduce the amount of heat
-damage that you receive. This also applies to damage done by fire and flame based weapons.
-> Reduces all heat damage by half.
-
-Heats Up- This material absorbs heat and doesn’t displace it very well. Wearing it when
-attacked by any form of heat causes it to heat up to painful levels, thereby doing more damage
-than good.
-> When attacked by heat, after the first turn does an additional 2d10 damage for every turn that
-the armor is heated up.
-
-Chips- This material when damaged will lose pieces of itself, until it literally falls off of your
-body.
-> When attacked, the armor takes double the damage that is dealt to it.
-Equipment
-103
 
 Drugs
 These are the drugs. Not just the kind that you get addicted to, but the ones that help you heal
