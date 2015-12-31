@@ -203,6 +203,9 @@ to try to use something else for a form of armor, just try to figure out the sta
 myth-maker about it.
 
 Light armor
+This is the cheapest armor that also provides the least amount of protection for you.  As you can see
+most types are taken from animals.
+
 Name- Plain clothing
 Armor- 5
 Description- Normal clothes.  The kind you wear day to day.  Provides most bare of minimums in protection.
@@ -216,6 +219,29 @@ Description- Thick furs and skin of large animals.  Prepared to prevent decay.  
 from attacks, but is best against the cold in general.
 Notes- Keeps you warm when it's cold out.
 Value- 32-100
+
+Name- Reptile skins
+Armor- 13
+Description- The skins taken from snakes, aligators, and other reptiles.  Provides a little protection, also
+looks pretty sweet.
+Notes- Potentially the most awesome boots available.
+Value- 47-169
+
+Name- Padded clothing
+Armor- 15
+Description- Lots of layers of regular clothing or especially well padded clothing.  Great at softening blows
+and keeping you warm.
+Notes- Another armor that helps keep you toasty warm.
+Value- 58-225
+
+Name- Patches
+Armor- +3
+Description- Small squares of fabric to cover holes in light armor.  May or may not match the base material. 
+Could also be either scrap fabric or actual patches proclaiming various interests in music.
+Notes- Can not be used without armor.  Adds it's armor value to the armor's armor value.
+Value- 5-9
+
+Medium Armor
 
 
 Drugs
