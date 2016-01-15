@@ -292,26 +292,30 @@ Value- 2,315-30,625
 
 Name- Kevlar armor
 Armor- 225
-Description- 
-Notes- 
+Description- High tech fibers from the days before the plauge.  These fibers combine to make clothing that
+can stop bullets.  Highly prized for it's toughness.
+Notes- The fabric is almost comfortable.
 Value- 3,375-50,625
 
 Name- Flack armor
 Armor- 250
-Description- 
-Notes- 
+Description- A brilliant person took the Kevlar clothing and put heavy metal plates in strategic locations
+to protect organs even better.  What a great guy.
+Notes- Quite a bit heavier, but sturdier than Kevlar armor.
 Value- 3,953-62,500
 
 Name- Plate mail
 Armor- 300
-Description- 
-Notes- 
+Description- A refined version of the scrap metal armor.  The metal is shaped and reinforced in key spots 
+to provide a great amount of protection.
+Notes- Unluckily it weighs heavily on the user and slows them down quite a bit.
 Value- 5,196-90,000
 
 Name- Demolition suit
 Armor- 400
-Description- 
-Notes- 
+Description- The apex of all armors.  Combining the heavy solid nature of plate mail and the light defensive
+properties of Kevlar.  All in a big fuzzy suit.
+Notes- Extreme in it's protection, weight, and stuffyness.
 Value- 8,000-160,000
 
 Drugs
