@@ -49,6 +49,7 @@ Get mutations formatted (.csv maybe?  some kind of ascii-art chart?).
 Make Myth-Maker section not stupid (or just replace with a tutorial adventure?)
 Get vehicles not stupid/remove completely and deal with later.
 Standardize mutations, armor, weapons, and personal damage to give a nice happy range of possibility.
+Give armors different names (or even change the substance).
 Standardize prices/values/starting monies to have a nice range of options/values.
 
 Come up with an anagram for insects.
