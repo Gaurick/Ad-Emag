@@ -242,7 +242,77 @@ Notes- Can not be used without armor.  Adds it's armor value to the armor's armo
 Value- 5-9
 
 Medium Armor
+This armor starts providing some kind of respectable defence against various attacks.  Half are made from 
+natural ingredients, others are pre-plague artifacts that have somehow survived the ages.
 
+Name- Leather
+Armor- 25
+Description- The prepaired skins of Leathernecks.  Leather is good at repelling water, keeping you warm, and
+even protecting you a little bit.
+Notes- Standard armor most work with.
+Value- 125-625
+
+Name- Bone
+Armor- 40
+Description- The bones taken from animals, people, and fossils.  Not only protects, but also makes you look 
+much more intimidating than other armors.
+Notes- It takes quite a few bones to make a full suit of armor.  They have to come from someplace unpleasant.
+Value- 253-1,600
+
+Name- Plastic
+Armor- 50
+Description- Hard plastic can come in a variety of bright colors and shapes.  Some of them may even protect 
+you from harm.
+Notes- Can customize colors and shapes to suit your particular whims.
+Value- 354-2,500
+
+Name- Rubber
+Armor- 65
+Description- A springy substance most often taken from car tires.  
+Notes- Quite often pieced together from many smaller scraps.
+Value- 524-4,225
+
+Name- Wood
+Armor- 70
+Description- Large slabs of wood hung on your body to protect vital parts.  Can be carved and painted 
+decoratively.
+Notes- Much thicker and stiffer than a Dryad's skin.
+Value- 586-4,900
+
+Heavy Armor
+The best armor available.  Most consists of materials that were created in the pre-plague days with
+advanced manufacturing methods.  Would be great canidates for heirloom items.
+
+Name- Scrap metal
+Armor- 175
+Description- Armor created from available hunks of metal.  Usually provides a pretty solid protection
+from most sources of damage.
+Notes- Comes with tetanus free.
+Value- 2,315-30,625
+
+Name- Kevlar armor
+Armor- 225
+Description- 
+Notes- 
+Value- 3,375-50,625
+
+Name- Flack armor
+Armor- 250
+Description- 
+Notes- 
+Value- 3,953-62,500
+
+Name- Plate mail
+Armor- 300
+Description- 
+Notes- 
+Value- 5,196-90,000
+
+Name- Demolition suit
+Armor- 400
+Description- 
+Notes- 
+Value- 8,000-160,000
 
 Drugs
 These are the drugs. Not just the kind that you get addicted to, but the ones that help you heal
