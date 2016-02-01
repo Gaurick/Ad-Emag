@@ -274,19 +274,30 @@ Skills
 Next are the skill descriptions. The following is a quick description of what the skills may or may
 not encompass.
 
-Tech- [put words here]
+Tech- This is the skill that covers a variety of advanced pre-plague and post-plague devices.  Tech
+covers the use of computer systems, general electronics, security systems, radios, and 
+any other advanced items that look like they came from a sci-fi movie.
 
-Pilot- [more words here]
+Pilot- Skill that covers the moving from one place to another with somehting that isn't your own two
+(or more) feet.  Includes cars, trucks, pack animals, piggy back rides, advanced navigation aids,
+maps, as well as any other similar skills.  
 
-Melee- [a few more words]
+Melee- How to beat a person.  The skill that covers fighting face to face.  Weapons are optional, but
+are covered.  Includes fists of fury, feet, other attached limbs, chairs, swords, chainsaws, clubs, 
+and even hammers.
 
-Range- [here would be a good word place]
+Range- Long range attacks are covered by this skill.  Covers slings, thrown items, rifles, flame throwers,
+cannons, and the classic bow and arrow.
 
-Medicine- [still more words]
+Medicine- The skill that keeps people alive.  Covers emergency first aid, advanced surgeries, pharmacy, 
+rehabilitation, and herbalism.  
 
-Upkeep- [i feel words would be good here]
+Upkeep- A basic skill to keep your gear, weapons, and armor working well.  Covers the repair of anything 
+that a character could run across.  Does not cover any use of the item you repair, just keeping it functioning 
+well.
 
-Thievery- [last bit of extra words here]
+Thievery- Liberating goods from their current owners.  Allows you to pick pockets, pick locks, pick fences,
+sneak, avoid detection, and appraise the approximate value of goods.
 
 Skill Equivalents
 So now that you have your base skills set out, you want to know how you stack up against the rest
