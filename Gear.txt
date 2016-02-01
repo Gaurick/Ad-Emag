@@ -322,584 +322,305 @@ Drugs
 These are the drugs. Not just the kind that you get addicted to, but the ones that help you heal
 wounds, and the ones that can kill you.
 
-Name 
-Description 
-Negatives 
-Bonuses 
-Duration 
-Value
+Name- Surge
+Description- (speed)
+Negatives- 
+Bonuses- 
+Duration- 
+Value- 
 
-Surge 
-A drug that speeds up your metabolism
-None 
-+3 to Metabolism, +1 action
-1d10 hours 
-5-125
+Name- Rage
+Description- (pcp)
+Negatives- 
+Bonuses- 
+Duration- 
+Value- 
 
-Numb 
-A drug that numbs your body and mind
--2 to mental attributes
-Becomes immune to all pain
-1d10 hours 
-25-150
+Name- Drip
+Description- (alcohol)
+Negatives- 
+Bonuses- 
+Duration- 
+Value- 
 
-Cigarettes 
-An effective way to kill yourself, and look cool
--1 disease resistance per pack smoked
-None 
-1d10 minutes 
-2-10
+Name- Cough
+Description- (cigarettes)
+Negatives- 
+Bonuses- 
+Duration- 
+Value- 
 
-Daze 
-A calming drug 
--1 to all mental attributes
-None 
-1d10 hours 
-2-50
+Name- 
+Description- (pain killers)
+Negatives- 
+Bonuses- 
+Duration- 
+Value- 
 
-Rage 
-A drug that increases your strength, speed, and anger
-Character becomes very mean
-+3 to all physical attributes
-3d10 minutes 
-50-250
+Name- 
+Description- (antibiotics)
+Negatives- 
+Bonuses- 
+Duration- 
+Value- 
 
-Mad Hatter 
-A drug that alters your perception of reality
--3 to Senses 
-None 
-5d10 hours 
-3-25
-
-Rush 
-A drug that speeds you up and makes you feel invincible
-Character is not really invincible
-+3 to Metabolism, +1/2 total flesh to all locations
-2d10 minutes 
-25-150
-
-Alcohol 
-A drug that numbs your pain
-A splitting headache the next day
-Helps to numb the pain (or so you think)
-1d10 hours 
-1-50
-
-Pain Killers 
-A drug that numbs your pain without hangovers
-None 
-Reduces the character’s pain
-1d10 hours 
-15-250
-
-Blur 
-A drug that makes you think that you are superman
-None 
-+3 to all physical attributes
-1d10 minutes 
-30-350
-
-Penicillin 
-A drug that kills off bacteria
-None 
-+50 to your Disease Resistance for fighting disease
-1d10 days 
-100-1,000
-
-Pain 
-A drug that inflicts debiitating pain
-Target writhes on ground for duration
-None 
-1d10 minutes 
-5-25 
-
-Misery 
-A drug that grinds your mind to a hault
--1d10 from target’s initiative for duration
-None 
-1d10 minutes 1
-0-50
-
-Blind 
-A drug that blinds you
-Target is blinded for the duration
-None 
-1d10 
-20-100
-
-Death 
-A drug that ravages the body
-Inflicts the target’s body times 1d10 damage
-None 
-1d10 minutes 
-40-200
-
-Neosporin 
-A drug that you put on cuts and scrapes to help them heal faster with less scars
-None 
-Doubles amount healed, can only be used on minor cuts and scrapes
-1d10 hours 
-75-250
-
-Syrum 
-A wonder drug that does as much harm as good
-Adds 1d10 relevant mutations by next morning
-Purges all poisons, diseases, heals all lost limbs and damage in 30 minutes
-1 day 
-500-10,000
-
-Here is what the chart means...
-Name- What it is called.
-Description- What the drug is.
-Negatives- How the drugs hurt you.
-Bonuses- How the drugs help you.
-Duration- How long the drug runs through your system.
-Value- How much the drug is worth. The price is dependent upon the supply, and the quality.
-With those nasty drugs done, here are some of the wonderful toys that you can find around. It
-has been said before, but if there isn’t something on the list that is desired or discovered, then
-speak with the myth-maker and make up some statistics for it.
+Name- Syrum
+Description- (cheat stuff)
+Negatives- 
+Bonuses- 
+Duration- 
+Value- 
 
 Items
-
-Name 
-Description 
-Use 
-Value
-
-Shovel 
-A tool used to dig up the ground
-Can you can dig it? 
-5-100
-
-Back Pack 
-A container for holding things on your back
-When pockets just won’t do
-5-100
-
-Razor A small blade useful only for removing hair 
-Better than using a knife to shave
-2-25
-
-Book 
-A collection of words used to expand your mind
-+5% to +35% on applicable skill pernimantly
-5-1,000
-
-Cards 
-A set of cards to pass the time
-Also a good way to make money
-5-35
-
-Tarot Cards 
-A set of cards to help you see the future
-Helps to see the future 
-25-100
-
-Compass 
-A device to tell which way is north
-Helps with navigation 
-5-100
-
-Map 
-A sheet of paper used to figure out where you are
-Helps with navigation 
-50-250
-
-Range Finder A device that tells you how far a given thing is
-Gives accurate measurement of distance
-3,000-5,000
-
-Binoculars 
-A device to allow you to see farther than you usually can
-Makes objects larger than they appear to the naked eye
-500-1,000
-
-Infrared Goggles 
-A device used to allow you to see the heat given off by objects
-Lets you see in the inferred spectrum. Runs off of small batteries
-1,500-25,000
-
-Night Vision Goggles 
-A device used to allow you to see in the dark
-Lets you see at night. Runs off of small batteries
-2,500-25,000
-
-Flashlight 
-A device that allows you to see specific spots in the dark
-Allows you to see at night. Runs off of small batteries.
-50-300
-
-Flare 
-A disposable solution to the problem of darkness.  Allows characters to see large regions at night. 
-Each flare lasts 3-4 hours. 75% chance of catching target on fire if used as a weapon
-5-250
-
-Torch 
-A stick with an oil soaked rag tied to it.  Lights area around characters.
-Lasts 2-3 hours. 75% chance of catching target on fire if used as a weapon
-0-5
-
-Rope 
-A long length of rope. 
-Assists characters in climbing.
-5-100
-
-Sun Glasses 
-A device to reduce the amount of light that gets to your eyes
-Makes daylight easier on your eyes
-5-100
-
-Glasses 
-A device that can help or hinder your eyesight
-Can negate or enhance nearsightedness or farsightedness
-50-250
-
-Duct Tape 
-A tool to help to hold things together
-Always useful 
-5-50
-
-Incense 
-A device to help you meditate
-Relaxing, no? 
-1-25
-
-CD Player 
-A device to entertain you 
-It plays CDs to entertain you
-500-2,500
-
-Computer (Home)
-A device for complex mathematical processes, and for entertainment
-It can play games or solve complex mathematical problems
-25,000-50,000
-
-Computer (Laptop) 
-A device for complex mathematical processes, and for entertainment
-It can play games or solve complex mathematical problems
-75,000-125,000
-
-Computer (Palm Pilot)
-A device for complex mathematical processes, and for entertainment
-It can play games or solve complex mathematical problems
-30,000-100,000
-
-Paper 
-A sheet of blank paper 
-To write or draw on 
-1-15
-
-Pencil 
-A tool to write with 
-To write or draw with 
-1-10
-
-TV (Home)
-A device to entertain you 
-Receives entertaining broadcasts
-5,000-10,000
-
-TV (Travel)
-A device to entertain you 
-Receives entertaining broadcasts
-5,000-15,000
-
-Radio (Stereo)
-A device to entertain you 
-Receives entertaining broadcasts
-10,000-25,000
-
-Radio (Boom Box)
-A device to entertain you 
-Receives entertaining broadcasts on the go
-2,500-5,000
-
-Rations 
-Preserved and packaged food for one meal.
-It quiets the rumbly in your tumbly.
-1-100
-
-Batteries (Small)
-An item to power portable electronic devices
-Lasts 4-6 hours 
-125-500
-
-Batteries (Medium)
-An item to power portable electronic devices
-Lasts 9-12 hours 
-175-625
-
-Batteries (Large)
-An item to power cars and other large objects with
-Lasts 12-24 hours 
-250-2,500
-
-VCR
-A device to entertain you 
-Plays video tapes 
-2,500-10,000
-
-Tapes (Audio)
-An item to entertain you and keep audio recordings
-Plays cassette tapes 
-250-500
-
-Tapes (Video)
-An item to entertain you and to keep audio and visual recordings
-Stores video and audio information
-500-1,000
-
-Geiger Counter 
-A device to detect radiation
-Warns you of nearby radiation and tells you how much is in the area, or on an object
-5,000-20,000
-
-Biological Hazard Suit (NBC Suit)
-A suit to prevent radiation, chemical, and biological contamination
-+95% to Disease Resistance
-25,000-35,000
-
-DVD 
-A device to entertain you 
-Stores video and audio information
-500-750
-
-CD 
-A device to entertain you 
-Stores audio information 
-225-425
-
-Portable Gasoline Generator
-A device to generate electricity
-can run for 3 days on 2 gallon of gasoline
-75,000-100,000
-
-Suit Case 
-A device for holding things 
-Turns you into a sharp dressed man (or woman)
-50-500
-
-Wire 
-An item to transmit electricity
-You can use it to conduct electricity
-1-100
-
-Water Purification Pills 
-An item to make water drinkable
-Kills bacteria and parasites in water
-125-375
-
-Shoes 
-An item to protect your feet
-Protects feet from glass, blisters, and other painful things
-5-100
-
-Make-Up 
-An item to make you look different
-Makes you look pretty 
-5-100
-Blanket 
-An item to keep you warm 
-Keeps you warm and toasty
-5-100
-
-Tent 
-An item to help you sleep in the wilderness
-Helps keep the elements at bay
-50-100
-
-Flint 
-Need steel to strike against for sparks
-An item to help you start a fire
-5-25
-
-Magnesium Strip
-Need steel to strike against for sparks
-An item to help you start a fire
-10-35
-
-Matches 
-Paper or wood matches 
-An item to help you start a fire
-10-100
-
-Lighter 
-Plastic disposable lighter 
-An item to help you start a fire
-15-80
-
-Zippo 
-Metal wind proof refillable lighter
-An item to help you start a fire
-25-100
-
-Purse 
-An item to hold small items
-Keeps your stuff more organized
-5-250
-
-Wallet 
-An item to hold small papers
-Keeps your money and small papers more organized
-5-100
-Head Phones 
-A device to listen to audio output quietly
-Hooked up to various electronic devices
-500-3,000
-
-Thermometer 
-An object that tells how hot or cold it is
-A device to tell the temperature
-15-25
-
-Pocket Watch 
-A watch that you carry in your pocket
-A device to tell time 
-25-250
-
-Wrist Watch 
-A watch that goes on your wrist
-A device to tell time 
-250-500
-
-Don’t know what it all means? Here’s something to help with that.
-Name- What it is called.
-Description- What it is.
-Use- What they are used for.
-Value- What the item is worth, dependent upon the supply and quality.
-
-Vehicles
-Anyone will tell you that the fastest way from point A to point B is a straight line, but it’s even
-faster with a cool set of wheels or wings. This section will deal with the wonders of vehicles.
-Vehicles are divided into three groups, land, water, and air vehicles.
-Land vehicles of course travel on the ground. They primarily remain on the earth and don’t
-tend to fly or float too well. They include cars, trucks, and bikes.
-Water vehicles travel through the various bodies of water. Depending on how large they are, and
-how heavy they are, they may travel the oceans, seas, lakes, rivers, and even the creeks. They
-include boats, jet skis, and hydrofoils.
-Air vehicles fly through the air. They may move a bit on the land or the sea, or even both, but
-they spend the most time in the air. Unluckily fuel and parts to keep the vehicles up in the air is
-painfully expensive, difficult to find, and the parts are very fragile. So they don’t usually last for
-very long. They include airplanes, helicopters, and blimps.
-And here is the list showing most of the vehicles you may (or may not) run into.
-
-Bicycle
-Name- Bicycle
-Engine- Muscle powered
-Minimum/Maximum Speed- 1 / (Muscles) MPH
-Fuel Tank Size- 12 Speed.
-
-Location    Substance   DT      Blunt Laceration  Piercing 
-Engine      Depends     Depends None  None        None
-Main Body   Aluminum    100     None  None        None
-Cargo Hold  Wire basket 10      None  None        None
-Wheels (2)  Rubber      25      35    40          20
-
-Hard Points- 0
-Soft Points- 0
-Cargo Capacity- Driver and possibly a few very small possessions.
-Notes- A small, simple, and remarkably useful vehicle. It is small enough to maneuver about with little 
-trouble, but provides enough multiplication of a character’s muscular effort to make it worthwhile to 
-use as a vehicle on it’s own. It is definitely much better than walking.
-Value- 100 - 500
-
-Truck
-Name- Pickup Truck
-Engine- Gasoline engine
-Minimum/Maximum Speed- 1 / 150 MPH
-Fuel Tank Size- Medium (20 Gallon)
-
-Location    Substance DT    Blunt Laceration  Piercing
-Engine      Aluminum  200   250   600         250
-Main Body   Aluminum  200   250   600         250
-Cargo Hold  None      None  None  None        None
-Window      Glass     5     2     40          8
-Tire (4)    Rubber    40    145   160         80
-
-Hard Points- 1
-Soft Points- 4
-Cargo Capacity- Driver, a passenger, and a large amount of personal items and equipment.
-Notes- A large truck mostly useful for taking whatever items from one place to another. Also makes quite 
-a good mobile weapons platform to harass enemies.
-Value- 15,000 - 40,000
-
-House Boat
-Name- House Boat
-Engine- Gasoline engine
-Minimum/Maximum Speed- 1 / 125 MPH
-Fuel Tank Size- Large (50 Gallon)
-
-Location    Substance DT Blunt  Laceration  Piercing 
-Engine      Steel     800 500   700         500
-Main Body   Wood      200 200   120         80
-Cargo Hold  Wood      200 200   120         80
-Window      Glass     5   2     40          8
-Propeller   Aluminum  100 250   600         250
-
-Hard Points- 2
-Soft Points- 4
-Cargo Capacity- Driver and a passenger. And either small family or a large amount of supplies and equipment.
-Notes- A house crafted on a boat. Not an effective combat vehicle, but very useful for pleasure cruses or 
-exploration. Also happens to be one of the more comfortable vehicles available.
-Value- 25,000 - 100,000
-
-Cargo Ship
-Name- Oil Tanker
-Engine- Diesel engine (3)
-Minimum/Maximum Speed- 1 / 30 MPH
-Fuel Tank Size- Large (50 gallon tanks) (10)
-
-Location      Substance       DT    Blunt Laceration  Piercing 
-Engine        Hardened Steel  1,600 750   1,000       750
-Main Body     Hardened Steel  1,600 750   1,000       750
-Cargo Hold    Aluminum        200   250   600         250
-Window        Glass           5     2     40          8
-Propeller (3) Aluminum        200   250   600         250
-
-Hard Points- 3
-Soft Points- 6
-Cargo Capacity- As friends as you can gain and as many items you may gain. 
-Notes- A gargantuan ship created to transport crude oil across the seas. The cargo hold is made to hold 
-liquids, but may be modified to accommodate any number of possibilities. Also happens to be the largest 
-vehicle available.
-Value- 150,000 - 750,000
-
-Small Personal Aircraft
-Name- Small Personal Aircraft
-Engine- Jet fuel engine
-Minimum/Maximum Speed- 50 / 525 MPH
-Fuel Tank Size- Large (50 gallon) (2)
-
-Location    Substance DT  Blunt Laceration  Piercing 
-Engine      Aluminum  200 250   600         250
-Main Body   Aluminum  200 250   600         250
-Cargo Hold  Aluminum  200 250   600         250
-Window      Glass     5   2     40          8
-Tail        Aluminum  200 250   600         250
-Tire (3)    Rubber    50  145   160         80
-
-Hard Points- 0
-Soft Points- 2
-Cargo Capacity- Driver and either a few passengers or a small amount of supplies.
-Notes- A small aircraft that is very useful to get from point A to point B without taking either
-the land or the sea.
-Value- 100,000 - 2,500,000
-
-Helicopter
-Name- Helicopter
-Engine- Jet fueled engine
-Minimum/Maximum Speed- 50 / 500 MPH
-Fuel Tank Size- Large (50 gallon) (3)
-
-Location  Substance DT  Blunt Laceration  Piercing
-Engine    Aluminum  200 205   600         260
-Main Body Glass     5   2     40          8
-Window    Glass     5   2     40          8
-
-Hard Points- 1
-Soft Points- 4
-Cargo Capacity- Driver and a passenger, and either some small items or a few small items.
-Notes- An observation helicopter with an all glass dome to allow the maximum amount of viewable area. Armor 
-and most unnecessary parts have been removed to allow the most amount of fuel to be carried, and the greatest 
-endurance of the fuel.
-Value- 250,000 - 3,000,000
+The rest of the following bits of gear are the various items that a character may pickup, use, 
+hold onto, sell, or horde.
+
+Medical items
+
+Name- Empty hypodermic needle
+Description- 
+Use- 
+Value- 
+
+Name- Gause
+Description- 
+Use- 
+Value- 
+
+Currencies
+
+Name- Coin
+Description- 
+Use- 
+Value- 
+
+Name- Brass
+Description- 
+Use- 
+Value- 
+
+Name- Town notes
+Description- 
+Use- 
+Value- 
+
+Name- Land deeds
+Description- 
+Use- 
+Value- 
+
+Name- Precious gems
+Description- 
+Use- 
+Value- 
+
+Survival items
+
+Name- Refillable lighter
+Description- 
+Use- 
+Value- 
+
+Name- Rope
+Description- 
+Use- 
+Value- 
+
+Name- Flashlight
+Description- 
+Use- 
+Value- 
+
+Name- Boot knife
+Description- 
+Use- 
+Value- 
+
+Name- Tent
+Description- 
+Use- 
+Value- 
+
+Navagation aids
+
+Name- Road map
+Description- 
+Use- 
+Value- 
+
+Name- Compass
+Description- 
+Use- 
+Value- 
+
+Name- GPS
+Description- 
+Use- 
+Value- 
+
+Name- Slide ruler
+Description- 
+Use- 
+Value- 
+
+Name- Wrist watch
+Description- 
+Use- 
+Value- 
+
+Electronics
+
+Name- Battery
+Description- 
+Use- 
+Value- 
+
+Name- Desktop computer
+Description- 
+Use- 
+Value- 
+
+Name- Radio
+Description- 
+Use- 
+Value- 
+
+Name- Camera
+Description- 
+Use- 
+Value- 
+
+Travel items
+
+Name- Binoculars
+Description- 
+Use- 
+Value- 
+
+Name- Sleeping bag
+Description- 
+Use- 
+Value- 
+
+Name- Spork
+Description- 
+Use- 
+Value- 
+
+Name- Cooking pot
+Description- 
+Use- 
+Value- 
+
+Name- Matches
+Description- 
+Use- 
+Value- 
+
+Containers
+
+Name- Rucksack
+Description- 
+Use- 
+Value- 
+
+Name- Briefcase
+Description- 
+Use- 
+Value- 
+
+Name- Backpack
+Description- 
+Use- 
+Value- 
+
+Name- Wallet
+Description- 
+Use- 
+Value- 
+
+Name- Purse
+Description- 
+Use- 
+Value- 
+
+Foods
+
+Name- Unlabled can
+Description- 
+Use- 
+Value- 
+
+Name- Fresh berries
+Description- 
+Use- 
+Value- 
+
+Name- Jerkey
+Description- 
+Use- 
+Value- 
+
+Name- Hot sauce
+Description- 
+Use- 
+Value- 
+
+Name- Hot homemade stew
+Description- 
+Use- 
+Value- 
+
+Skill assistants
+
+Name- Fools manual for shootouts
+Description- 
+Use- 
+Value- 
+
+Name- Lockpicks
+Description- 
+Use- 
+Value- 
+
+Name- Measuring tape
+Description- 
+Use- 
+Value- 
+
+Name- Compact
+Description- 
+Use- 
+Value- 
+
+Name- Philips head screwdriver
+Description- 
+Use- 
+Value- 
+
+Luxury items
+
+Name- 2 ply toilet paper
+Description- 
+Use- 
+Value- 
+
+Name- Acoustic guitar
+Description- 
+Use- 
+Value- 
+
+Name- Brown teddy bear
+Description- 
+Use- 
+Value- 
+
+Name- (specific) game
+Description- 
+Use- 
+Value- 
+
+Name- Pepper
+Description- 
+Use- 
+Value- 
