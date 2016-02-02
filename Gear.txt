@@ -318,64 +318,27 @@ properties of Kevlar.  All in a big fuzzy suit.
 Notes- Extreme in it's protection, weight, and stuffyness.
 Value- 8,000-160,000
 
-Drugs
-These are the drugs. Not just the kind that you get addicted to, but the ones that help you heal
-wounds, and the ones that can kill you.
-
-Name- Surge
-Description- (speed)
-Negatives- 
-Bonuses- 
-Duration- 
-Value- 
-
-Name- Rage
-Description- (pcp)
-Negatives- 
-Bonuses- 
-Duration- 
-Value- 
-
-Name- Drip
-Description- (alcohol)
-Negatives- 
-Bonuses- 
-Duration- 
-Value- 
-
-Name- Cough
-Description- (cigarettes)
-Negatives- 
-Bonuses- 
-Duration- 
-Value- 
-
-Name- 
-Description- (pain killers)
-Negatives- 
-Bonuses- 
-Duration- 
-Value- 
-
-Name- 
-Description- (antibiotics)
-Negatives- 
-Bonuses- 
-Duration- 
-Value- 
-
-Name- Syrum
-Description- (cheat stuff)
-Negatives- 
-Bonuses- 
-Duration- 
-Value- 
-
 Items
 The rest of the following bits of gear are the various items that a character may pickup, use, 
 hold onto, sell, or horde.
 
 Medical items
+These are items commonly used to keep a person alive.  They range from supplies used in desperation to the nearly magical Syrum.
+
+Name- Syrum
+Description- The source of everyone survival, as well as their problems.  Heals nearly any infirmity only to leave the user disfigured the next morning.  
+Use- 
+Value- 
+
+Name- Antibiotics
+Description- 
+Use- 
+Value- 
+
+Name- Pain killers
+Description- 
+Use- 
+Value- 
 
 Name- Empty hypodermic needle
 Description- 
@@ -384,6 +347,30 @@ Value-
 
 Name- Gause
 Description- 
+Use- 
+Value- 
+
+Drugs
+These are the drugs. Not just the kind that you get addicted to, but the ones that help you heal
+wounds, and the ones that can kill you.
+
+Name- Surge
+Description- (speed)
+Use- 
+Value- 
+
+Name- Rage
+Description- (pcp)
+Use- 
+Value- 
+
+Name- Drip
+Description- (alcohol)
+Use- 
+Value- 
+
+Name- Cough
+Description- (cigarettes)
 Use- 
 Value- 
 
