@@ -323,12 +323,15 @@ The rest of the following bits of gear are the various items that a character ma
 hold onto, sell, or horde.
 
 Medical items
-These are items commonly used to keep a person alive.  They range from supplies used in desperation to the nearly magical Syrum.
+These are items commonly used to keep a person alive.  They range from supplies used in desperation to the nearly 
+magical Syrum.
 
 Name- Syrum
-Description- The source of everyone survival, as well as their problems.  Heals nearly any infirmity only to leave the user disfigured the next morning.  
-Use- 
-Value- 
+Description- The source of everyone survival, as well as their problems.  Heals nearly any infirmity only to leave 
+the user disfigured the next morning.  
+Use- 5 minutes after use all wounds, diseases, and poisons are fully cured.  Including missing limbs if the limb is
+held where it should go.  24 hours later 1d20 fresh and random mutations appear.
+Value- 1,000-10,000
 
 Name- Antibiotics
 Description- 
