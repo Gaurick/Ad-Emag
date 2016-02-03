@@ -477,20 +477,16 @@ Notes- Doesn’t need food, can survive off of sunlight and dirt, arms and legs 
 long, blood counts as a strong poison when consumed or introduced into others, perceives
 pheromones.
 
-Unorthodox Born Again Satanist
-Religion is a funny thing. What was once considered to be good could quickly be considered evil.
-And what was once considered evil could be considered to be good. That is what happened with
-Christianity. As the world fell to it’s knees, a lot of people began to question their religious views.
-Christianity was the most popular religion at the time, so it was questioned the most harshly. A
-large group of people began to think that they were worshiping the wrong side of Christianity.
-These people became the first ever Church of the Born Again Satanist. The worse the world
-became, the stronger the following became. The followers live life to it’s excess doing what ever
-they want to. When alone they are a lot like a rabid animal, wandering around in a stupor until
-something provokes them or catches their attention. When this happens, they become
-overwhelmed with an unquenchable thirst for spilled blood. If they group together, it is a
-fearsome thing. They roam the streets leaving nothing unspoiled or living.
+Deviant
+When everything starts falling appart around you, there are typically two roads one can take.
+The first is you grit your teeth and do what is necessary to help yourself and those around you.
+This is generally the preferred method.  The other method is to draw everything you can to 
+yourself.  Disregaurd everyone around you and turn all your attenting inward.  Those that go down
+that path become Deviants.  Their tastes are as varied as the number of stars in the night sky, 
+ranging from obsessively pressing wildflowers to cannibalism.  Most leave them to their demented
+ways, so long as it doesn't put them in danger.
 
-Title- Born Again Satanist 
+Title- Deviant 
 Strain- Leather Neck
 Mental            Physical
 Abstract- 3       Bones- 7
@@ -513,8 +509,8 @@ Moves- Punch (2d10), kick (3d10), grapple, KO (1d10).
 Mutations- Hoofed feet, horns, leathery hide, gigantic, extra stomachs.
 Skills- Prowl- 40%, Dodge- 35%, Unarmed- 40%, Small Melee Weapons- 40%, Support Firearms- 38%,
 Basic Medicine- 20%
-Equipment- Red priest’s robes (all locations), flame-thrower, 3 gallon canister of napalm
-(3d10x1d10), machete (2d10+13), satanic bible, empty hypodermic needle, small bag of heroine,
+Equipment- Red robe (all locations), flame-thrower, 3 gallon canister of napalm
+(3d10x1d10), machete (2d10+13), empty hypodermic needle, small bag of heroine,
 silver spoon, zippo, boots.
 Coin- $ 1d10x10
 Notes- Must eat twice as much as a normal person, head butt does double piercing damage.
