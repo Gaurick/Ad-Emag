@@ -5,806 +5,155 @@ absolute meat and bones of the game. It is the part that is most boring and exci
 time. So grab a comfortable seat dig in, because here they are.
 
 Attributes
-Attributes are what are the absolute basis of your character. Skills, equipment, and back-story
-can be lived without. Attributes can not. The most important rule about attributes is that they
-may NEVER go below 1 or above 10.
-With that happy rule in mind, we next come up to how to use attributes in the game. In
-situations where a skill doesn’t cover an action, then a character uses her attributes instead.
-For example, you remember Example Joe. He wants to kick down a door. The myth-maker, to make Joe’s life
-difficult, opts to have Joe use his Muscles instead of his Unarmed skill.
-To roll a character’s attribute to leap tall buildings, seduce guards, create plans of action, or smell
-the stink of defeat, is a simple process. First you take a 10 sided die and roll it. If the result is
-equal to or under the attribute that you are using, then you succeed. If it’s over, the you fail.
-Good luck with that falling, bumbling, planning, and stench....
-So with good old Joe, to break down that door with a mighty kick, his player must roll below 3. Holding the 10
-sided die carefully, the player casts the die. Unluckily for him, the roll comes up with a 7. Joe does more damage to
-his own foot than the door. Perhaps next example he’ll succeed.
+
 
 Skills
-Everyone has their own skills and uses them to get through the day. A skill is a representation of
-your knowledge in a given area.
-All characters start off with measly skill percentages. Luckily for characters, these values
-represent the character’s skills under pressure. During relaxed times, they need not roll for a skill.
-It is assumed that they have enough time and reasoning to figure out how to do what they want
-to.
-On the other hand when characters are under stressful conditions, such as during combat, under
-extreme deadlines, or with their supervisors looking over their shoulders, characters use their skill
-values. These values represent a how well a character knows a given skill. After all, with enough
-time and patience, anyone can do nearly anything. However during stressful times, characters
-learn quickly how good they are at a particular skill.
-To use a skill during a chaotic time characters select two different ten sided dice. One of the dice
-is considered the ten’s value. The other die is considered the one’s value. The dice are rolled and
-the number take their places.
-For example, Joe has selected two ten sided dice, one black and one white. The black die Joe makes his tens. The
-white die he makes his ones. Rolling for one of his skills, the black die rolls to 8. The white die rolls to 4. That
-would give him a roll of 84.
-To see if a character succeeds or fails a roll, first they roll their dice. If they get equal to or under
-their skill’s percentage they succeed. If they role over the percentage, they fail. Is the pattern
-becoming apparent?
-So we will use Joe’s roll of 84. He is trying to punch a bratty bar patron in the chest. His Unarmed skill is
-35%. Since 84 is more than 35, he fails to punch the bratty bar patron. Things aren’t looking too good for Joe.
-Say for his next blow, Joe rolls a 35, or maybe a 15. Either of those rolls would be considered a success.
+
 
 Modifiers
-Not all tests of skill are performed in the perfect conditions, and with that in mind, there are skill
-modifiers. Skill modifiers are a way of representing things that may help your character when
-completing a skill. Such as a manual to help you fix a car, a sight for a gun, ect. Modifiers also
-come negatively such as darkness, aiming at a small target, or being blinded, ect.
-However you get a skill modifier, simply add it to your skill’s percentage if it helps your skill, or
-subtract it from your skill’s percentage if it impairs you.
-So using our friend Joe once more, he is now trying to drive his car far away from the bratty bar patron. Unluckily
-that bar patron is chasing him and causing him quite a bit of worry. Luckily Joe got a decent set of tires for his
-car, which add 10% to his roll to drive his car. Joe has a Drive skill of 45%. To drive away from the patron, he
-needs to roll a 55 or lower (45% for his skill, +10% for the good tires). Maybe he shouldn’t pick so many fights,
-and just stay in the car.
+
 
 Critical Success
-Critical Successes are when you happen to do a task exceptionally well. They happen from time
-to time and they are pretty beneficial things indeed. Mechanically if you roll double numbers on
-a skill test and the number is under the skill’s level, then it is considered a critical success. Such as
-00% (which would be 0% and is always considered a critical success), or 66%.
-If it is a normal skill, then you complete the task exceptionally well and the myth-maker is
-advised to grant you a fantastic bonus to the task, be it stitching up a wound and having it heal
-without any scars, fixing a car and making it run a lot faster, ect. When you get a critical success
-in combat the attack can be anything from instantly killing a foe, to ignoring the target’s armor,
-or any other extremely beneficial event the myth-maker wishes to grant you.
-To explain we will return to good old Joe. He begins to drive away and takes a deep breath before rolling to drive
-away from the irritable bar patron. Luck is with him, he rolls a 44 which is under his modified skill value of
-55% (his 45% drive plus the +10% for his good tires). Thus he gets a critical success and drives away
-exceptionally well.
-A quick side note worth mentioning. Characters can’t ever critically succeed with attributes. it’s
-not possible to roll doubles with one die. You also can not critically succeed at damage rolls.
-Sorry about that.
+
 
 Critical Failure
-Critical failures are when you fail at something horribly. It isn’t a simple failure, it’s a horrible
-one. It occurs when the character rolls a doubles on a skill test and the number is over the
-character’s skill. Such as 77% or 99% (99% is always a critical failure). The myth-maker is
-advised to make something horrible happen.
-Some examples would be like a car that you are repairing is completely destroyed, a person’s
-wound is made much worse rather than better while trying to stitch it closed. In combat it could
-be anything from a critical success on a friend or ally, or the weapon self-destructing and harming
-the user, or or any dreadful accident the myth-maker may wish to deal out.
-To demonstrate this, we will pick on Joe some more. While driving away from the bar at break neck speeds, Joe
-realizes that the bratty patron has a motorcycle and is now following him. To prevent himself from getting beaten to
-a pulp, he elects to try and lose the peruser in some local alleys. He rolls his drive again, and to his dismay he rolls
-a 99. A critical failure regardless of his skill. He takes a deep breath and awaits the upcoming pain.
-Another quick side note worth mentioning. Characters can’t ever critically fail with attributes.
-ever. once more one can not roll doubles while using only one die. Damage rolls also aren’t
-something that you can critically fail at either.
+
 
 Combat and Damage
-Combat is a hellishly fast way of dealing with a given problem. The following are the rules for
-combat.
-Turns
-First off, every combat situation is divided into turns. Each turn is around 10 seconds long. All
-actions happen relatively simultaneously. But since it would be hard to play out everyone going
-at once, each turn is subdivided into each person’s turn.
+
+
 Initiative
-Initiative is a mechanical way of determining whom gets to be the line leader. Although it was
-just stated that it was simultaneous, people have to do their actions in some sort of order, and that
-is where initiative comes into play. Any actions performed before a given person will effect them
-before they are allowed to act out their turn.
-The person who initiates the combat goes first. Then highest Initiative gets to perform her
-actions next, then the person with the next highest initiative, and so on down the line. If two or
-more people happen to have the same Initiative attribute, the have them roll a d10, and the
-highest roll goes first, then the next highest, and so forth.
-To illustrate the way Initiative works, we shall check in on Joe. After a nasty near wreck from his last example, the
-bratty bar patron has opted to try and attack poor Joe. They compare their Initiative scores. Joe has a 4 for his
-Initiative. The bar patron has a 3 for his Initiative. Joe goes first.
+
 Actions
-After you figure out who gets to go first, last, and in between, everyone is able to attempt what
-they wish to. Actions are further divisions of a turn. It’s how many tasks you can do in one turn.
-Be it run, jump, shoot, punch, reload, or press a button, they all use Actions, and different
-amounts of them, depending on how long it would take to complete.
-Joe has decided to demonstrate this by showing how many actions he has. His character has 2 for his actions. Joe
-consults the following chart to see what he can do.
-And now is another list, the one about action usage.
-Walking- 1 per 1 ft.
-Running- 1 per 3 ft.
-Jumping- 2 per jump.
-Punch- 1 per swing
-Kick- 1 per kick
-Knock Out- 2 per blow
+
+Walking
+Running
+Jumping
+Knock Out
 Grapple- half your Actions to hold, can only test to get out if being held
-Melee Attack (swing)- 1 per swing
-Melee Attack ( stab)- 1 per stab
-Melee Attack ( skewer)- 1 per skewer
-Shooting or Throwing ( single shot)- 2 per shot
-Shooting ( burst)- 3 per burst
-Shooting ( full auto)- whole turn
-Reloading- as per firearm
-Driving- 1 per turn required, and possibly more per maneuver
+Melee Attack
+Shooting or Throwing
+Reloading
+Driving
 Dodge- whole turn
-Speaking/ Yelling- free
-Saving- 1 to all
+Speaking/ Yelling
+Saving
+
 Any other Actions are to be determined by the myth-maker. Also if you want to take an action
 that has a higher cost than you possess, you can complete the action over multiple turns, if it’s
 within reason.
 
 Action Descriptions
-Now that you know how many Actions you may take in one turn, here’s what they mean, and
-their rules.
-
-Walking- Just in case you don’t feel up to running, or can’t.
-> Can walk 1 foot per action spent.
-
-Running- If you need to get away quickly, then running is the easiest way.
-> Can run 3 feet per action point.
-
-Jumping- To get over what ever may be in your way. Characters may jump double their
-Muscles in feet. But you must add up the vertical and horizontal movement.
-> Can jump for the amount specified.
-
-Punch- This is using your arm to bring your fist into your target. There are no bonuses or
-penalties.
-> Melee Damage
-> If successful hits the specified target.
-
-Kick- This is the basic way of using your leg to move your foot to injure someone or something.
-> +1d10 to your Melee Damage roll
-> If successful hits the specified target.
-
-Knock Out- This is making a living creature (that means no robots, zombies, doors, or anything
-else that doesn’t live) become unconscious by inflicting trauma to it’s head. This is counted as an
-aimed melee attack, meaning the character can use any melee weapons, that cause blunt damage,
-they wish to including their fists, feet, or other parts of their bodies. It may not be used with any
-ranged weapons.
-> Only inflicts 1d10 damage regardless of Melee Damage
-> 50% chance of causing unconscious with a successful strike
-> Unconscious lasts for 1d10 hours
-
-Grapple- This is just holding someone to prevent them from doing anything to anybody. If you
-successfully “hit” your target you get a hold on them. It does no damage, but it prevents your
-target from performing any Actions, other than testing to get out of your hold. It also uses up
-half of your Actions. To escape from a grapple, you must roll under your Muscles attribute. To
-release a grapple, you simply say so, but you still lose half of your action points for the turn.
-> Does no damage, but restrains your target
-> If successful, target may take no actions other than test (with their Muscles) to get out of the
-hold.
-> Attacker loses half of their actions to hold their target.
-> Target must pass a Muscles test to break free.
-> Attacker need only declare that they release their target.
-
-Melee Attack (swing)- This is bringing a club, sword, or whatever melee weapon you may be
-using around and trying to hit the person.
-> Causes Laceration or Blunt damage
-> If successful hits the specified target.
-Melee Attack (Stab)- This is taking an item with a point and driving it into the target, then
-pulling it out.
-> Causes Piercing damage
-> If successful hits the specified target.
-
-Melee Attack (skewer)- This is taking an item with a point and driving it into a target, but
-leaving it in for whatever nasty reasons. It leaves your weapon inside the target if you successfully
-injure them.
-> Causes Piercing damage
-> If successful hits the specified target.
-Shooting or Throwing (single shot)- This is firing a single shot. It is performed by nearly all
-firearms.
-> If successful hits the specified target.
-
-Shooting (burst)- This is firing 3 bullets every time you pull the trigger. It is nearly the same as
-a single shot, but you do 3x the damage, and use 3x the ammo.
-> Damage x 3
-
-Shooting (full auto)- This is firing off multiple bullets from your gun with a single squeeze of
-the trigger. Full auto requires a full turn to fire. Fires off the amount of rounds under the rate of
-fire.
-> Damage equals the damage of a single round multiplied by however many rounds hit
-> +25% to skill to hit.
-> Uses as many rounds as listed for the weapon.
-
-Reloading- This is putting more bullets into a gun. There is no roll, and it simply takes the
-number of Actions specified under the weapons section.
-> Putts more ammunition into a weapon.
-
-Driving- This is using any vehicle and maintaining control of it. It requires one action point
-per turn to simply keep the vehicle going in the direction that you wish it to go. Any offensive or
-defensive maneuvers you wish to make take at least 1 additional action point, and may cost as
-many as necessary depending on it’s complexity.
-> Allows a character to maintain control of a vehicle.
-
-Dodge- The fine art of avoiding blows and incoming attacks. Dodge requires a full turn to
-anticipate the incoming attacks. If characters dodge, they subtract half of their dodge’s
-percentage from the the attacker’s skill to strike them. Attacks that miss do no damage. Attacks
-that strike the character are resolved as normal.
-> Uses up all of a character’s actions for the turn they dodge.
-> Subtracts all of the character’s dodge skill from the attacker’s skill to strike.
-
-Speaking/Yelling- Sometimes telepathy just doesn’t work, so that’s why we can speak and yell.
-In the heat of battle you may need to warn someone of their impending doom. Luckily you can
-speak and/or yell all you wish (within reason) in a turn, at no cost. Remember that a turn is only
-ten seconds long, so messages must be brief.
-> May communicate with nearby people.
-
-Saving- If you wish you can save your Actions for whatever you want to do. All it does is put
-the Actions you wish to save below you in the order of Initiative. Saved points that aren’t used
-before the end of a turn, are not to be carried over into the next turn.
-> May interupt or perform actions after others later in the turn.
-> Action points do not transfer between turns.
 
 Damage
-Now that you can do things in combat, let’s discuss hurting other things. It’s going to happen to
-everyone, no matter how peaceful you may be. There are generally two ways to hurt someone.
-The first is to beat them in melee combat. The other is to shoot them.
-
-Melee Combat
-Interested in bring pain and death to others, huh? Well if you like to be right up there in the
-action and see all the gristly details, then bashing your target with some good ol’ melee combat is
-just what you need. That or a good therapist. Melee combat involves you being very up close to
-your target. Close enough to reach out and touch them. In melee combat you can use anything
-at hand to take care of your foe. Be it a fist, foot, 2x4, sword, or this very book itself. Keep
-reading to find the secret of how to melee combat it up.
-You can start by picking your target. After your target is picked, choose which method of attack
-and note the skill it’s associated with.
-We will be securing the services of a fellow by the name of Example Joe. Now Joe is a pretty average fellow. The
-only thing is that he tends to get unruly when he drinks. Thus is where we find him. Joe has drunk too much and
-has started to pick a fight with a fellow bar patron. Joe reaches for his trusty switch blade knife in his boot and
-decides to use it on the bar patron. He’s going to slash the patron in the right arm. Joe isn’t anything ground
-breaking in the ways of knife fighting so his Small Melee Weapon skill is sitting at 35%.
-Next you determine which bonuses and penalties apply to this particular attack. Add the value of
-the bonuses to your skill to hit. Of course you must also subtract the value of penalty from your
-skill as well.
-So Joe begins to count on his fingers and toes to figure out what kind of bonuses and penalties he is going to have to
-deal with to successfully slash this mouthy bar patron. Firstly the target itself is considered a Medium Sized target,
-so he suffers a penalty of 15% to his skill. That makes it 20%. Then he realizes that he is right on top of the
-bar patron which counts as Point Blank Range. That adds 35% to his skill making it a much better 50%. He
-then considers the environment. It’s a dark and smokey bar, but not that dark and smokey. So Joe does not have to
-subtract any for those environmental problems. Neither the bar patron nor Joe are moving at all, so speed penalties
-are not present. Finally the bar patron is not hiding behind anything so there is no cover penalty. Thus Joe has a
-50% chance to hit the bar patron in the arm.
-Time to roll the dice. If your number is higher than your modified skill (which you just figured
-out in the previous step) then alas you miss. Nothing further happens. If you’re lucky enough to
-roll equal to or less than your modified skill then you hit your target.
-Joe throws the dice down and he is amazed to find the results. The first die reads, “20” and the second die reads,
-“9”. Adding those results gives him his result of “29”. 29 being pretty far below his target of 50, Joe is
-successful in hitting the bar patron’s right arm.
-If your attack successfully struck your target then you roll the damage indicated. Remember,
-your character’s Melee Damage attribute is the amount of damage your character does with their
-bare fists. Specialized attacks (such as knock out blows and kicks) may have more or less damage.
-Also melee weapons add their damage to your Melee Damage.
-Example Joe is a bit of a wuss and as such his Melee Damage is only 1d10. Also he isn’t using a particularly
-deadly melee weapon, which does Melee Damage+5. So whatever Joe rolls for his melee damage, when he uses his
-knife, he adds 5 to the roll. To demonstrate Joe rolls the damage for his slash to the bar patron’s right arm. Joe
-rolls a 7. Add the knife’s +5 damage to the roll and Joe’s slash does 12 points of damage to the bar patron’s right
-arm.
-If the damage rolled for the attack is less than the armor, the subtract it from the armor’s value
-and that’s the end. If your attack’s damage exceeds your target’s armor, then the excess damage
-is taken from the targeted location’s Flesh.
-So the bar patron is wearing a simple black hoodie which is considered to be Regular Clothing. The Laceration
-Resistance for cloth is 8. So seeing how Joe rolled a 12 for his damage, Joe’s slash cuts right through the thin little
-hoodie and injures the bar patron.
-At long last if the target suffers 10 points of damage or more to their Flesh in one turn, then they
-begin to suffer the effects of blood loss. If your target is unlucky enough to have their targeted
-location reduced to zero Flesh then bad things happen. In the case of an extremity such as the
-arms and legs then the character begins to suffer massive blood loss due to the severed limb. If
-the target is extremely unlucky and it happens to be the head or torso then they depart this world
-in a most painful method.
-Well the bar patron has to suffer some damage for this example. As you recall Example Joe struck the bar patron
-for 12 points of damage, yet the bar patron’s hoodie absorbed 8 points. So doing a little simple math that means
-that the bar patron has to take 4 points of damage to his arm. Luckily the bar patron has 10 Flesh in his arms.
-So after the first slash the bar patron has 6 Flesh left in his Right Arm. Luckily he isn’t suffering any extreme
-blood loss damage nor has the arm been cut all the way off. Unluckily Joe still has a trick or two up his violent
-sleeve.
-
-Ranged Combat
-So you say you don’t like to be up close and personal to your target? Well then the natural
-solution is to attack your target from afar with a ranged weapon. Ranged weapons are
-considered anything that moves from you to your target through the air. That includes the ever
-popular bullets, classic arrows, thrown beer bottles, and even the rare hurled team mate. To send
-these projectiles on their way you either need to throw them or use a weapon to send them on
-over. The process for ranged attacks are as follows.
-First begin by selecting your target and identifying which skill is going to be used to hit your
-target.
-Seeing how the knife in the previous example didn’t quite do the job for Example Joe, he decides to break out the big
-guns. Joe busts out his trusty crossbow. Joe is a fair shot with the crossbow though, with an Archery skill of
-30%. He also decides to shoot for the patron’s Torso instead of a trickier shot.
-Then decide which bonuses and penalties are to be applied to your shot. Add the bonuses to
-your character’s skill and subtract the penalties from your character’s skill.
-Once again Joe consults his fingers and possibly his toes to calculate the bonuses and negatives he must deal with.
-This time the bar patron has some kind of warning about Joe’s devilish plans. As such he hides behind an
-upturned table. So that reduces Joe’s skill by 25% making it a measly 5%. Luckily Joe does not suffer any
-penalty for shooting at the patron’s Torso. Another positive thing is the range is still considered Point Blank, so he
-gains 35% to his skill making his final modified skill to hit the bar patron 40%.
-Roll the dice. If the number that comes up is higher than your modified skill (which you figured
-out in the last step) you miss. Sorry, nothing further happens to your target. If the number is
-equal to or or less than your modified skill then you have hit your target.
-This time Joe happens to roll a 30 on the first die and a 9 on the second die. A narrow hit for sure. But a hit none
-the less.
-If your attack struck your target, then take some more dice and roll the damage listed for the
-ammunition you used.
-Joe using a crossbow uses the damage value listed for the ammunition fired from his crossbow. That ammo being
-bolts. Accordingly Joe takes 1d10 and rolls it giving him a result of 3. Crossbow bolts do damage of 1d10x2 so
-Joe multiplies his impressive 8 by 2 and gets his damage of 16 to the bar patron’s Torso. Maybe he should have
-stuck with the knife.
-Subtract the damage you rolled from the target’s armor. If the damage you rolled is less than the
-armor, then your target is spared damage by their armor.
-That tricky bar patron is still just wearing an old black hoodie and as such it’s Piercing Resistance is 2. As such
-the crossbow bolt goes clean through his jacket without any pause and strikes the patron heavily in the chest.
-If the damage you rolled exceeded the target’s armor then you get to subtract the excess damage
-from the location’s Flesh.
-The bar patron is going to feel this in the morning for sure. Thankfully the Flesh of his chest is 40. Subtract the
-damage of 14 from the bar patron’s Torso’s flesh of 40 to give you his remaining flesh of 26.
-Finally if the damage of the attack is over 10 points the target begins to suffer from blood loss. If
-your attack reduces the location to zero then the target is in serous trouble. Limbs like the arms,
-legs, and associated extra extremities will cause the target to suffer from a much higher amount of
-blood loss for severed limbs. If the location was the head or torso, then the target begins to take a
-dirt nap.
-Seeing how the damage applied to the bar patron’s Torso was over 10 points, he starts to bleed pretty heavily. Today
-is not a good day for him. Starting after the next turn has passed Joe loses 1 Flesh from his torso ever other turn
-until he can stop the flow of blood from his chest.
-Furthermore the bar patron is without any protection from Laceration damage on his Right Arm, as well as no
-Piercing protection on his chest. Any new slashes to his Right Arm or shots to his Torso will get no benifit from
-armor what so ever. It’s kaput.
 
 Armor
-Now that you know how to beat and shoot anyone, some specifics should be mentioned about
-preventing yourself from kicking the bucket. Armor is the main protection from that kind of
-thing. What is to shortly follow is some information about how to deal with that wonderful
-protective armor.
-Only one layer of armor counts. As such you will naturally want to choose your best protective
-value to absorb the damage. Selection happens before combat, no double layering armor. Such
-as wearing a bullet proof vest and using it’s Piercing resistance yet also a metal breast plate and
-using it’s Laceration resistance.
-Once more we’ll bring our buddy Example Joe in to illustrate. This time he’s got a terrible hangover, so worry not
-about him getting violent again. Let’s instead take a closer look at his armor situation. Joe likes style so he wears a
-classic black leather biker jacked with an old band tee shirt underneath. Even though the band does rock it’s
-protection sucks. As such Joe only wears the shirt for comfort and he uses the leather jacket’s resistances when he
-gets in situations. If he should find that his jacket becomes useless (AKA all of one particular damage resistance is
-used up) then he does not gain any benifit from the shirt. It’s assumed that whatever blows that ended the jacket’s
-usefulness were suffecient enough to render the shirt useless as well.
+
+Melee Combat
+
+Ranged Combat
 
 Attack Modifiers
 Size
-Gigantic (Oil tanker, city block)- +50%
-Huge (House, trailer)- +25%
-Large (Car, truck)- +5%
-Normal (People, cows)- No modifier
-Medium (Arms, legs)- -15%
-Small (Heads, tires)- -30%
-Tiny (Eyes, bulls eye)- -60%
-Miniscule (Dots on a die)- -120%
+Gigantic (Oil tanker, city block)
+Huge (House, trailer)
+Large (Car, truck)
+Normal (People, cows)
+Medium (Arms, legs)
+Small (Heads, tires)
+Tiny (Eyes, bulls eye)
+Miniscule (Dots on a die)
 
 Range
-Point Blank (Can smell their breath)- +50%
-Short (Can make out facial details)- +25%
-Moderate (Can tell the type of clothing)- No modifier
-Long (Can make out limbs)- -25%
-Extreme (Can actually see target)- -50%
+Point Blank (Can smell their breath)
+Short (Can make out facial details)
+Moderate (Can tell the type of clothing)
+Long (Can make out limbs)
+Extreme (Can actually see target)
 
 Speed Differences
-Same Speed- No modifier
-Minor (10 - 35 MPH Difference)- -10%
-Moderate (40 - 75 MPH Difference)- -25%
-Major (80 - 150 MPH Difference)- -50%
-Gigantic (155 + MPH Difference)- -75%
+Same Speed
+Minor 
+Moderate 
+Major 
+Gigantic
 
 Environmental
-Darkness- -30%
-Pitch Black- -60%
-Bright Lights- -20%
-Blinding Lights- -40%
-Loud Noises- -20%
-Deafening Noises- -40%
-Smoke- -35%
-Gunshots (without ear protection)- -25%
-Gun smoke- -20%
+Darkness
+Pitch Black
+Blinding Lights
+Deafening Noises
+Smoke
 
 Cover
-1/4 Target Obscured- -25%
-1/2 Target Obscured- -50%
-3/4 Target Obscured- -75%
-Target Fully Obscured- -90%
+1/4 Target Obscured
+1/2 Target Obscured
+3/4 Target Obscured
+Target Fully Obscured
 
 Personal
-Blinded- -90%
-Deafened- -35%
+Blinded
+Deafened
 
 So now you see it’s a little harder to hit your target than you though. But don’t fret, because your
 the main character of the story, so you have to survive, right?
 
-Minimum Muscles
-Nearly every weapon, be it a fire axe, machine gun, or a chain saw, has a Minimum Muscles
-required to properly wield the weapon. If you have have equal to or above the minimum
-percentage in your Muscles, then you don’t have anything to worry about. If you have under the
-percentage, then you start to run into trouble. You suffer a -25% to the skill used to wield the
-weapon to strike.
 
-Random Hit Locations
-Not all hits land quite where you want them to. Or you just don’t care where it is to land, just so
-long as it hits somewhere. Most normal attacks will simply hit the target’s body. But if you wish
-to shoot wildly or not take time to aim, then here is the random location hit chart.
-Head- 88% - 100%
-Right Arm- 75% - 87%
-Left Arm- 64% - 76%
-Body- 34% - 64%
-Right Leg- 17% - 33%
-Left Leg- 1% - 16%
+
 
 Alternate Damages
-Sometimes you just don’t feel up to stabbing, shooting, or beating someone. That’s where these
-alternate forms of damage come in. Enjoy.
 
-Blood Loss- Blood loss is a silent killer. Most people don’t realize that it is such a bad thing,
-until they are nearly dead from it. That being said, here’s the rules for blood loss and all of it’s
-fun.
-After the damage is calculated from an attack, meaning after you subtract the armor’s defense is
-subtracted, every 10 points of damage that a character suffers causes 1 point of blood loss. A
-point of blood loss means that every other turn the character loses 1 Hit Point from their body’s
-flesh. This loss goes on until the character either properly binds or cauterizes the wound, or
-every five minutes (30 turns) the character naturally heals one point of blood loss.
-Severed limbs are a little different. Severed limbs no matter how much trauma was inflicted
-always automatically earn 10 blood loss points in addition to any other blood loss the character
-might have incurred while losing that limb or from other wounds.
-> For every 10 flesh lost in a single attack the character suffers 1 point of blood loss.
-> Every blood loss point saps 1 flesh from the character’s body every turn.
-> Severed limbs add 10 blood loss points to a character regardless of previous wounds.
-> Blood can be stopped immediately by being bound up (basic medicine roll) or by being
-cauterized by a burning hot object.
-> A character’s body will naturally cauterize 1 point of blood loss every five minutes (or 30
-turns).
+Blood Loss 
 
-Fire- Fire, if given enough time will kill anything. Here are the associated rules for fire damage.
-If a character is wearing a type of armor that is flammable or meltable, then when they are hit
-with fire or excessive heat they have a 75% chance of their clothes or armor catching fire. If they
-do catch fire, then every turn victim receives 1d10 damage on account of the fire eating away at
-their flesh, muscles and such. Fire also ignores armor, unless it has either a heat reduction or an
-heats up special note. The fire will remain on the person so long as there is something to feed the
-fire. To put out the blaze the victim must roll under 50%. People helping them put out the blaze
-add +10% to the difficulty of the roll, but only the victim rolls it.
-> If character runs through a fire or is attacked by a fire based weapon, they have a 75% chance
-of catching fire.
-> Every turn characters receive 1d10 points of damage to every location that is on fire per turn.
-> Fire damage always ignores armor.
->To put out fire, every turn that the person on fire has can only try to put out the blaze. To put
-the blaze out they must roll 50% or lower. Any assistance adds a bonus of +10% to the difficulty,
-making it easier to be put out.
+Fire 
 
-Poison- Poison is the weapon of a quiet assassin. No matter how the poison is delivered, when
-it is successfully introduced into the victim, they try to roll under their Disease Resistance in
-increments that depend on the poison itself. Once the victim rolls under their Disease Resistance,
-they purge the poison from their bodies but not before suffering damage one last time. If the
-character fails the roll, the poison will run it’s course and damage them. This continues until the
-poison either runs it’s course, it is resisted, an antidote is administer, or it kills the target.
-> Once poison is introduced characters must roll equal to or under their disease resistance in
-increments determined by the poison.
-> If the disease resistance roll fails, the characters suffer damage equal to the strength of the
-poison. They must then take another disease roll when the time increment has passed.
-> If characters succeed their disease roll, they suffer damage one last time, but the poison is
-purged from their bodies. No further damage or disease resistance rolls are required for the
-poison.
-> If a character receives the proper antidote for the poison, then it is immediately ceased and
-does no further damage.
+Poison 
 
-Radiation- Radiation is very nasty. There are no known cures for radiation poisoning, with the
-exception being the Syrum. It is a long, disgusting, and painful murderer. It could take weeks,
-days, hours, or minutes, but it almost always ends up killing you in the end. After the duration
-passes (which is specified under the dose amount) a character takes a disease test. Success means
-no penalty. Failure means they suffer the deduction from a random physical attributes until one
-falls down to zero. Once that happens, they finally die. The specifics follow.
+Radiation 
 
-Small Dose (depleted uranium wound, spending a lot of time with Rotter)-
-> -1 per year from a random physical attribute.
-Moderate Dose (fallout from nuclear weapon, roaming in a uranium mine)-
-> -1 per month from a random physical attribute.
-> Characters begin to become very nauseous.
-Rules
-131
+Small Dose 
 
-Large Dose (playing near nuclear crater, wearing a flawed NBC suit in a radioactive zone)-
-> -1 per week from a random physical attribute.
-> Characters have great difficulty keeping any food or drink in them.
-> Character’s hair also begins to fall out.
+Large Dose 
 
-Massive Dose (playing in active nuclear reactor, handling uranium rods)-
-> -1 per day from a random physical attribute.
-> Characters can do little other than vomit.
-> Hair falls out in great chunks until characters are bald.
-> Radiation burn lesions begin to develop.
+Massive Dose
 
-Knock Down- Being knocked down is when a character loses her balance and falls to the
-ground due to a blow that she received. Knock down is pretty simple, if the character receives
-over 25 points of damage from a single attack, then they are knocked on their asses. This is
-applied before armor reduces the damage. To get up the characters must spend 3 action points.
-> If a character receives 25 or more points of damage, (before armor reduces it), they are
-knocked to the ground.
->Requires 3 actions to stand back up.
+Knock Down 
 
-Vehicular Damage- Attacking a vehicle is very similar to attacking a person. Vehicles often
-have some form of armor on (but not always) and the vital parts have a Damage Threshold (DT)
-which is the same as a character’s Flesh. Whenever a vehicle is attacked, all the bonuses and
-penalties to hit the vehicle are calculated and modify the skill to hit the vehicle. If the attack is
-successful, then it strikes the targeted location, a random location, or it strikes the main body.
-Any armor that the vehicle is equipped with for that location reduces the damage by the amount
-indicated. Finally the damage is subtracted from the location’s DT.
-> Any attacks striking the vehicle’s Engine Area must penetrate the Engine’s armor, then it
-damages the Engine itself.
-> Any attacks striking the vehicle’s Main Body Area must penetrate the Main Body’s armor then
-it damages the Frame itself.
-> Any attacks striking the vehicle’s Cargo Hold Area must penetrate the Cargo Hold’s armor
-then it damages either the Fuel Tank or possibly any cargo stored inside.
-> Any attacks striking the vehicle’s Window Area must penetrate the Window’s armor, then it
-damages the characters inside. Characters are allowed their own armor saves if they wear any,
-and the armor of the windows reduces the damage as well as the character’s own armor.
-> The Other Area varies depending on the vehicle and is handled as the rest of the vehicle.
+
+
 
 Healing
-Now that you are hurt, it’s time to try to heal the damage. Most people fail to realize that nearly
-every form of medicine simply stops the body from dying, then allows it to heal itself. So if you
-are looking for a healing potion, or a spell to heal, look somewhere else. It’s not going to be here,
-not without a dire price at least. If you want instant healing, then try taking the Syrum, it’ll do it,
-but at what price?
-The following are the mechanics of what the medical skills do to a character. It might be noted,
-since the mutants are so prevalent, all medical skills also include a few other skills, such as botany,
-veterinarian practices, and other such fields, so you do not incur a negative to your skill due to
-mutated patients. People generally have a decent idea as how to deal with the myriad of
-mutations.
 
-Basic Medicine- Basic medicine is the field of preventing immediate death. It can’t do much
-more than stop bleeding, set broken bones and sometimes stop internal bleeding. Basic medicine
-is usually used to keep a person alive long enough so that she may get to a proper medical
-establishment, or into a dark enough hole so that she may lick her wounds to heal.
-Basic medicine may,
-> Stop external bleeding,
-> Perform CPR to get the patients heart beating again,
-> Set broken bones so that they may heal properly,
-> Slow poisons,
-> Stop internal bleeding so long as it doesn’t require advanced surgery,
-> Apply the proper bracing materials to prevent further trauma from a spinal injury and/or a
-compound fracture.
-
-Advanced Medicine- Advanced medicine is the field that deals more with the long-term care
-of a person. It has little to no use in the middle of a fire fight. It must usually be performed in a
-quiet place with little or no distractions, and the proper tools. Luckily people can adapt, since a
-quiet place and the proper tools are a rare thing indeed.
-Advanced medicine may,
-> Perform advanced surgery to stop internal bleeding,
->Aid in the healing of already patched up wounds,
-> Guide bones to heal properly,
-> Treat Poisons,
-> Counteract the effects of old age to some degree,
-> Assist people in kicking addictions to substances,
-> Perform cosmetic surgery,
-> Perform surgery to correct some mutations,
-> Treat diseases.
-
-Pharmacy- Pharmacy is a different field altogether. It deals with the medicines that are given
-for any cures. It is used to identify possible medicines, or an equivalent remedy if the proper
-prescription isn’t available. It can also be used to identify performance enhancing substances that
-would increase your natural abilities.
-Pharmacy may,
-> Identify medicines and/or drugs,
-> Prescribe medicines to aid in healing times,
-> Prescribe drugs to enhance your attributes,
-> Find substitute medicines and/or drugs with similar effects if the proper ones aren’t available.
+Medicine
 
 Healing Times
-Since you can’t use any miracle drugs (the Syrum will be discussed later) you are going to have to
-rely upon your bodies natural healing so that you can return to your normal health. Here are the
-healing times for everyone.
-Head- 1 flesh every OTHER day.
-Body- 3 flesh per day.
-Arms- 1 flesh per day.
-Legs- 2 flesh per day.
-Skin- 1 Absorb point to every location and type of absorbation.
-It should be mentioned that the associated medical skills can help with these measly times.
-> Basic Medicine does not augment the body's natural healing times, but it may keep a character
-from dying immediately.
-> Advanced Medicine can double the amount healed in one day.
-> Pharmacy depends on what drug is given, see the items section for drugs.
-These times are only for days that are spent relaxing and not doing any strenuous activities. If
-any such activities are performed, the day’s healing is lost and do not add to the character’s flesh.
-While resting though, all of the character’s body heals. Not just a single location at a time.
 
 The Syrum
-When the plague hit the world, scientists and doctors everywhere raced for a cure. When the
-cure came out, it was called The Syrum, or Syrum. Time was a large issue, so extensive field
-testing and long-term effects were not bothered with. People killed each other and rioted for the
-Syrum. When they got it, it was a lot more than they bargained for. The specifics of how it
-works have been lost, or hidden away, but everyone knows how it works generally. It enhances
-the immune system and the healing aspects of the body to superhuman limits. People would
-regenerate missing limbs, heal massive wounds, and be cured of all diseases within an hour or so.
-Unluckily when the people awoke the next morning, they were horrible deformations of what
-they used to be.
-If you had a meal before you took the Syrum, your body mistook the genetic material in the food
-as your own genetic material, so it spliced them together, making half-animal, half-person beasts.
-If you smoked after taking the Syrum, your body mistook carbon monoxide for a gas that was
-vital to your survival, so that’s all that your lungs would process, killing you quickly.
-Those that survived the physical trauma, mental trauma, and the increased love for suicide, tried
-to live out their days. Freaks and mutants banned together (which was easy considering almost
-everyone was freakish in one aspect or another) and they fell in love and had children. After a
-generation or two it was guessed that the mutations were imbedded on a genetic level,
-considering their children and their children’s children had the same flaws that they did.
-Everyone discovered that there were certain groups of people that had similar deviations in their
-genetic codes, and they began to group together. These groups became a sort of extended family
-and with every generation, their genetic code began to steady out. That is how the stable genetic
-strain came into being.
-As it goes, the governments created a surplus of this stuff and left it with all of the other lethal
-“toys”. The children’s children were curious, so they tried the Syrum. They found out that it
-doesn’t expire, and it still healed wounds, diseases, poisons and missing limbs. It also made them
-more freakish than they already were. So if a character comes upon the Syrum, if they wish they
-may use it. If they decide to take it, the effects are as follows...
-> Fully heals all of a characters lost flesh in 5 minutes
-> Cures all foreign poisons in the body in 5 minutes
-> Cures all diseases in 10 minutes
-> Purges all Radiation from system in 15 minutes
-> Regenerates lost limbs in 30 minutes
-> Adds 1d10 mutations in 24 hours
+
+
 
 Vehicle Rules
-Here are the specific rules for operating a vehicle under combat, and doing things that aren’t
-what the vehicle is rated to do.
-Vehicles and Combat
-Given the rare nature of vehicles, most that are able to find, repair, and fuel their vehicles take
-great care in equipping them to protect their investments. It is nearly impossible to find an
-unaltered vehicle around. Some have heavy armor plates welded to them to protect their
-precious cargos. Others have a king’s ransom worth of weapons attached to them to destroy any
-stupid enough to attempt to overtake them. Still others are given more efficient and powerful
-engines to blaze past anyone pursuing them. And nearly every vehicle has some sort of booby
-trap built into it to disable, maim, or kill anyone foolish enough to mess around with it.
 
 Armor
-It’s pretty easy to take any local materials and attach them to a vehicle to serve as armor. As
-such, most vehicles have at least one layer of armor on them. The limit for layers of armor is the
-same as for people. No more than two layers of armor per location for the vehicle.
-When an armored vehicle is attacked it is performed as with personal armor. If the attack strikes
-an armored part, the armor absorbs the damage the same way as a person’s armor. It just
-usually absorbs much more thanks to thicker armor. Any damage that is above the armor’s
-protection value is distributed to whatever unlucky soul or device may be cowering behind it.
 
 Damaging Vehicles
-Armor does not always grant invulnerability. So when an attack pierces a vehicle’s armor, it
-damages whatever may be underneath. The vital parts of vehicles do not possess Flesh like
-people do to represent the amount of damage it can take. Vehicles have Damage Threshold or
-DT. It represents the amount of damage an object can receive become it becomes inoperative.
 
 Weapons
-Armor can only defend you so much from roaming marauders, so many install weapons onto
-their vehicles. Any weapon available may be mounted onto a vehicle. As a matter of fact, a few
-weapons must be mounted to either immobile emplacements, or on vehicles.
-Vehicles have two types of weapons that can be mounted on them. The first would be weapons
-mounted to Soft Points. They include pistols, rifles, and any personal sized melee weapons.
-Hard Points are used for the larger weapons, such as support firearms, gigantic melee weapons,
-and cannons.
-To install a weapon onto a vehicle, one must either find someone to install it, or roll Mechanical.
-With a success, the weapon is installed. If any form of remote firing system or moving mount is
-desired, it requires another Mechanical roll to install. To use the weapon, it the character must
-simply roll the appropriate skill if it is a ranged weapon. Any melee weapons attached can only
-be used by the driver during various maneuvers. They would use their Driving skill as opposed to
-the appropriate melee weapon skill.
 
 Vehicular Maneuvers
-Driving at safe speeds on well established roads is a simple task. Thus it requires no rolls to
-perform, with the exception for a single control roll (such as flying or driving) to start up the
-vehicle properly. Unluckily many see vehicles as something to be attacked for whatever cargo
-may be inside. To avoid attacks from people and other vehicles there are maneuvers that can be
-performed to avoid damage as well as inflicting some. They are as follows.
 
-Speeding- Most of the time you just don’t want to go the normal safe speed when people are
-chasing you and trying to kill you. If you wish to go faster, you must take a skill test every turn.
-If you succeed, you may go up to double the maximum speed. If you fail, you lose control.
-> May travel up to double the maximum speed, but must take a skill test every turn.
-> Failure means losing control of the vehicle.
-> Success means keeping control of the vehicle.
+Crashing
 
-Losing Control- Sometimes you just can’t keep control of your vehicle, when that happens,
-you lose control. If you fail an operation skill for a vehicle, you swerve to a random direction,
-and your speed randomly fluctuates.
-> Any time a character fails a control roll for a vehicle they lose control of the vehicle.
-> Losing control of a vehicle makes it swerve in a random direction and your speed either raises
-or falls in a random fashion.
-> Every turn driver may attempt to regain control of the vehicle.
-> Success means that they regain control and may perform actions the next turn.
-> Failure means that the characters can do nothing except for freak out and try to regain control.
+Ramming
 
-Crashing- If you happen to lose control and hit an object, you crash. It effetely stops all of
-your speed immediately. All passengers suffer 1d10 for every 10 mph the vehicle was traveling to
-their bodies. The vehicle takes 1d10 times the speed that it was traveling at in damage to the
-location that did the hitting.
-> Happens when a vehicle out of control runs into another object.
-> All passengers suffer 1d10x 1/10 the speed of the vehicle to their bodies.
-> Vehicle suffers 1d10x 1/10 the speed of the vehicle to the location that did the crashing.
-
-Ramming- This is when you get too much road-rage, and decide to do damage to a object,
-vehicle, or person with your vehicle. The vehicle being rammed suffers 1d10x the difference in
-two vehicle’s speeds. The vehicle ramming suffers 1d10x 1/2 the difference in speeds between
-the vehicles.
-> Object being rammed suffers 1d10x the difference in speed damage to the location being
-rammed.
-> Vehicle ramming suffers 1d10x 1/2 the difference in speed damage to the location doing the
-ramming.
-
-Sideswiping- This is when someone is driving next to you and you want them to get out of
-your blind-spot quickly. The driver doing the swiping takes a skill roll to keep control, and the
-vehicle receives 1d10 damage to the body. The driver that gets swiped, must make a skill roll
-with a -25% penalty to their skill. The vehicle getting swiped receives 2d10 damage to it’s body.
-> Vehicle doing the sideswiping must take a control roll or lose control
-> Vehicle doing the swiping suffers 1d10 damage to it’s body.
-> The vehicle being sideswiped must take a control roll with a -25% penalty.
-> The vehicle being sideswiped suffers 2d10 damage.
-
-Fuel Consumption- Most vehicles requires fuel to function. The exception would be primitive
-vehicles that run off of the muscles of the user. Certain vehicles use certain fuels, and they can
-not use different forms of fuel, unless you really want to replace the engine with an engine that
-consumes another type.
-Every fuel is consumed at a different rate, based upon what it is being used in, the efficiency of
-the engine, the weight the vehicle is carrying, ect. To prevent players from having to learn
-advanced mathematics, fuel consumption has been simplified a bit. First you find out how many
-gallons you have in your tank. Then you roll the normal damage for one gallon of fuel, then
-multiply it by the number of gallons that you have in the tank. That will give you how many
-miles you can travel with how much fuel you have in your tank.
-> Fuel damage rolled x Number of Gallons = How Many Miles In the Tank.
-Fuel “Damage”
-Gasoline- 2d10 x 1d10
-Ethyl Alcohol- 2d10 x 1d10
-Diesel- 1d10 x 1d10
-Bio Diesel- 1d10 x 2
-Jet Fuel- 4d10 x 1d10
-Electric engines can drive 1 mile for every 10 volts of electricity consumed.
-Repairing Vehicles
-If your vehicle receives damage, you may try to repair it. A simple Mechanical roll is required to
-repair the vehicle. Every hour spent working on the vehicle with a successful Mechanical test
-repairs 10 DT.
-> Repairing vehicles requires a Mechanical skill test.
-> Every successful Mechanical skill test and hour spent working on the vehicle repairs 10 DT.
+Fuel Consumption
 
 Experience
-Since you have lived through all the trials and tribulations of life, you deserve a reward for your
-hard work. That comes in the form of experience. It is a mechanical way of measuring how
-much your character has developed and learned over her life.
-For every action you attempt, and complete, for every plan you devise, functioning and otherwise,
-for every person you save, you get experience. Since some actions mature you more than others,
-you can get more experience for some actions than others.
 
 Gaining Experience
-Since you know how high you can go, you want to know how to get there. Well here is the chart
-for gaining experience. This is for every action you get. It may not seem to be too much just yet,
-it does add up, and quickly.
-1xp per person defeated or killed.
-1xp per skill used.
-10xp per quest turned in.
-25xp per quest line completed.
-
-500xp to increase attribute by 1 point.
-975-500xp to increase skill by 1 point.
-
 
 Spending Experience
-Once characters play for a bit and learn the finer points of living in this world, they gather a
-large pile of experience. Characters should keep a running total of their total experience just to
-keep as some sort of reference to other characters and such. They should also keep a running
-total of the amount of experience they have not used to improve their characters.
-Yes that’s right, characters spend their experience like money to but better skills and attributes for
-their characters. Way back, you took the time to make derived attributes that give you the cost of
-improving your character. So the following will demystify those two attributes a little more.
 
-Skill Cost- The cost for improving your skills depends on how much brain power you possess.
-The more powerful your brain, the easier it is to improve skills. So it’s not just brawn that helps
-you survive the day.
-> Skill Cost- 20 - Learnable.
+Skill Cost
 
-Attribute Cost- So it would logically follow that if your brain is for skills, then your body is for
-attributes. The better your character’s metabolism is, the faster that it can upgrade itself and
-renew it’s parts. So...
-> Attribute Cost- 1,000 - (50 x Metabolism)
+Attribute Cost
