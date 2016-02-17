@@ -47,9 +47,6 @@ Fill in the missing descriptions for the remaining items.
 Look into changing the beastary around a bit to be less boring.
 Adjust the cookie cutter villains to accept the new rules.
 
-Come up with an anagram for insects.
-Rewrite/adjust the Leathernet intro.
-
 (next version, or later on)
 Get mutations formatted (.csv maybe?  some kind of ascii-art chart? html?).
 Standardize mutations, armor, weapons, and personal damage to give a nice happy range of possibility.
