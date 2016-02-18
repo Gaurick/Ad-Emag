@@ -4,11 +4,11 @@ What kind of game would there be if there were no rules? What is to come shortly
 absolute meat and bones of the game. It is the part that is most boring and exciting at the same
 time. So grab a comfortable seat dig in, because here they are.
 
-Attributes
-
-
 Skills
 
+
+
+Attributes
 
 Modifiers
 
@@ -17,6 +17,8 @@ Critical Success
 
 
 Critical Failure
+
+
 
 
 Combat and Damage
@@ -45,9 +47,7 @@ within reason.
 
 Action Descriptions
 
-Damage
 
-Armor
 
 Melee Combat
 
@@ -98,10 +98,14 @@ Deafened
 So now you see it’s a little harder to hit your target than you though. But don’t fret, because your
 the main character of the story, so you have to survive, right?
 
+Armor
 
+Damage
 
 
 Alternate Damages
+
+Knock Down 
 
 Blood Loss 
 
@@ -117,7 +121,7 @@ Large Dose
 
 Massive Dose
 
-Knock Down 
+
 
 
 
@@ -147,6 +151,8 @@ Crashing
 Ramming
 
 Fuel Consumption
+
+
 
 Experience
 
