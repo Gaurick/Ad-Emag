@@ -40,7 +40,8 @@ Stop using commas and parenthesis in notes (and the rest of the document).
 Fill with entertaining and not misspelled words.
 
 Change everything to be only d20 based instead, mostly the massive rules and cookie cutter 
-  re-write
+  re-write including out of combat and in combat 
+  behavior.
 Make Myth-Maker section not stupid (or just replace with a tutorial adventure? or remove for now?)
 Put vehicles back in not stupidly.
 Fill in the missing descriptions for the remaining items.
