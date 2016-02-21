@@ -47,6 +47,19 @@ Put vehicles back in not stupidly.
 Fill in the missing descriptions for the remaining items.
 Look into changing the beastary around a bit to be less boring.
 Adjust the cookie cutter villains to accept the new rules.
+Healing = 5 flesh/week (or per day for cancerous)
+
+Make Syrum rules.
+  Have pool of them (20? Based on an attribute?)
+  Need to have 1 at the end of a day or take 1 flesh damage
+  Can be "spent" to do stuff
+    1 Syrum for 1 attribute or skill for 1 min.
+    1 Syrum point to extend attribute or skill bonus by 1 min.
+    1 Syrum to heal 5(?) flesh over 5 min (or over 5 sec for cancerous)
+    1 Syrum to purge 1 poison.
+    1 Syrum to purge 1 disease.
+    10 Syrum to remove 1 mutation.
+  Every drop of Syrum spent per day results in 1 mutation over the next rest.
 
 (next version, or later on)
 Get mutations formatted (.csv maybe?  some kind of ascii-art chart? html?).
