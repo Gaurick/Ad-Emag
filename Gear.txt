@@ -327,10 +327,11 @@ These are items commonly used to keep a person alive.  They range from supplies 
 magical Syrum.
 
 Name- Syrum
-Description- The source of everyone survival, as well as their problems.  Heals nearly any infirmity only to leave 
-the user disfigured the next morning.  
-Use- 5 minutes after use all wounds, diseases, and poisons are fully cured.  Including missing limbs if the limb is
-held where it should go.  24 hours later 1d20 fresh and random mutations appear.
+Description- The source of everyone survival, as well as their problems.  Grants the ability to live another day,
+save yourself now, or even grant temporary improvements.  The price is withdrawn as they rest after the great trials and
+tribulations.  The syrum sets out to warp the user and mutate their very bodies.
+Use- Gives the user 1d20 syrum drops to spend as they please.  See the rules for the specifics of what a character 
+can do with the drops they get.
 Value- 1,000-10,000
 
 Name- Antibiotics
