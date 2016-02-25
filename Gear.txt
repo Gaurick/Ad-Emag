@@ -335,19 +335,22 @@ can do with the drops they get.
 Value- 1,000-10,000
 
 Name- Antibiotics
-Description- Drugs once revered for their ability to kill off germs.  It's value has gone down considerably with the widespread availability of the Syrum.  Antibiotics are usually reserved for extreme poverty, isolated, or misguided regions, otherwise known as Immune towns.
-Use- Each use of antibiotics will cure a single disease that a character has after they take the antibiotic and rest for a few hours.
+Description- Drugs once revered for their ability to kill off germs.  It's value has gone down considerably with the 
+widespread availability of the Syrum.  Antibiotics are usually reserved for extreme poverty, isolated, or misguided 
+regions, otherwise known as Immune towns.
+Use- Each use of antibiotics will cure a single disease that a character has after they take the antibiotic and rest 
+for a few hours.
 Value- 50-300
 
 Name- Pain killers
-Description- 
-Use- 
-Value- 
+Description- Universally useful, pain killers are used to dull any pain that a person is experiencing.  
+Use- Makes the user comfortably numb.
+Value- 5-100
 
-Name- Empty hypodermic needle
-Description- 
-Use- 
-Value- 
+Name- Splint
+Description- A piece of wood and some rope used to imobilize a broken or severely injured limb.
+Use- Keeps a particular limb very still.
+Value- 1-25
 
 Name- Gause
 Description- 
