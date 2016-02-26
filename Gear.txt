@@ -353,18 +353,18 @@ Use- Keeps a particular limb very still.
 Value- 1-25
 
 Name- Gause
-Description- 
-Use- 
-Value- 
+Description- Clean and dry cloth used to stop bleeding.
+Use- Stops any blood loss.  Also helps with keeping you alive when you're wounded.
+Value- 1-15
 
 Drugs
 These are the drugs. Not just the kind that you get addicted to, but the ones that help you heal
 wounds, and the ones that can kill you.
 
 Name- Surge
-Description- (speed)
-Use- 
-Value- 
+Description- A drug that makes you move with startling speed.  
+Use- Gives the user 2 extra action points per round for 10 minutes.
+Value- 75-125
 
 Name- Rage
 Description- (pcp)
