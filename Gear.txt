@@ -372,9 +372,9 @@ Use- Grants its users +4 to muscles, +2 tendons, and doubles the user's flesh.  
 Value- 500-800
 
 Name- Drip
-Description- (alcohol)
-Use- 
-Value- 
+Description- Some drinks never go out of style.  Technically known as alcohol, drip is the drink of choice when the cleanliness of water is in question.  Or when you don't want to remember the rest of the night.
+Use- Quenching your thirst and getting you drunk at the same time.
+Value- 1-25
 
 Name- Cough
 Description- (cigarettes)
