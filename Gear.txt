@@ -367,9 +367,9 @@ Use- Gives the user 2 extra action points per round for 10 minutes.
 Value- 75-125
 
 Name- Rage
-Description- (pcp)
-Use- 
-Value- 
+Description- This drug fills you with a great and furious rage.  This rage gives you enhanced strength, greater speed, as well as greater toughness.  The largest drawback is how much anger it fills its users with.
+Use- Grants its users +4 to muscles, +2 tendons, and doubles the user's flesh.  The user must fight for the whole duration.  They can fight foes, friends, themselves, or even their environment.  After the effects wear off the user subtracts their extra flesh from what remains (even if it kills them).  Rage lasts for 2 minutes.
+Value- 500-800
 
 Name- Drip
 Description- (alcohol)
