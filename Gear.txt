@@ -377,9 +377,9 @@ Use- Quenching your thirst and getting you drunk at the same time.
 Value- 1-25
 
 Name- Cough
-Description- (cigarettes)
-Use- 
-Value- 
+Description- The drug that makes you look cool while killing you, at the same time.  
+Use- Helps with your street cred, but makes you look foolish to older people.
+Value- 1-10
 
 Currencies
 
