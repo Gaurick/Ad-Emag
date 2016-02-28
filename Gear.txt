@@ -382,31 +382,32 @@ Use- Helps with your street cred, but makes you look foolish to older people.
 Value- 1-10
 
 Currencies
+Most regions have fallen onto a simpler barter system to exchange goods and services.  Few areas have started bringing around currencies to represent wealth and simplify trading.  Values can vary from region and very rarely transfer from one town to another.
 
 Name- Coin
-Description- 
-Use- 
-Value- 
+Description- A hunk of precious metal stamped with an image or writing to deter counterfeiting.  Easier to Cary around instead of barter goods.
+Use- Exchange them for goods or services at a place that accepts them.
+Value- 1-100
 
 Name- Brass
-Description- 
-Use- 
-Value- 
+Description- The leftovers from shooting a gun.  Not the part that does all the damage.
+Use- Can be substituted for money with particularly violent areas.  
+Value- 15-50
 
 Name- Town notes
-Description- 
-Use- 
-Value- 
+Description- Scraps of paper with official seals or signatures to represent particular amount of goods or services.  Only works in a specific town or region.  Rarely transfer from one area to another.
+Use- Even lighter riches than coins or brass.
+Value- 1-25
 
 Name- Land deeds
-Description- 
-Use- 
-Value- 
+Description- Official paperwork to represent the ownership of a plot of land.  Only useful so long as the government that issued it isn't overthrown.
+Use- Gives you claim to a chunk of land.
+Value- 500-1,000
 
 Name- Precious gems
-Description- 
-Use- 
-Value- 
+Description- Precious gems typically set in jewelry. 
+Use- Makes you look fancier than before.
+Value- 5,000-10,000
 
 Survival items
 
