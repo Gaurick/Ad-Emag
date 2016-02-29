@@ -410,26 +410,27 @@ Use- Makes you look fancier than before.
 Value- 5,000-10,000
 
 Survival items
+These are items that could possibly mean the difference between life and death.
 
 Name- Refillable lighter
-Description- 
-Use- 
-Value- 
+Description- A lighter that you can dump any flammable liquid into to start a fire.
+Use- Become the fire starter, wicked fire starter.
+Value- 150-375
 
 Name- Rope
-Description- 
-Use- 
-Value- 
+Description- A length of sturdy rope.  Strong enough to hold you and all your baggage.  Long enough to get you there and back.
+Use- Helps you when elevators and ladders aren't available.
+Value- 5-25
 
 Name- Flashlight
-Description- 
-Use- 
-Value- 
+Description- Nothing is better in dark and uncertain times than a reliable flashlight to push the darkness back.
+Use- Banish the darkness of the world.  Or at least a small circle of it.
+Value- 75-95
 
-Name- Boot knife
-Description- 
-Use- 
-Value- 
+Name- Utility knife
+Description- Is it a knife? Can opener?  Or a whole tool kit?  
+Use- Yes!
+Value- 30-145
 
 Name- Tent
 Description- 
