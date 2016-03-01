@@ -105,7 +105,7 @@ Skill- Melee
 Damage- 1 damage every blow.
 Description- Padded gloves worn to fight for sport instead of killing.  
 Notes- You can type on a keyboard with them on.
-Value- [number here]
+Value- 45-70
 
 Name- Practice sword
 Skill- Melee
@@ -113,7 +113,7 @@ Damage- 1 damage every blow.
 Description- Sword made of wood to teach the user how to use a real metal sword.  Makes learning
 much less terrifying.
 Notes- Makes a satisfying "thwack" noise when you hit someone.
-Value- [number here]
+Value- 25-50
 
 Name- Cattle prod
 Skill- Melee
@@ -124,7 +124,7 @@ them have a jolt from the batteries.  Usually persuades them to leave you alone.
 them.
 Notes- Every blow causes the target to lose 1 action on their next turn.  Also makes them rethink
 attacking the person with the cattle prod.
-Value- [number here]
+Value- 435-635
 
 Name- Peper spray
 Skill- Range
@@ -133,7 +133,7 @@ Damage- Just feels like it damages you.
 Description- A small water gun filled with whatever spicy liquid can be found.  When applied to eyes or
 open wounds it makes the target rethink their life choices.  It also makes them cry.  A lot.
 Notes- Whenever a person is sprayed they lose 4 actions every turn for 3d10 turns.
-Value- [number here]
+Value- 250-300
 
 Name- Taser
 Skill- Range
@@ -144,7 +144,7 @@ wires.  That are spring loaded to be shot out at the target.  Once they strike t
 until they are removed and the electricity can be applied from a distance.
 Notes- After hitting the target, user can apply electricity to make the target dance.  Will also make
 the target lose 4 actions while the electricity is being applied.
-Value- [number here]
+Value- 500-750
 
 Ammunition
 Ammunition is the stuff that you can use to hurt people, but most require another item to make
@@ -433,9 +433,9 @@ Use- Yes!
 Value- 30-145
 
 Name- Tent
-Description- 
-Use- 
-Value- 
+Description- An adventurer's home away from home.  Protects you from the elements.
+Use- Gives you a warm and slightly comfortable place to sleep.
+Value- 75-195
 
 Navagation aids
 
