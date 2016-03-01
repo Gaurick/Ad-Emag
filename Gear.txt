@@ -438,6 +438,7 @@ Use- Gives you a warm and slightly comfortable place to sleep.
 Value- 75-195
 
 Navagation aids
+Tools to help you figure out where you are and how to get where you're going.
 
 Name- Road map
 Description- 
