@@ -4,6 +4,28 @@ What kind of game would there be if there were no rules? What is to come shortly
 absolute meat and bones of the game. It is the part that is most boring and exciting at the same
 time. So grab a comfortable seat dig in, because here they are.
 
+Firstly it should be noted that whenever a skill or attribute is used, the person testing (be it 
+NPC or character) only needs to be rolled if the task has either a very limited amount of time to complete 
+or has negative effects happen if the test is failed.  Otherwise the test is automatically passed.
+
+For example, the characters are trying to pick the lock on a door.  They are all alone with the locked 
+door and it's not particularly devious.  They have all the time they need and the door doesn't have a way 
+stop them from working at picking the lock.  In that case they automatically pick the lock.
+
+Say that the door opens to a deep pit and one character falls in and breaks their leg.  Whoever attempts to
+splint the broken leg using scrounged supplies would have to roll because there is a limited number of 
+supplies that could be used to imobilize the leg.
+
+Now the characters have to flee the guards that were summoned by the broken leg.  The characters are trying 
+to cross a rotted out bridge to safety.  Normally they would have no trouble taking their time and walking
+a careful path without any slips or falls.  This time they have guards coming after them looking to ask 
+them some very pointed questions.  In this case, since there is a lack of time to proceed with the 
+necessary caution, the characters and NPC's would need to roll to make sure they don't fall off the bridge.
+
+Finally the gaurds catch up to the characters and it's time for everyone to fight.  All attacks against a 
+living thing (motionless plants don't count, but Dryads do) need to be rolled for.  Attacks are both time
+and failure sensitive.
+
 Skills
 
 
