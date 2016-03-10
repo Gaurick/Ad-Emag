@@ -367,12 +367,16 @@ Use- Gives the user 2 extra action points per round for 10 minutes.
 Value- 75-125
 
 Name- Rage
-Description- This drug fills you with a great and furious rage.  This rage gives you enhanced strength, greater speed, as well as greater toughness.  The largest drawback is how much anger it fills its users with.
-Use- Grants its users +4 to muscles, +2 tendons, and doubles the user's flesh.  The user must fight for the whole duration.  They can fight foes, friends, themselves, or even their environment.  After the effects wear off the user subtracts their extra flesh from what remains (even if it kills them).  Rage lasts for 2 minutes.
+Description- This drug fills you with a great and furious rage.  This rage gives you enhanced strength, 
+greater speed, as well as greater toughness.  The largest drawback is how much anger it fills its users with.
+Use- Grants its users +4 to muscles, +2 tendons, and doubles the user's flesh.  The user must fight for the 
+whole duration.  They can fight foes, friends, themselves, or even their environment.  After the effects wear off 
+the user subtracts their extra flesh from what remains (even if it kills them).  Rage lasts for 2 minutes.
 Value- 500-800
 
 Name- Drip
-Description- Some drinks never go out of style.  Technically known as alcohol, drip is the drink of choice when the cleanliness of water is in question.  Or when you don't want to remember the rest of the night.
+Description- Some drinks never go out of style.  Technically known as alcohol, drip is the drink of choice when 
+the cleanliness of water is in question.  Or when you don't want to remember the rest of the night.
 Use- Quenching your thirst and getting you drunk at the same time.
 Value- 1-25
 
@@ -382,10 +386,13 @@ Use- Helps with your street cred, but makes you look foolish to older people.
 Value- 1-10
 
 Currencies
-Most regions have fallen onto a simpler barter system to exchange goods and services.  Few areas have started bringing around currencies to represent wealth and simplify trading.  Values can vary from region and very rarely transfer from one town to another.
+Most regions have fallen onto a simpler barter system to exchange goods and services.  Few areas have started bringing 
+around currencies to represent wealth and simplify trading.  Values can vary from region and very rarely transfer from 
+one town to another.
 
 Name- Coin
-Description- A hunk of precious metal stamped with an image or writing to deter counterfeiting.  Easier to Cary around instead of barter goods.
+Description- A hunk of precious metal stamped with an image or writing to deter counterfeiting.  Easier to Cary around 
+instead of barter goods.
 Use- Exchange them for goods or services at a place that accepts them.
 Value- 1-100
 
@@ -395,12 +402,14 @@ Use- Can be substituted for money with particularly violent areas.
 Value- 15-50
 
 Name- Town notes
-Description- Scraps of paper with official seals or signatures to represent particular amount of goods or services.  Only works in a specific town or region.  Rarely transfer from one area to another.
+Description- Scraps of paper with official seals or signatures to represent particular amount of goods or services.  
+Only works in a specific town or region.  Rarely transfer from one area to another.
 Use- Even lighter riches than coins or brass.
 Value- 1-25
 
 Name- Land deeds
-Description- Official paperwork to represent the ownership of a plot of land.  Only useful so long as the government that issued it isn't overthrown.
+Description- Official paperwork to represent the ownership of a plot of land.  Only useful so long as the government 
+that issued it isn't overthrown.
 Use- Gives you claim to a chunk of land.
 Value- 500-1,000
 
@@ -418,7 +427,8 @@ Use- Become the fire starter, wicked fire starter.
 Value- 150-375
 
 Name- Rope
-Description- A length of sturdy rope.  Strong enough to hold you and all your baggage.  Long enough to get you there and back.
+Description- A length of sturdy rope.  Strong enough to hold you and all your baggage.  Long enough to get you 
+there and back.
 Use- Helps you when elevators and ladders aren't available.
 Value- 5-25
 
@@ -451,12 +461,14 @@ Use- Helps you keep on the straight and narrow path.
 Value- 15-45
 
 Name- GPS
-Description- A very sophisticated electronic device that tells you exactly where you are.  Or it should if the advances satellites still functioned, roads were still usable, or the batteries still had a charge in them.
+Description- A very sophisticated electronic device that tells you exactly where you are.  Or it should if the 
+advances satellites still functioned, roads were still usable, or the batteries still had a charge in them.
 Use- If it works it gives you the most accurate directions possible.  Otherwise it's a sophisticated paper weight.
 Value- 5,000-9,000
 
 Name- Slide ruler
-Description- This ruler measures distances and allows you to perform advanced calculations.  Think of it as a super ruler or a basic calculator.
+Description- This ruler measures distances and allows you to perform advanced calculations.  Think of it as a super 
+ruler or a basic calculator.
 Use- Lets you calculate distances, fuel consumption, and all sorts of other useful maths.
 Value- 5-15
 
@@ -468,13 +480,16 @@ Value- 90-135
 Electronics
 
 Name- Battery
-Description- The chemical process in these produces electricity.  Just be sure to test that they still work before you pay for them.
+Description- The chemical process in these produces electricity.  Just be sure to test that they still work before 
+you pay for them.
 Use- Power your electronic devices.
 Value- 100-300
 
 Name- Desktop computer
-Description- A full sized computer complete with all the accessories and cords to make it work.  You'll need a steady and consistent power source to make it work though.
-Use- Capable of advanced calculations and simulations.  But you'll probably just use it to play games and waste time on what remains of the Internet.
+Description- A full sized computer complete with all the accessories and cords to make it work.  You'll need a steady 
+and consistent power source to make it work though.
+Use- Capable of advanced calculations and simulations.  But you'll probably just use it to play games and waste time on 
+what remains of the Internet.
 Value- 1,000-15,000
 
 Name- Radio
@@ -483,7 +498,8 @@ Use- Allows communication over long distances.
 Value- 1,000-3,000
 
 Name- Camera
-Description- Using the power of chemistry or electricity, allows you to save a particular image perfectly forever.  Digital version needs batteries and the film version needs film.
+Description- Using the power of chemistry or electricity, allows you to save a particular image perfectly forever.  
+Digital version needs batteries and the film version needs film.
 Use- Lets you take pictures.
 Value- 900-1,250
 
