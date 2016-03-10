@@ -441,9 +441,9 @@ Navagation aids
 Tools to help you figure out where you are and how to get where you're going.
 
 Name- Road map
-Description- 
-Use- 
-Value- 
+Description- A map showing the pre-plague road system.  There's a 50/50 chance that the map is still useful.
+Use- Shows you where you are, and if you're lucky, where you're going.
+Value- 50-300
 
 Name- Compass
 Description- 
