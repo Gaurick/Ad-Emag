@@ -446,24 +446,24 @@ Use- Shows you where you are, and if you're lucky, where you're going.
 Value- 50-300
 
 Name- Compass
-Description- 
-Use- 
-Value- 
+Description- One of the simplest of navigation tools.  It always points in the same direction.
+Use- Helps you keep on the straight and narrow path.
+Value- 15-45
 
 Name- GPS
-Description- 
-Use- 
-Value- 
+Description- A very sophisticated electronic device that tells you exactly where you are.  Or it should if the advances satellites still functioned, roads were still usable, or the batteries still had a charge in them.
+Use- If it works it gives you the most accurate directions possible.  Otherwise it's a sophisticated paper weight.
+Value- 5,000-9,000
 
 Name- Slide ruler
-Description- 
-Use- 
-Value- 
+Description- This ruler measures distances and allows you to perform advanced calculations.  Think of it as a super ruler or a basic calculator.
+Use- Lets you calculate distances, fuel consumption, and all sorts of other useful maths.
+Value- 5-15
 
 Name- Wrist watch
-Description- 
-Use- 
-Value- 
+Description- A clock you can keep on your wrist.  Tells you what time it is in either digital or analog format.
+Use- Lets you know what time it is without those pesky solar clocks.
+Value- 90-135
 
 Electronics
 
