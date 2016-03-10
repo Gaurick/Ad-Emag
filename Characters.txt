@@ -219,12 +219,12 @@ stalkers.
 Skill Bonus- Everyone is able to bullshit their way through what they know and
 succeed at least once or twice in their lives. Characters have all skills under this amount
 automatically raised to this value. It does not add to any skills over this amount. It is equal to...
-1-3 Abstract- All skills are at least 1.
-4-7 Abstract- All skills are at least 2.
-8-11 Abstract- All skills are at least 3.
-12-15 Abstract- All skills are at least 4.
-16-19 Abstract- All skills are at least 5.
-20 Abstract- All skills are at least 6.
+1-3 Stored- All skills are at least 1.
+4-7 Stored- All skills are at least 2.
+8-11 Stored- All skills are at least 3.
+12-15 Stored- All skills are at least 4.
+16-19 Stored- All skills are at least 5.
+20 Stored- All skills are at least 6.
 
 Intuition- The gut feelings of a character.  The play may either use one to get advice from the myth maker
 or the myth maker can use them to give characters hints to avoid calamity.  Each use returns after a good
