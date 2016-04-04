@@ -506,14 +506,14 @@ Value- 900-1,250
 Travel items
 
 Name- Binoculars
-Description- 
-Use- 
-Value- 
+Description- these help far away things look much closer.
+Use- Lets you peer into the distance and see much more than you would without.
+Value- 75-90
 
 Name- Sleeping bag
-Description- 
-Use- 
-Value- 
+Description- A bag full of you.  At least while you sleep.
+Use- All the covers you'll need to stay warm on a cold night that rolls up for convient packing away.
+Value- 15-45
 
 Name- Spork
 Description- 
