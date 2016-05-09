@@ -39,6 +39,7 @@ Make the rules less like Rifts and more simplified (maybe even my own.)
 Stop using commas and parenthesis in notes (and the rest of the document).
 Fill with entertaining and not misspelled words.
 
+Run some tests to figure out what to do for dice (1d10, 1d20, 2d10, variable dice sides, and so on).
 Change everything to be only d20 based instead, mostly the massive rules and cookie cutter 
   re-write including out of combat and in combat 
   behavior.
@@ -48,6 +49,7 @@ Fill in the missing descriptions for the remaining items.
 Look into changing the beastary around a bit to be less boring.
 Adjust the cookie cutter villains to accept the new rules.
 Healing = 5 flesh/week (or per day for cancerous)
+Make whole game based on the stories and exploits of post apoc heroes (they probably end tragically).
 
 Make Syrum rules.
   Have pool of them (20? Based on an attribute?)
