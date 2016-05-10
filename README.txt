@@ -68,3 +68,4 @@ Get mutations formatted (.csv maybe?  some kind of ascii-art chart? html?).
 Standardize mutations, armor, weapons, and personal damage to give a nice happy range of possibility.
 Give armors different names (or even change the substance).
 Standardize prices/values/starting monies to have a nice range of options/values.
+metro works
