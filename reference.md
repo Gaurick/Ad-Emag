@@ -11,23 +11,50 @@ Reference document with info that may/may not be used.
         * would make writing a bit easier, and i don't know of any systems that do that by default.
         * have option to do long drawn out stories if you want, but designed for self-contained single adventures.
     * have/be a simple, but different rule set.
-      ** * still working on it.**
+      * **still working on it.**
     * force characters out of their comfort zone for characters to play as.
       * whole game is based on this, so it shouldn't be too tough.
       * pig-people, wretched, and all the mutations.
   * type of game
     * table top at it's heart.
+       * try and keep the system pretty simple.
     * would like to at some point persue a board game type thing.
+      * but let's not even entertain it right now.
+      * just don't even think about it.
     * hold off on video game day-dreams because that's too complicated for my brain.
+      * really let's get the table top system up and running first.
   * feel
     * sarcastic, bad jokes, puns.
+      * i can't help it, so why fight it?
     * dirty and re-re-re-reused.
+      * perhaps have  lots of modular stuff.
+      * also scrappy things to buy to help inspire/give the feeling.
+      * finally writting will feature re-using of stuff and help set the tone.
     * randomized.
+      * lots of the character's parts are going to be rolled for instead of chosen.
+      * don't get too carried away with excessive rolling though.
+      * but have enough of it to make characters force the players out of their comfort zones.
     * everything is costly (no benifits without heavy costs).
+      * healing is very costly (mutations from the syrum) or very slow (bedrest/first aid).
+      * ranged combat is either very expensive per shot or not very damaging.
+      * melee combat is standardand not too fancy/overpowered.
+      * armor is really cheap for primitive stuff, painfully expensive for "modern" materials.
+      * vehicles are same as armor, but anything that isn't muscle powered is ungodly expensive.
   * mechanics
     * dice to roll stuff.
+      * i'm leaning to using a full range of dice (d4, d6, d8, d10, d20).
+      * gives a great range of options.
+      * probably going to just use one or two of each per character though (no large dice rolls).
     * pick a system and stick with it.
+      * right now it's attributes 4-10 (d4, d6, d8, d10).
+        * hope it helps tie in the feeling of short adventures and such.
+      * skills are either trained or not trained.
+        * trained get 2 dice, untrained gets 1 die to roll stuff.
+      * tests = skill d attribute
+        * 2d6 for a trained skill and a d6 attribute.
+        * vary based on what's going on (ranged combat + senses to shoot and so on).
     * make that system consistent and vaugely balanced.
+      * yeah that'll take quite a bit of fussing.
   * damage
     * have some.
     * decide on weapon damage style
