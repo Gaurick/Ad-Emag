@@ -1,4 +1,4 @@
-Reference document with info that may/maynot be used.
+Reference document with info that may/may not be used.
 
 **System**
   *goal for game
