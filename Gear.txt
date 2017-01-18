@@ -51,9 +51,9 @@ Notes- Painted bright red.
 Value- 663-12,321
 
 Ranged Weapons
-Ranged weapons are weapons that are used from a distance. They send various projectiles or
-other objects outward faster than you can throw them. If you don’t wish to see the look of pain
-and fear on your enemies face, then ranged weapons are for you.
+Ranged weapons are weapons that are used from a distance. They send various projectiles outward 
+faster than you can throw them. If you don’t wish to see the look of pain and fear on your 
+enemies face, then ranged weapons are for you.
 
 Name- Bow
 Skill- Range
@@ -104,7 +104,7 @@ Name- Boxing gloves
 Skill- Melee
 Damage- 1 damage every blow.
 Description- Padded gloves worn to fight for sport instead of killing.  
-Notes- You can type on a keyboard with them on.
+Notes- You can still type on a keyboard while wearing them.
 Value- 45-70
 
 Name- Practice sword
@@ -167,7 +167,7 @@ Name- Buckshot
 Damage- 1d10x20
 Description-  A popular type of ammo for the shotgun.  Makes it harder to miss what you're shooting
 at.
-Notes- Helps you hit those pesky targets.  +1 to range when used.  
+Notes- Helps you hit those pesky targets.  +1 to range skill when used.  
 Value- 89-40,000
 
 Name- Slug
@@ -196,15 +196,10 @@ a bullet proof vest, the clothes you wear, to a suit made from animal bones. Wha
 you are probably wearing it to protect you, even if you are trying to make a fashion statement at
 the same time.
 Since every material is different in how it absorbs damage, here is the chart on what the material
-may be, and how much damage it absorbs before your character has to deal with it. Also, the
-price listed is per location, not for a whole suit. So if you want a full suit of leather, you must buy
-it for the six parts of your body. It may be noted, that this may be an extensive list, you are free
-to try to use something else for a form of armor, just try to figure out the stats and speak with the
-myth-maker about it.
+may be, and how much damage it absorbs before your character has to deal with it. 
 
 Light armor
-This is the cheapest armor that also provides the least amount of protection for you.  As you can see
-most types are taken from animals.
+This is the cheapest armor that also provides the least amount of protection for you.  
 
 Name- Plain clothing
 Armor- 5
@@ -242,8 +237,7 @@ Notes- Can not be used without armor.  Adds it's armor value to the armor's armo
 Value- 5-9
 
 Medium Armor
-This armor starts providing some kind of respectable defence against various attacks.  Half are made from 
-natural ingredients, others are pre-plague artifacts that have somehow survived the ages.
+This armor starts providing some kind of respectable defence against various attacks.  
 
 Name- Leather
 Armor- 25
@@ -287,7 +281,7 @@ Name- Scrap metal
 Armor- 175
 Description- Armor created from available hunks of metal.  Usually provides a pretty solid protection
 from most sources of damage.
-Notes- Comes with tetanus free.
+Notes- Comes with tetanus free of charge.
 Value- 2,315-30,625
 
 Name- Kevlar armor
@@ -300,7 +294,7 @@ Value- 3,375-50,625
 Name- Flack armor
 Armor- 250
 Description- A brilliant person took the Kevlar clothing and put heavy metal plates in strategic locations
-to protect organs even better.  What a great guy.
+to protect organs even better.  What a great person.
 Notes- Quite a bit heavier, but sturdier than Kevlar armor.
 Value- 3,953-62,500
 
@@ -330,8 +324,7 @@ Name- Syrum
 Description- The source of everyone survival, as well as their problems.  Grants the ability to live another day,
 save yourself now, or even grant temporary improvements.  The price is withdrawn as they rest after the great trials and
 tribulations.  The syrum sets out to warp the user and mutate their very bodies.
-Use- Gives the user 1d20 syrum drops to spend as they please.  See the rules for the specifics of what a character 
-can do with the drops they get.
+Use- [i don't know yet!]
 Value- 1,000-10,000
 
 Name- Antibiotics
@@ -339,7 +332,7 @@ Description- Drugs once revered for their ability to kill off germs.  It's value
 widespread availability of the Syrum.  Antibiotics are usually reserved for extreme poverty, isolated, or misguided 
 regions, otherwise known as Immune towns.
 Use- Each use of antibiotics will cure a single disease that a character has after they take the antibiotic and rest 
-for a few hours.
+for a day.
 Value- 50-300
 
 Name- Pain killers
