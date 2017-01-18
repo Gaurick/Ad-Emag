@@ -52,6 +52,7 @@ Make Myth-Maker section not stupid (or just replace with a tutorial adventure? o
 Put vehicles back in not stupidly.
 Change the beastary around a bit to be less boring (more hybrids, or post-apoc, or just different?).
 Adjust the cookie cutter villains to accept the new rules.
+Fill in reference document with references for consistency of stuff.
 
 Ideas
 (next version, or later on)
