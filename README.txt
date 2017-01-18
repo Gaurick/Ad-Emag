@@ -44,6 +44,7 @@ Put mutations, armor, weapons, items, and strains into a spreadsheet for ease of
 Using above spreadsheet figure out cash value and/or xp value of everything (maybe a 1:1 for xp to monies?)
 Fill in the missing descriptions for the remaining items.
 Healing = 5 flesh/week (or per day for cancerous)
+Figure out Syrum system and stick with it (probably leaning to the simpler side).
 
 Change everything to be only d20 based instead, mostly the massive rules and cookie cutter 
   re-write including out of combat and in combat behavior.
