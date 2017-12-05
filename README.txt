@@ -17,8 +17,6 @@ Rules.txt
 Myth_Maker.txt
 Cookie_Cutters.txt
 
-
-
 ++Versions.++
 v0.1 - v1.07
 all kept on various computers and cloud storage.
@@ -46,27 +44,46 @@ Fill in the missing descriptions for the remaining items.
 Healing = 5 flesh/week (or per day for cancerous)
 Figure out Syrum system and stick with it (probably leaning to the simpler side).
 
-Change everything to be only d20 based instead, mostly the massive rules and cookie cutter 
-  re-write including out of combat and in combat behavior.
+Change everything to be a different system (super random?).
 Make Myth-Maker section not stupid (or just replace with a tutorial adventure? or remove for now?)
 Put vehicles back in not stupidly.
 Change the beastary around a bit to be less boring (more hybrids, or post-apoc, or just different?).
 Adjust the cookie cutter villains to accept the new rules.
 Fill in reference document with references for consistency of stuff.
 
-Ideas
-(next version, or later on)
-Give armors different names (or even change the substance).
+centeral aspects to remember...
+Randomness is paramount.
+Good things have a price.
+Stability is sub-par.
+XP is spent for improvements.
+Actions per turn are based on stats and have a minimum of 1.
+Guns are expensive but very damaging and unpredictable.
+Melee weapons are cheap and average.
 
-Make Syrum rules.
-  Have pool of them (20? Based on an attribute?)
-  Need to have 1 at the end of a day or take 1 flesh damage
-  Can be "spent" to do stuff
-    1 Syrum for 1 attribute or skill for 1 min.
-    1 Syrum point to extend attribute or skill bonus by 1 min.
-    1 Syrum to heal 5(?) flesh over 5 min (or over 5 sec for cancerous)
-    1 Syrum to purge 1 poison.
-    1 Syrum to purge 1 disease.
-    10 Syrum to remove 1 mutation.
-  Every drop of Syrum spent per day results in 1 mutation over the next rest.
+system notes
+attacks = skill + damage.
+defense = either defense + armor OR dodge + armor
+attributes are the number of dice.
+skills are the sides on the dice.
 
+attributes
+combat
+defense
+social
+support
+upkeep
+
+skills
+melee
+ranged
+absorb
+mitigate
+deceive
+persuade
+enhance
+restore
+construct
+repair
+
+
+now to put that stuff in the rules...
