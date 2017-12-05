@@ -85,5 +85,11 @@ restore
 construct
 repair
 
+combat attributes
+actions 
+flesh
+melee damage
+initiative
+
 
 now to put that stuff in the rules...
