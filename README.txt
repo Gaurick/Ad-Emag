@@ -38,18 +38,16 @@ Stop using commas and parenthesis in notes (and the rest of the document).
 Fill with entertaining and not misspelled words.
 Make whole game based on the stories and exploits of post apoc heroes (they probably end tragically).
 
-Put mutations, armor, weapons, items, and strains into a spreadsheet for ease of manipulation and balance.
-Using above spreadsheet figure out cash value and/or xp value of everything (maybe a 1:1 for xp to monies?)
-Fill in the missing descriptions for the remaining items.
-Healing = 5 flesh/week (or per day for cancerous)
-Figure out Syrum system and stick with it (probably leaning to the simpler side).
-
 Change everything to be a different system (super random?).
 Make Myth-Maker section not stupid (or just replace with a tutorial adventure? or remove for now?)
 Put vehicles back in not stupidly.
 Change the beastary around a bit to be less boring (more hybrids, or post-apoc, or just different?).
 Adjust the cookie cutter villains to accept the new rules.
 Fill in reference document with references for consistency of stuff.
+make Karl 7.62 Ball’s misspellings more consistent.
+double check car-bomb-face-guy’s accent writing.
+put in Edd commentary here and there with intro writings for each chapter.
+add in writings for each continent with an intro.
 
 centeral aspects to remember...
 Randomness is paramount.
