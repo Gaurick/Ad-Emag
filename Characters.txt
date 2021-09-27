@@ -1,94 +1,51 @@
 Character Creation
-Physical description is the next step. Mechanically, it’s useless, but it helps make your characters
-a little more personal. The fields are (and not limited to)...
-Height- How tall your character is. Are you a towering figure? Or perhaps a short and sly
-person.
-Weight- How much your character weighs. Is your character as thin and delicate as a
-snowflake, or are they tough and meaty?
-Eye Color- What color your character’s eyes are. Are they both the same color? Do you have
-both eyes? Are your pupils an abnormal shape?
-Hair Color- What color your hair is. Is it natural? Do you dye it? If so, what do you use as a
-dye?
-Hair Style- What the general style of your hair is. Is it a mass of tangles? Or is it always the
-picture of perfection? Is it long and full of split ends, or is it short and well trimmed?
-Cleanliness- How clean your character tries to keep herself. Do you bathe as often as humanly
-possible? Or do you much rather prefer that certain, unclean musk?
-Scars- What scars your character possess that are easily noticed. Are you a clean slate? Or do
-your scars tell a tale of pain and abuse?
-And finally, if you are so inclined, go ahead and write up a quick background on your fellow,
-along with a name.
-Now for the mechanics of making a character.
 
-Attributes
-Attributes are a mechanical way of representing a character’s natural self. Like all traits on a
-person, given enough time and work, you may improve them as high as you wish. 
+Attribute Descriptions
+Attributes are a mechanical way of representing a character’s natural self. Like all traits on a person, given enough time and work, you may improve them as high as you wish. 
 
-Abstract is the measure of your ability to come up with new and original ideas. Such as
-figuring out a plan of action for a siege, or maybe just deciding where a good place to eat is. Also
-includes the ability to bullshit without appearing to be doing as such.
+Abstract is the measure of your ability to think differently and consider non-standard solutions.  It allows you to see through verbal assaults on your will to fight.  Makes up half of your will to fight which is the measure of how much verbal and physical damage you can take before giving up in a fight.
 
-Bones are the things that keep you up. It is a measure of how much of a pounding you can take
-before it’s time for your dirt-nap. This is the only attribute that deals with the amount of damage
-your character can actually take before they become DOA.
+Bones are the things that keep you up. It is a measure of how much of a pounding you can take before it’s time for your dirt-nap. This is the one of two attribute that deals with the amount of damage your character can actually take before they become DOA.  It forms the second half of your will to fight and represents the physical damage you can endure before giving up.
 
 Muscles are the things that make you move. It is a measure of your strength and shows how
-much you can lift, carry, smash, and how much you hurt in melee combat. Macho buff men are
-rolling in this attribute. Puny little girlie men seek to place they attributes elsewhere.
+much you can lift, carry, smash, and how much you hurt in melee combat. Macho buff people are rolling in this attribute. Puny little weaklings seek to place their attributes elsewhere.
 
-Senses is the attribute that encompasses all five of your senses. It is the average of all of your
-senses, for simplicity sake they are lumped into one attribute. You may have one or more
-dominant sense, and one or more impaired sense, but this represents the your general awareness
-of the world around you.
+Senses is the attribute that encompasses all five of your senses. It is the average of all of your senses, for simplicity sake they are lumped into one attribute. You may have one or more dominant sense, and one or more impaired sense, but this represents the your general awareness of the world around you.
 
 Skin is what people notice first when they look at you. It represents your general appearance
-and how attractive you may appear to other people. Just remember, beauty is in the eye of the
-beholder.
+and how attractive you may appear to other people. Just remember, beauty is in the eye of the beholder.
 
-Stored is the measure of the information that you have in your head. If the stat is low, you are
-not stupid, you just don’t know too many facts about things. The higher it is, the more your brain
-resembles a library.
+Stored is the measure of the information that you have in your head. If the stat is low, you are not stupid, you just don’t know too many facts about things. The higher it is, the more your brain resembles a library.
 
-Sub-Conscience is the measure of your instinct and intuition. It is the other part of your brain
-(the one you don’t think about too much) and it represents gut feelings and intuition that a
-character may have. It’s main use is to be used by players who are stuck and need help with what
-to do next.
+Sub-Conscience is the measure of your instinct and intuition. It is the other part of your brain (the one you don’t think about too much) and it represents gut feelings and intuition that a character may have. It’s main use is to be used by players who are stuck and need help with what to do next.
 
 Tendons are what help your muscles move. It is a measure of your general dexterity. It shows
 how steady your hands are, how fast they are, and how good your reactions are. If you can
 dodge, dip, duck, and dive, then this is your attribute. If not, then move along.
 
-So there is the brief description of your attributes. Next is assigning values to them.
-Every player’s character is given 30 points to distribute among all of her attributes. Every
-attribute must be no less than 1 point, and no more than 5 points when you assign your
-character’s attributes. Mutations could quite possibly raise an attribute above this number, so the
-rule is discarded after the allotment are assigned. After a character is created and the game
-starts, the character may raise any of their attributes above 5 points, up to a maximum of 10
-points. A character will never have an attribute that goes lower than 1 point, ever. If anything
-does happen to alter a character’s attribute below 1 point, then the attribute remains at 1 point
-until the character spends experience to improve it.
+So there is the brief description of your attributes. Next is assigning values to them.  The lowest an attribute can be is d2 and the highest it can be is d12.  The different steps of attributes are; d2, d4, d6, d8, d10, and d12.   No attribute can go lower than d2.  In extreme situations attributes can go above d12 to d20, but typically this isn’t something that will happen.  
+When creating your character you can either roll randomly to determine your attributes or assign points to your attributes.
+
+To randomly determine your attributes roll a six sided die for each attribute.  Multiply the result of the roll by 2 and that is the number of sides on the die for the attribute.  For example, if you roll a 4 then you would have a d8 for the attribute.  You can either roll eight dice at once and the scores can be distributed as desired or each attribute can be rolled for one at a time in order.
+
+To assign your attributes start by setting all of your attributes to d6.  Next you have 5 attribute step increases you can spend.  Using one step you can increase your d6 attribute to a d8.  Using three step increases will improve your attribute to a d12.  Also if you need more step increases you can lower any attribute down to d4 or even d2.  You then can improve a different attribute by the number of steps you reduced the other attribute by.
 
 Equivalent Attributes
-Now that you know what your attributes are, you want to see how you compare to the rest of the
-world. Here’s a chart that helps you with just that.
+Now that you know what your attributes are, you want to see how you compare to the rest of the world. Here’s a chart that helps you with just that.
 
 Equivalent Attributes
-1-3 Horrible- This is absolutely not one of your best points. It is as low as humanly (and
-inhumanly) possible. It might just be something that you may want to work on when you get
+d2 - Horrible- This is absolutely not one of your best points. It is as low as humanly (and inhumanly) possible. It might just be something that you may want to work on when you get
 some time on your hands.
-4-7 Average Joe- You are about the same as most other people. You don’t stand out in the
+d4 Average Joe- You are about the same as most other people. You don’t stand out in the
 crowd in whatever attribute. You aren’t horrible with it and you won’t win much of anything for
 it.
-8-11 Average Champion- You are beginning to stand outside of the crowd. You are better than
+d6 - Average Champion- You are beginning to stand outside of the crowd. You are better than
 the next person, but when it comes to most adventurers and villains though you are just so-so.
-12-15 Great Champion- You are starting to become better at this. You have either gotten lucky,
-or you have been working to get this good for a long time. Either way, you stand out from the
-“run of the mill” person. Keep up the good work.
-16-19 Epic Champion- You are incredible. Stories about you are told to children, to fill them
-with a sense of wonder, or dread. that is up to your actions. But regardless, many know of your
-greatness, and give you your due respect (or fear).
-20 Demigod- You are the greatest around. The ones that are up here with you, you could
+d10 - Great Champion- You are starting to become better at this. You have either gotten lucky, or you have been working to get this good for a long time. Either way, you stand out from the “run of the mill” person. Keep up the good work.
+d12 - Epic Champion- You are incredible. Stories about you are told to children, to fill them with a sense of wonder, or dread. that is up to your actions. But regardless, many know of your greatness, and give you your due respect (or fear).
+d20 Demigod- You are the greatest around. The ones that are up here with you, you could
 probably count on both hands. You have a notorious reputation of heroism, or terror that
-follows you where ever you travel.
+follows you where ever you travel.  Not normally an attribute you can achieve.
 
 Mutations
 Now that you know what you want your attributes to be, you can go about modifying them by
