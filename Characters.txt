@@ -47,51 +47,44 @@ d20 Demigod- You are the greatest around. The ones that are up here with you, yo
 probably count on both hands. You have a notorious reputation of heroism, or terror that
 follows you where ever you travel.  Not normally an attribute you can achieve.
 
+Select strain
+Next your character needs to determine their stable genetic strain, or strain for short.  Between the plague killing off too many people and the syrum mutating most of the rest, many things had to change.  Once the plague settled down the world had a lot more diversity to it than it once did.  The syrum warped and twisted people to a cruel parody of what they once were.  Eventually it was noticed that there were some similarities between people.  Different groups began to band together and thus the strains begain to emerge.  These new strains began to band together for a myrid of reasons.  Comfort, protection, old habbits, the reason doesn't much matter.
+Strains serve as a template of common traits that have developed randomly as a result of the syrum.  You can either select the strain you would like your character to start with or you can roll randomly for it.  For a random selection roll d12 to randomize your strain.
+
 Mutations
-Now that you know what you want your attributes to be, you can go about modifying them by
-your character’s stable genetic strain. Each strain gets specific bonuses and negatives for their
-special differences. So find your stable genetic strain and add the bonuses, but subtract the
-negatives. When you’re done with that, look up the individual mutations and total up the
-bonuses for those as well.
-It should be noted that if a character is to receive conflicting mutations during creation or even
-over the course of their adventures, they do not receive both of them. In the case of two or more
-conflicting mutations, such as receiving Plastic skin as well as Leaden skin, the most recent
-mutation overrides the previous mutations.
+Now that you know what you want your attributes to be, you can go about modifying them by your character’s stable genetic strain. Each strain gets specific bonuses and negatives for their special differences. So find your stable genetic strain and add the bonuses, but subtract the negatives. When you’re done with that, look up the individual mutations and total up the bonuses for those as well.
+It should be noted that if a character is to receive conflicting mutations during creation or even over the course of their adventures, they do not receive both of them. In the case of two or more conflicting mutations, such as receiving Plastic skin as well as Leaden skin, the most recent mutation overrides the previous mutations.  The older conflicting mutation and all of it's bonuses and penalties are removed.
 
 Amoebas
-Mutations- (34) Allergies, (35) plastic skin, (36) silicone flesh, (77) overactive stomach acid
-production, (92) lethargic.
-Other Bonuses- +1 to Abstract, +2 to Bones.
-Other Negatives- -1 from Tendons, -2 from Skin.
+Extra bonus - Double will to fight.
+Extra penalty - Reduce muscles by one step.
+Mutations- (34) Allergies, (35) plastic skin, (36) silicone flesh, (77) overactive stomach acid production, (92) lethargic.
 
 Boars
+Other bonus - {{free fighting skill}}
+Other penalty - Reduce learnable by one step.
 Mutations- (15) Snout, (15) curly tail, (39) pigskin, (52) dwarfism, (55) overactive digestion.
-Other Bonuses- +1 to Senses, +2 to Muscles.
-Other Negatives- -1 from Skin, -2 from Stored.
 
 ‘Bots
+Other bonus - {{armor bonus or “natural” armor}}
+Other penalty - Reduce subconscious by one step.
 Mutations- (22) Metallic bones, (26) leaden skin, (51) natural battery, (76) mechanical limb,
 (85) receives radio waves.
-Other Bonuses- +1 to Bones, +2 to Muscles.
-Other Negatives- -1 from Tendons, -2 from Abstract.
 
 Brains
-Mutations- (13) Uncovered brain, (28) abnormally large head, (56) inherited memories,
-(79) absent minded, (92) lethargic.
-Other Bonuses- +1 to Stored, +2 to Abstract.
-Other Negatives- -1 from Bones, -2 from Muscles.
+Other bonus - Increase learnable by one step.
+Other penalty- Reduce bones by one step.
+Mutations- (13) Uncovered brain, (28) abnormally large head, (56) inherited memories, (79) absent minded, (92) lethargic.
 
 Dryads
-Mutations- (6) Elongated limbs, (20) leaves and bark, (42) poisonous blood,
-(59) altered perception, (61) photosynthesis.
-Other Bonuses- +1 to Senses, +2 Sub-conscience.
-Other Negatives- -1 from Skin, -2 from Muscles.
+Other bonus - Increase subconscious by one step.
+Other penalty- {{reduce or half initiative}}
+Mutations- (6) Elongated limbs, (20) leaves and bark, (42) poisonous blood, (59) altered perception, (61) photosynthesis.
 
 Freaks
-Mutations- (37) Tinted skin, (43) hardened secretions, (44) breath smoke, (50) extra fingers, 
-(70) hemophiliac.
-Other Bonuses- +1 to Skin, +2 to Senses.
-Other Negatives- -1 from Bones, -2 from Sub-conscience.
+Other bonus - Increase first impression by one step.
+Other penalty - Reduce muscles by one step.
+Mutations- (37) Tinted skin, (43) hardened secretions, (44) breath smoke, (50) extra fingers, (70) hemophiliac.
 
 Immune
 Mutations- None.
@@ -99,37 +92,29 @@ Other Bonuses- None.
 Other Negatives- None.
 
 Leathernecks
+Other bonus - Increase skin by one step.
+Other penalty- Reduce stored by one step.
 Mutations- (7) Hoofed feet, (12) horns, (40) leathery hide, (53) gigantic, (60) extra stomachs.
-Other Bonuses- +1 Sub-conscience,  +2 to Skin.
-Other Negatives- -1 from Learnable, -2 from Stored.
 
 Randoms
+Other bonus - Roll a d8 to determine which attribute is increased by one step.
+Other penalty- Roll a d8 to determine which attribute to reduce by one step.
 Mutations- Randoms have 1d10 mutations at creation that are rolled for randomly, of course.
-Other Bonuses- +1 to any attribute, +2 to any attribute.
-Other Negatives- -1 from any attribute, -2 from any attribute.
 
 Red Herrings
-Mutations- (8) Webbed hands and feet , (18) gills, (19) fish eyes, (41) scales,
-(58) air bladder.
-Other Bonuses- +1 to Sub-conscience, +2 to Muscles.
-Other Negatives- -1 from Muscles, -2 from Senses.
+Other bonus - Increase muscles by one step.
+Other penalty - {{reduce carry weight?  make less dexterous?}}
+Mutations- (8) Webbed hands and feet , (18) gills, (19) fish eyes, (41) scales, (58) air bladder.
 
-Rotters
-Mutations- (54) Preserved, (66) rotted flesh, (74) passage of death, (79) absent minded,
-(84) glows.
-Other Bonuses- +2 to Stored, Immune to Radiation.
-Other Negatives- -1 from Tendons, -2 from Skin.
-
-Sinects
+Secnits
+Other bonus - Increase senses by one step.
+Other penalty - Reduce stored by one step.
 Mutations- (10) Extra limbs, (25) exoskeleton, (65) adhesion, (67) extra eyes, (91) wiry.
-Other Bonuses- +1 to Sub-conscience, +2 to Tendons
-Other Negatives- -1 from Bones, -2 from Stored.
 
 Wretched
-Mutations- (5) Cancerous, (6) elongated limbs, (14) solid ribcage, (24) abnormally shaped bones, 
-(90) double jointed.
-Other Bonuses- +1 to Muscles, +2 to Tendons.
-Other Negatives- -1 from Bones, -2 from Skin.
+Other bonus - {{increase initiative or something}}
+Other penalty - Reduce skin by one step.
+Mutations- (5) Cancerous, (6) elongated limbs, (14) solid ribcage, (24) abnormally shaped bones,  (90) double jointed.
 
 Derived Attributes
 Next up since you have the attributes and mutations done, are the derived statistics. They are a
