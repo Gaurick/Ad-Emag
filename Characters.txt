@@ -1,89 +1,62 @@
 **Character Creation**
 
-*Attribute Descriptions*
-Attributes are a mechanical way of representing a character’s natural self. Like all traits on a person, given enough time and work, you may improve them as high as you wish. 
-
-Abstract is the measure of your ability to think differently and consider non-standard solutions.  It allows you to see through verbal assaults on your will to fight.  Makes up half of your will to fight which is the measure of how much verbal and physical damage you can take before giving up in a fight.
-
-Bones are the things that keep you up. It is a measure of how much of a pounding you can take before it’s time for your dirt-nap. This is the one of two attribute that deals with the amount of damage your character can actually take before they become DOA.  It forms the second half of your will to fight and represents the physical damage you can endure before giving up.
-
-Muscles are the things that make you move. It is a measure of your strength and shows how
-much you can lift, carry, smash, and how much you hurt in melee combat. Macho buff people are rolling in this attribute. Puny little weaklings seek to place their attributes elsewhere.
-
-Senses is the attribute that encompasses all five of your senses. It is the average of all of your senses, for simplicity sake they are lumped into one attribute. You may have one or more dominant sense, and one or more impaired sense, but this represents the your general awareness of the world around you.
-
-Skin is what people notice first when they look at you. It represents your general appearance
-and how attractive you may appear to other people. Just remember, beauty is in the eye of the beholder.
-
-Stored is the measure of the information that you have in your head. If the stat is low, you are not stupid, you just don’t know too many facts about things. The higher it is, the more your brain resembles a library.
-
-Sub-Conscience is the measure of your instinct and intuition. It is the other part of your brain (the one you don’t think about too much) and it represents gut feelings and intuition that a character may have. It’s main use is to be used by players who are stuck and need help with what to do next.
-
-Tendons are what help your muscles move. It is a measure of your general dexterity. It shows
-how steady your hands are, how fast they are, and how good your reactions are. If you can
-dodge, dip, duck, and dive, then this is your attribute. If not, then move along.
-
-So there is the brief description of your attributes. Next is assigning values to them.  The lowest an attribute can be is d2 and the highest it can be is d12.  The different steps of attributes are; d2, d4, d6, d8, d10, and d12.   No attribute can go lower than d2. In extreme situations attributes can go above d12 to d20, but typically this isn’t something that will happen.  
-When creating your character you can either roll randomly to determine your attributes or assign points to your attributes.
-
-To randomly determine your attributes roll a six sided die for each attribute.  Multiply the result of the roll by 2 and that is the number of sides on the die for the attribute.  For example, if you roll a 4 then you would have a d8 for the attribute.  You can either roll eight dice at once and the scores can be distributed as desired or each attribute can be rolled for one at a time in order.
-
-To assign your attributes start by setting all of your attributes to d6.  Next you have 5 attribute step increases you can spend.  Using one step you can increase your d6 attribute to a d8.  Using three step increases will improve your attribute to a d12.  Also if you need more step increases you can lower any attribute down to d4 or even d2.  You then can improve a different attribute by the number of steps you reduced the other attribute by.
-
-*Equivalent Attributes*
-Now that you know what your attributes are, you want to see how you compare to the rest of the world. Here’s a chart that helps you with just that.
-
-d2 - Horrible- This is absolutely not one of your best points. It is as low as humanly (and inhumanly) possible. It might just be something that you may want to work on when you get
-some time on your hands.
-d4 Average Joe- You are about the same as most other people. You don’t stand out in the
-crowd in whatever attribute. You aren’t horrible with it and you won’t win much of anything for
-it.
-d6 - Average Champion- You are beginning to stand outside of the crowd. You are better than
-the next person, but when it comes to most adventurers and villains though you are just so-so.
-d10 - Great Champion- You are starting to become better at this. You have either gotten lucky, or you have been working to get this good for a long time. Either way, you stand out from the “run of the mill” person. Keep up the good work.
-d12 - Epic Champion- You are incredible. Stories about you are told to children, to fill them with a sense of wonder, or dread. that is up to your actions. But regardless, many know of your greatness, and give you your due respect (or fear).
-d20 Demigod- You are the greatest around. The ones that are up here with you, you could
-probably count on both hands. You have a notorious reputation of heroism, or terror that
-follows you where ever you travel.  Not normally an attribute you can achieve.
-
 *Select strain*
-Next your character needs to determine their stable genetic strain, or strain for short.  Between the plague killing off too many people and the syrum mutating most of the rest, many things had to change.  Once the plague settled down the world had a lot more diversity to it than it once did.  The syrum warped and twisted people to a cruel parody of what they once were.  Eventually it was noticed that there were some similarities between people.  Different groups began to band together and thus the strains begain to emerge.  These new strains began to band together for a myrid of reasons.  Comfort, protection, old habbits, the reason doesn't much matter.
-Strains serve as a template of common traits that have developed randomly as a result of the syrum.  You can either select the strain you would like your character to start with or you can roll randomly for it.  For a random selection roll d12 to randomize your strain.
+First your character needs to determine their stable genetic strain, or strain for short.  Between the plague killing off too many people and the syrum mutating most of the rest, many things had to change.  Once the plague settled down the world had a lot more diversity to it than it once did.  The syrum warped and twisted people to a cruel parody of what they once were.  Eventually it was noticed that there were some similarities between people.  Different groups began to band together and thus the strains begain to emerge.  These new strains began to band together for a myrid of reasons.  Comfort, protection, old habbits, the reason doesn't much matter.
+Strains serve as a template of common traits that have developed randomly as a result of the syrum.  Each strain gets specific mutations and an extra bonus as well as penality particular to that strain.  You can either select the strain you would like your character to start with or you can roll randomly for it.  For a random selection roll d12 then count through the options until you reach the number you rolled to randomize your strain.  Once you've found your stable genetic strain, make a note of the bonuses, penalties, and mutations from your strain. After that jot down a note or two about any other mutation effects.  Once that's all done, proceed to the attribute section to learn about and determine your attributes.  
+It should be noted that if a character is to receive conflicting mutations during creation or even over the course of their adventures, they do not receive both mutations. In the case of two or more conflicting mutations, such as receiving Plastic skin as well as Leaden skin, the most recent mutation overrides the previous mutations.  The older conflicting mutation and all of it's bonuses and penalties are removed.
 
-*Mutations*
-Now that you know what you want your attributes to be, you can go about modifying them by your character’s stable genetic strain. Each strain gets specific bonuses and negatives for their special differences. So find your stable genetic strain and add the bonuses, but subtract the negatives. When you’re done with that, look up the individual mutations and total up the bonuses for those as well.
-It should be noted that if a character is to receive conflicting mutations during creation or even over the course of their adventures, they do not receive both of them. In the case of two or more conflicting mutations, such as receiving Plastic skin as well as Leaden skin, the most recent mutation overrides the previous mutations.  The older conflicting mutation and all of it's bonuses and penalties are removed.
+FIXME put mutation info and add total bonuses and penalties FIXME
 
 *Amoebas*
 Extra bonus - Double will to fight.
 Extra penalty - Reduce muscles by one step.
-Mutations- (34) Allergies, (35) plastic skin, (36) silicone flesh, (77) overactive stomach acid production, (92) lethargic.
+Mutations- (34) Allergies 
+(35) plastic skin 
+(36) silicone flesh 
+(77) overactive stomach acid production 
+(92) lethargic
 
 *Boars*
 Other bonus - FIXME free fighting skill FIXME
 Other penalty - Reduce learnable by one step.
-Mutations- (15) Snout, (15) curly tail, (39) pigskin, (52) dwarfism, (55) overactive digestion.
+Mutations- (15) Snout 
+(15) curly tail 
+(39) pigskin 
+(52) dwarfism 
+(55) overactive digestion
 
 *‘Bots*
 Other bonus - FIXME armor bonus or “natural” armor FIXME
 Other penalty - Reduce subconscious by one step.
-Mutations- (22) Metallic bones, (26) leaden skin, (51) natural battery, (76) mechanical limb,
-(85) receives radio waves.
+Mutations- (22) Metallic bones 
+(26) leaden skin 
+(51) natural battery 
+(76) mechanical limb
+(85) receives radio waves
 
 *Brains*
 Other bonus - Increase learnable by one step.
 Other penalty- Reduce bones by one step.
-Mutations- (13) Uncovered brain, (28) abnormally large head, (56) inherited memories, (79) absent minded, (92) lethargic.
+Mutations- (13) Uncovered brain (28) abnormally large head 
+(56) inherited memories 
+(79) absent minded 
+(92) lethargic
 
 *Dryads*
 Other bonus - Increase subconscious by one step.
 Other penalty- Reduce initiative by one step.
-Mutations- (6) Elongated limbs, (20) leaves and bark, (42) poisonous blood, (59) altered perception, (61) photosynthesis.
+Mutations- (6) Elongated limbs (20) leaves and bark 
+(42) poisonous blood 
+(59) altered perception 
+(61) photosynthesis
 
 *Freaks*
 Other bonus - Increase first impression by one step.
 Other penalty - Reduce muscles by one step.
-Mutations- (37) Tinted skin, (43) hardened secretions, (44) breath smoke, (50) extra fingers, (70) hemophiliac.
+Mutations- (37) Tinted skin (43) hardened secretions 
+(44) breath smoke 
+(50) extra fingers 
+(70) hemophiliac
 
 *Immune*
 Mutations- None.
@@ -93,7 +66,11 @@ Other Negatives- None.
 *Leathernecks*
 Other bonus - Increase skin by one step.
 Other penalty- Reduce stored by one step.
-Mutations- (7) Hoofed feet, (12) horns, (40) leathery hide, (53) gigantic, (60) extra stomachs.
+Mutations- (7) Hoofed feet 
+(12) horns 
+(40) leathery hide 
+(53) gigantic 
+(60) extra stomachs.
 
 *Randoms*
 Other bonus - Roll a d8 to determine which attribute is increased by one step.
@@ -102,26 +79,71 @@ Mutations- Randoms have 1d10 mutations at creation that are rolled for randomly,
 
 *Red Herrings*
 Other bonus - Increase muscles by one step.
-Other penalty - {{reduce carry weight?  make less dexterous?}}
-Mutations- (8) Webbed hands and feet , (18) gills, (19) fish eyes, (41) scales, (58) air bladder.
+Other penalty - Reduce tendons by one step.
+Mutations- (8) Webbed hands and feet 
+(18) gills 
+(19) fish eyes 
+(41) scales 
+(58) air bladder
 
 *Secnits*
 Other bonus - Increase senses by one step.
 Other penalty - Reduce stored by one step.
-Mutations- (10) Extra limbs, (25) exoskeleton, (65) adhesion, (67) extra eyes, (91) wiry.
+Mutations- (10) Extra limbs (25) exoskeleton 
+(65) adhesion 
+(67) extra eyes 
+(91) wiry
 
 *Wretched*
 Other bonus - Increase initiative by one step.
 Other penalty - Reduce skin by one step.
-Mutations- (5) Cancerous, (6) elongated limbs, (14) solid ribcage, (24) abnormally shaped bones,  (90) double jointed.
+Mutations- (5) Cancerous 
+(6) elongated limbs 
+(14) solid ribcage 
+(24) abnormally shaped bones  (90) double jointed
+
+*Attribute Descriptions*
+Attributes are a mechanical way of representing a character’s natural self. Like all traits on a person, given enough time and work, you may improve them as high as you wish. 
+
+Bones are the things that keep you up. It is a measure of how much of physical damage you can take before it’s time for your dirt-nap. This is the one of two attribute that deals with the amount of damage your character can actually take before they become DOA.  It forms the first half of your will to fight and represents the physical damage you can endure before giving up.
+
+Muscles are the things that make you move. It is a measure of your strength and shows how
+much you can lift, carry, smash, and how much you hurt in melee combat. Macho buff people are rolling in this attribute. 
+
+Senses is the attribute that encompasses all five of your senses. It is the average of all of your senses, for simplicity sake they are lumped into one attribute. You may have one or more dominant sense, and one or more impaired sense, but this represents the your general awareness of the world around you.
+
+Tendons are what help your muscles move. It is a measure of your general dexterity. It shows how steady your hands are, how fast they are, and how good your reactions are. If you can dodge, dip, duck, and dive, then this is your attribute.
+
+Abstract is the measure of your ability to think differently and consider non-standard solutions.  It also allows you to see through verbal assaults and reinforces your mental will to fight.  Abstract makes up the second half of your will to fight which is the measure of how much verbal and physical damage you can take before giving up in a fight.
+
+Skin is what people notice first when they look at you. It represents your general appearance and how attractive you may appear to other people. Just remember, beauty is in the eye of the beholder.
+
+Stored is the measure of the information that you have in your head. If the stat is low, you are not stupid, you just don’t know too many facts about things. The higher it is, the more your brain resembles a library.
+
+Sub-Conscience is the measure of your instinct and intuition. It is the other part of your brain (the one you don’t think about too much) and it represents gut feelings and intuition.  It’s main use is to be used by players who are stuck and need help with what to do next or a character's ability to perform actions a character wouldn't normally be able to perform.
+
+So there is the brief description of your attributes. Next is assigning values to them.  The lowest an attribute can be is d2 and the highest it can be is d12.  The different steps of attributes are; d2, d4, d6, d8, d10, and d12.   No attribute can go lower than d2. In extreme situations attributes can go above d12 to d20, but typically this isn’t something that will happen.  
+When creating your character you can either roll randomly to determine your attributes or assign points to your attributes.
+
+To randomly determine your attributes roll a six sided die for each attribute.  Multiply the result of the roll by 2 and that is the number of sides on the die for the attribute.  For example, if you roll a 4 then you would have a d8 for the attribute.  You can either roll eight dice at once and the scores can be distributed as desired or each attribute can be rolled for one at a time in order.
+
+To assign your attributes start by setting all of your attributes to d6.  Next you have 5 attribute step increases you can spend.  Using one step you can increase your d6 attribute to a d8.  Using three step increases will improve your attribute to a d12.  Also if you need more step increases you can lower any attribute down to d4 or even d2.  You then can improve a different attribute by the number of steps you reduced the other attribute by.
+
+*Equivalent Attributes*
+Now that you know what your attributes are, you want to see how you compare to the rest of the world. Here’s a list that helps you with just that.
+d2 - Horrible- This is absolutely not one of your best points. It is as low as humanly (and inhumanly) possible. It might just be something that you may want to work on when you get some time on your hands.
+d4 Average Joe- You are about the same as most other people. You don’t stand out in the
+crowd in whatever attribute. You aren’t horrible with it and you won’t win much of anything for it.
+d6 - Average Champion- You are beginning to stand outside of the crowd. You are better than
+the next person, but when it comes to most adventurers and villains though you are just so-so.
+d10 - Great Champion- You are starting to become better at this. You have either gotten lucky, or you have been working to get this good for a long time. Either way, you stand out from the “run of the mill” person. Keep up the good work.
+d12 - Epic Champion- You are incredible. Stories about you are told to children, to fill them with a sense of wonder, or dread. that is up to your actions. But regardless, many know of your greatness, and give you your due respect (or fear).
+d20 Demigod- You are the greatest around. The ones that are up here with you, you could
+probably count on both hands. You have a notorious reputation of heroism, or terror that
+follows you where ever you travel.  Not normally an attribute you can achieve.
 
 *Derived Attributes*
 Next up since you have the attributes and mutations done, are the derived statistics. They are a little complex at first, but require little adjustment after you make your character.
-
-Will to Fight- Represents your character's investiment in combat in general.  Includes equal amounts of physical endurance combined with your mental relience.  Your will to fight equals,
-Highest number you can roll for your Bones plus the highest number you can roll for your Abstract.  Once you have both of those numbers combined, double it.  Because you're the main character and you need a pretty strong will to fight.
-
-Initiative- The place in the order of combat that your character takes. This derived attribute shows how aware you are of dangerous situations. It is determined by using whatever your senses die is.
 
 First Impression- Do you look like you came in dead last in a shovel fight by using your face to block? Can you make dogs whimpier just by looking at them? Or perhaps you make the angels themselves weep with joy
 for your face, launch a thousand ships with a sigh, or just get a lot of free drinks?  Well your physical appearance has everything to do with what people first think about. Your first impression can really shoot you in the foot, or save you from fighting in the first place. So here’s the first impressions.
@@ -136,6 +158,16 @@ stalkers.
 Carry Weight- How much stuff you can hold without extra effort.  If you exceed how much you can carry you'll be slowed down until you're so overburdened you can't move.
 You can carry a number weighty objects equal to the highest number you can roll for your muscles.
 
+Initiative- The place in the order of combat that your character takes. This derived attribute shows how aware you are of dangerous situations. It is determined by using whatever your senses die is.
+
+Actions- How many things you can do in one turn of combat. There is a minimum of one
+action for any character. Your actions are half of the highest roll you can get for your tendons.
+
+Will to Fight- Represents your character's investiment in combat in general.  Includes equal amounts of physical endurance combined with your mental relience.  Your will to fight equals, the highest number you can roll for your Bones plus the highest number you can roll for your Abstract. Once you have both of those numbers combined, double it.  Because you're the main character and you need a pretty strong will to fight.
+
+Intuition- The gut feelings of a character.  The player may either use a use of intuition to get advice from the myth maker or the the player can substitute their sub-conscience score for an attribute on any roll.  Each use returns after a good night's sleep.
+Your Intuition equals half of the highest number you can roll with your sub-conscience.
+
 Skill Cost- Learning new skills takes time and effort.  When investing in a new skill, some have a long and drawn out struggle.  Others pickup new skills without more than the minimum effort.  The cost of learning a new skill is based on how many skills you currently know multiplied by a number based on your learnable attribute.
 d2 Learnable- Number of skills x15 is the cost, in XP, of learning a new skill.
 d4 Learnable- Number of skills x10 is the cost, in XP, of learning a new skill.
@@ -146,12 +178,6 @@ d12 Learnable- Number of skills x2 is the cost, in XP, of learning a new skill.
 d20 Learnable- Number of skills x1 is the cost, in XP, of learning a new skill.
 
 Skills- Speaking of skills, characters have a few to get them through their adventures.  each character has a number of skills equal to the highest number they can roll on their stored die, divided in half.
-
-Intuition- The gut feelings of a character.  The player may either use a use of intuition to get advice from the myth maker or the the player can substitute their sub-conscience score for an attribute on any roll.  Each use returns after a good night's sleep.
-Your Intuition equals half of the highest number you can roll with your sub-conscience.
-
-Actions- How many things you can do in one turn of combat. There is a minimum of one
-action for any character. Your actions are half of the highest roll you can get for your tendons.
 
 Total Experience- Not an immersive 3D world, but the total of your character’s experience in this world. As you adventure, mishap, fight, run, live, and love you gain experience. It’s a way to
 represent how much your character has grown and matured over the course of their life. Total experience can never go down, unless you get amnesia or get on a soap opera. This number is only for compairison to other characters to see how skilled you are.
