@@ -1,5 +1,10 @@
 **Character Creation**
 
+FIXME 1st person intro
+-Ed intro 
+out of character introduction
+FIXME
+
 *Select strain*
 First your character needs to determine their stable genetic strain, or strain for short.  Between the plague killing off too many people and the syrum mutating most of the rest, many things had to change.  Once the plague settled down the world had a lot more diversity to it than it once did.  The syrum warped and twisted people to a cruel parody of what they once were.  Eventually it was noticed that there were some similarities between people.  Different groups began to band together and thus the strains begain to emerge.  These new strains began to band together for a myrid of reasons.  Comfort, protection, old habbits, the reason doesn't much matter.
 Strains serve as a template of common traits that have developed randomly as a result of the syrum.  Each strain gets specific mutations and an extra bonus as well as penality particular to that strain.  You can either select the strain you would like your character to start with or you can roll randomly for it.  For a random selection roll d12 then count through the options until you reach the number you rolled to randomize your strain.  Once you've found your stable genetic strain, make a note of the bonuses, penalties, and mutations from your strain. After that jot down a note or two about any other mutation effects.  Once that's all done, proceed to the attribute section to learn about and determine your attributes.  
@@ -17,7 +22,7 @@ Mutations- (34) Allergies
 (92) lethargic
 
 *Boars*
-Other bonus - FIXME free fighting skill FIXME
+Other bonus - Can pick either fighting or shooting as a free skill known.
 Other penalty - Reduce learnable by one step.
 Mutations- (15) Snout 
 (15) curly tail 
@@ -184,7 +189,7 @@ represent how much your character has grown and matured over the course of their
 
 Available Experience- This is the amount of experience your character has available to
 improve themself. Experience is spent on improving your character’s skills or attributes. After creation characters need to earn their experience yourself.
-Available- 100 to begin with
+You begin with 50 XP to work with.
 
 Skills
 Next you get to select your character's skills.  You should know your number of skills known by this point.  You either know a skill or you don't.  The following are the skills available for characters.
@@ -215,51 +220,78 @@ Driving- Operating motor vehicles, to persuading stuborn mules.  This skill incl
 Skill Equivalents
 Don't have the skill- You have a vauge idea of what to do and can probably fake-it until you make-it.
 Have the skill- You possess a pretty wide swath of knowledge in the given subject.  Though not perfect or all knowing, you are well versed in that area of study.
-XXX
-Spend starting xp
-Players start with a bunch of xp to spend.  Like 15 xp?
-Attributes are 5x number of sides you want on the die in combat to improve.
-Extra skill known costs the total number of skills you will have x3.
-Will to fight is 2 xp per additional point of will to fight
-Initiative 
-Carry weight add 1 extra weighty item for 15 xp.
-Assistance is 25 xp for each additional assistance.
 
-Select languages
+Languages
+Next you get to select a language.  Characters begin knowing the local language.  If you desire additional languages you can spend some of your available XP to learn additional languages or spend some role playing time and effort to learn.
+
 Local - collection of enough words, phrases, and colloquialisms to communicate clearly with most people in the area you are in.  Default language and one everyone should start with.
-Esperanto - a mix of most languages that should get you speaking with people from other areas
-Business - more of a way of speaking than a language.  Allows precise information to be snuck into very tough to follow conversations, unless you are also fluent in business.
-Tech - the language used to describe technological, mechanical, construction, and scientific things.  Covers theories, principals, particular parts, as well as aspects.
+
+Esperanto - a mix of parts of most languages known that should get you speaking with people from other areas without too many troubles. 
+
+Business - more of a way of speaking than a language.  Allows precise information to be snuck into very tough to follow conversations.  Unless you are also fluent in business.
+Tech - the language used to describe technological, mechanical, construction, and scientific things.  Mostly used to make fun of users behind their backs though.
+
 Sales - the language of deception, verbal feints, half truths, and persuasion.  You don’t need to know much about the thing you’re talking about, but you can talk circles around it all day long.
 
+Spend starting xp
+Players start with available XP to "spend."  New characters begin with 50 XP to use as they wish.  Any unspent XP may be kept until a good time to spend the XP comes up.  Spending XP when creating a character doesn't take any time or effort.  Once the game begins spending XP will require some time and effort, not adventuring, spent to improve your character.  the exact time and specific effort is up to the myth maker.
 
-Buy or pick starting equipment
-Characters start with either a fixed amount 75 coin to spend, 1d20x5 worth of coin, or a standard adventurers kit (light armor, crap melee, crap ranged, random odds and ends).
+To improve an attribute it will cost 5 times the number of sides on the attribute die currently.
 
-Fill in physical and mental details
-Name
-Cleanliness 
-Hair color
-Hair style
-Scars
-Tattoos/piercings
-Physical description
+To learn another skill you will need to check your skill cost of that particular derived attribute. 
 
-Player
-Gender
-Height
-Age
-Weight
-Eye color
-Stable genetic line
+Spending 2 XP will give you an additional point of will to fight without having to improve your abstract or bones attribute.
 
-Motivation to adventure
-Tragic backstory
-Personality
-Weaknesses
+Improving initiative costs the highest you can roll on your initiative currently times 3 in XP.
 
-Play the game
+Carry weight adds 1 extra weighty item for 15 xp.
 
-[insert Example Joe creation instructions here]
-[insert annotated character sheets for Example Joe as well as explanation]
+Assistance is 25 xp for each additional use.
+
+Learning a new language will cost you 25 XP to learn.  
+
+FIXME If you spend XP to improve a derrived attribute and then go on to increase the attribute that the derrived attribute is based on, the derrived attribute imcreases also. FIXME
+
+Now that all of the mechanics of your character are finished its time to fill in some personal details to describe your character.  It should be noted that the description should be for what is average for your character.  You aren't required to always look and behave as filled in.  Also these descriptions, just like any other attribute, can change over the course of a character's life.
+
+Name- What others should call you, your code name, titles, or whatever else should be used to designate your character.
+Cleanliness - How clean you keep yourself.  Do you insist on being pristine and sparkling, or are baths for sissies and you prefer to be able to smell yourself all the time?
+Hair color- What color does your hair normally look?  If its an unnatural color, how do you get it that way?
+Hair style- What is the normal shape of your hair?  Wavy, straight, non-Eucludian?  How do you get it into that shape?
+Scars- Do you have any scars?  If not, don't worry, you'll probably get some soon enough.  If so how did you get those scars?
+Tattoos/piercings- Have you anything afixed through your skin or forever etched upon it?  What is it, is there a story behind it, and what is it?
+Physical description- What are your prominant physical features?  If someone was describing you to a stranger, what would they say?
+
+Player- Who are you?  Not in a philosophical way, but what is your name as the player of this character.
+Gender- What's your gender?  If you have questions, uh, ask your parents.
+Height- How tall you are, either generally or precisely.  whichever you prefer.
+Age- How long you've been working at this living thing.
+Weight- You can be as general or specific about this as you'd like.
+Eye color- The color(s) of your eye(s).
+Stable genetic line- What your starting strain is or was.
+
+Motivation to adventure- Why do you leave the safety of your home to risk life and limb adventuring regularly?
+Tragic backstory- What is your backstory that led you to choose a life of adventuring and excitement over living a simple life?
+Personality- What is your personality generally like?  Do you consistently behave that way or is your personality constantly shifting based on your mood?
+Weaknesses- What are you vulnerable to?  Is it a sad story told by a pretty face?  terrible with money?  Do you have dependants depending on you?  Or is it bees?
+
+Once your character is full of statistics you should give your character some gear to start with.  You can either begin with cold hard cash and buy what you start with or you can select an adventerer starter pack which should have all you should need to begin with.
+
+If you choose the option for cold hard cash you can either go the safe route and start off with 35 coin to spend on whatever you'd like.  Those who would like to take a riskier approach can roll a d20 and multiply the result by 5 to get the starting coin ammount.
+
+If you would rather have an easier time, you can select an equipment pack.  There are 3 options to choose from.  The explorer pack is for those who love the thrill of discovery and searching the world.  The fighter pack is for those who like a good scuffle.  The final pack is for those who have the gift of gab.
+
+Explorer pack contents
+FIXME
+Fighter pack contents
+FIXME
+Talker pack contents
+FIXME
+
+FIXME example joe and jane characters, one random, one picked.
+FIXME
+
+You can find the filled out charaacter sheets for Example Joe and Example Jane at the back of the book.  There should also be a blank sheet and a few other pre-generated characters for your use.  There may also be electronic sheets found online at FIXME .
+
+The final step is to actually play the game.  Find someone to run the game for you and perhaps a few other friends to run with.
 
