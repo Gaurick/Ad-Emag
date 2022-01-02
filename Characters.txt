@@ -17,7 +17,8 @@ FIXME put mutation info and add total bonuses and penalties FIXME
 *Amoebas*
 Extra bonus - Double will to fight.
 Extra penalty - Reduce muscles by one step.
-Mutations- (34) Allergies 
+Mutations- 
+(34) Allergies 
 (35) plastic skin 
 (36) silicone flesh 
 (77) overactive stomach acid production 
@@ -26,7 +27,8 @@ Mutations- (34) Allergies
 *Boars*
 Other bonus - Can pick either fighting or shooting as a free known skill.
 Other penalty - Reduce learnable by one step.
-Mutations- (15) Snout 
+Mutations- 
+(15) Snout 
 (15) curly tail 
 (39) pigskin 
 (52) dwarfism 
@@ -35,7 +37,8 @@ Mutations- (15) Snout
 *'Bots*
 Other bonus - FIXME armor bonus or natural armor FIXME
 Other penalty - Reduce subconscious by one step.
-Mutations- (22) Metallic bones 
+Mutations- 
+(22) Metallic bones 
 (26) leaden skin 
 (51) natural battery 
 (76) mechanical limb
@@ -44,7 +47,9 @@ Mutations- (22) Metallic bones
 *Brains*
 Other bonus - Increase learnable by one step.
 Other penalty- Reduce bones by one step.
-Mutations- (13) Uncovered brain (28) abnormally large head 
+Mutations- 
+(13) Uncovered brain 
+(28) abnormally large head 
 (56) inherited memories 
 (79) absent minded 
 (92) lethargic
@@ -52,7 +57,9 @@ Mutations- (13) Uncovered brain (28) abnormally large head
 *Dryads*
 Other bonus - Increase subconscious by one step.
 Other penalty- Reduce initiative by one step.
-Mutations- (6) Elongated limbs (20) leaves and bark 
+Mutations- 
+(6) Elongated limbs 
+(20) leaves and bark 
 (42) poisonous blood 
 (59) altered perception 
 (61) photosynthesis
@@ -60,20 +67,23 @@ Mutations- (6) Elongated limbs (20) leaves and bark
 *Freaks*
 Other bonus - Increase first impression by one step.
 Other penalty - Reduce muscles by one step.
-Mutations- (37) Tinted skin (43) hardened secretions 
+Mutations- 
+(37) Tinted skin 
+(43) hardened secretions 
 (44) breath smoke 
 (50) extra fingers 
 (70) hemophiliac
 
 *Immune*
-Mutations- None.
 Other Bonuses- None.
 Other Negatives- None.
+Mutations- None.
 
 *Leathernecks*
 Other bonus - Increase skin by one step.
 Other penalty- Reduce stored by one step.
-Mutations- (7) Hoofed feet 
+Mutations- 
+(7) Hoofed feet 
 (12) horns 
 (40) leathery hide 
 (53) gigantic 
@@ -87,7 +97,8 @@ Mutations- Randoms have 1d10 mutations at creation that are rolled for randomly,
 *Red Herrings*
 Other bonus - Increase muscles by one step.
 Other penalty - Reduce tendons by one step.
-Mutations- (8) Webbed hands and feet 
+Mutations- 
+(8) Webbed hands and feet 
 (18) gills 
 (19) fish eyes 
 (41) scales 
@@ -96,7 +107,8 @@ Mutations- (8) Webbed hands and feet
 *Secnits*
 Other bonus - Increase senses by one step.
 Other penalty - Reduce stored by one step.
-Mutations- (10) Extra limbs 
+Mutations- 
+(10) Extra limbs 
 (25) exoskeleton 
 (65) adhesion 
 (67) extra eyes 
@@ -105,7 +117,8 @@ Mutations- (10) Extra limbs
 *Wretched*
 Other bonus - Increase initiative by one step.
 Other penalty - Reduce skin by one step.
-Mutations- (5) Cancerous 
+Mutations- 
+(5) Cancerous 
 (6) elongated limbs 
 (14) solid ribcage 
 (24) abnormally shaped bones  
@@ -246,6 +259,8 @@ Assistance is 25 xp for each additional use.
 Learning a new language will cost you 25 XP to learn.  
 
 Improving an attribute improves any derived attribute tied to that attribute.  If you improve a derived then improve the attribute it's tied to, then you would improve it normally, including the previous improvement to just the derived attribute.
+
+If you need to create a character that isn't just starting out, perhaps due to untimely death or adventure specifics, then the myth maker will let you know how much XP you have for both your total and your available XP.  After that you'd spend the per usual.  The myth maker will also let you know if you start with any additionalcoin to purchase supplies.
 
 Now that all of the mechanics of your character are finished its time to fill in some personal details to describe your character.  It should be noted that the description should be for what is average for your character.  You aren't required to always look and behave as filled in.  Also these descriptions, just like any other attribute, can change over the course of a character's life.
 
